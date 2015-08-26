@@ -17,6 +17,7 @@ int main()
     //we create the set we will be using
     //taken from the assignment brief
     network.createSet();
+    network.runAlgorithm(0.1);
 
 
     cout << "Program ended normally..." << endl;

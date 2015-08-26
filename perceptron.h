@@ -25,6 +25,7 @@ public:
     float recalculateWeight4();
 
     void setTarget(int target);
+    void setOutput(int value);
 
 
     //VARS//

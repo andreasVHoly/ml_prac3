@@ -12,14 +12,16 @@ public:
 
     //methods
     void createSet();
-    void runAlgorithm();
-
+    void runAlgorithm(float learningRate);
+    float getRandomValue();
 
 
 
     //variables
     bool debug = false;
     TestSet testSet = TestSet(4);
+    int noOfSets;
+
 
 
 
