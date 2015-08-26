@@ -16,28 +16,20 @@ public:
     //METHODS//
 
     float getResult();
-    void setInputs(int input1, int input2);
-    void setWeights(float weight0, float weight1, float weight2);
+    void setInputs(int input1, int input2, int input3, int input4);
+    void setWeights(float weight0, float weight1, float weight2, float weight3, float weight4);
 
     float recalculateWeight1();
     float recalculateWeight2();
+    float recalculateWeight3();
+    float recalculateWeight4();
 
-    //SETTERS//
-    void setWeight(float value);
-    void setLearningRate(float rate);
     void setTarget(int target);
-    void setInput(int input);
-    void setOutput(int output);
-    //GETTERS//
-    float getWeight();
-    float getLearningRate();
-    int getTarget();
-    int getInput();
-    int getOutput();
+
 
     //VARS//
-    float weight0, weight1, weight2, learningRate, result;
-    int target, input1, input2, output;
+    float weight0, weight1, weight2, weight3, weight4, learningRate, result;
+    int target, input1, input2, input3, input4, output;
 
 };
 

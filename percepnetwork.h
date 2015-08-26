@@ -10,13 +10,17 @@ class PercepNetwork
 {
 public:
 
-
+    //methods
     void createSet();
+    void runAlgorithm();
 
+
+
+
+    //variables
+    bool debug = false;
     TestSet testSet = TestSet(4);
 
-
-    bool debug = false;
 
 
 };

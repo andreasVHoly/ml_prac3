@@ -10,42 +10,46 @@ using namespace std;
 
 float Perceptron::recalculateWeight1(){
     weight1 += (learningRate * input1 * target);
-    //cout << "new weight2 is " << weight1 << endl;
     return weight1;
 }
 
 float Perceptron::recalculateWeight2(){
     weight2 += (learningRate * input2 * target);
-    //cout << "new weight2 is " << weight2 << endl;
     return weight2;
+}
+
+float Perceptron::recalculateWeight3(){
+    weight3 += (learningRate * input3 * target);
+    return weight3;
+}
+
+float Perceptron::recalculateWeight4(){
+    weight4 += (learningRate * input4 * target);
+    return weight4;
 }
 
 float Perceptron::getResult(){
 
-    result = weight0 + weight1*input1 + weight2*input2;
-    //cout << "result is " << result << endl;
+    result = weight0 + weight1*input1 + weight2*input2 + weight3*input3 + weight4*input4;
     return result;
 
 }
 
 
-
-
-void Perceptron::setWeights(float weight0, float weight1, float weight2){
+void Perceptron::setWeights(float weight0, float weight1, float weight2, float weight3, float weight4){
     this->weight0 = weight0;
     this->weight1 = weight1;
     this->weight2 = weight2;
-    //cout << "weight0  set to " << this->weight0 << endl;
-    //cout << "weight1  set to " << this->weight1 << endl;
-    //cout << "weight2  set to " << this->weight2 << endl;
+    this->weight2 = weight3;
+    this->weight2 = weight4;
+
 }
 
-void Perceptron::setInputs(int input1, int input2){
+void Perceptron::setInputs(int input1, int input2, int input3, int input4){
     this->input1 = input1;
     this->input2 = input2;
-//    cout << "input1  set to " << this->input1 << endl;
-//    cout << "input2  set to " << this->input2 << endl;
-
+    this->input3 = input3;
+    this->input4 = input4;
 }
 
 
