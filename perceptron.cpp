@@ -44,8 +44,8 @@ void Perceptron::setWeights(float weight0, float weight1, float weight2, float w
     this->weight0 = weight0;
     this->weight1 = weight1;
     this->weight2 = weight2;
-    this->weight2 = weight3;
-    this->weight2 = weight4;
+    this->weight3 = weight3;
+    this->weight4 = weight4;
 
 }
 

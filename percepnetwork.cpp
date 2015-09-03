@@ -23,7 +23,7 @@ void PercepNetwork::runAlgorithm(float learningRate){
 //    float weight3 = getRandomValue();
 //    float weight4 = getRandomValue();
 
-    float weight0 = -1;
+    float weight0 = 0;
     float weight1 = 0;
     float weight2 = 0;
     float weight3 = 0;
@@ -36,7 +36,6 @@ void PercepNetwork::runAlgorithm(float learningRate){
         for (int i = 0; i < noOfSets; i++){
             //assign the previous output
             perceptron.setOutput(results[i]);
-            cout << "result set to " << results[i] << endl;
             //assign the correct target
             perceptron.setTarget(testSet.sets[i].output);
             cout << "target set to " << testSet.sets[i].output << endl;
@@ -62,10 +61,12 @@ void PercepNetwork::runAlgorithm(float learningRate){
             }
 
 
+            cout << "result set to " << results[i] << endl;
         }
         //check if the target is learnt
         int error = noOfSets;
         for (int j = 0; j < noOfSets; j++){
+            cout << "results: " << testSet.sets[j].output << " vs " << results[j] << endl;
             if (testSet.sets[j].output == results[j]){
                 //decrease counter if we have a test set right
                 error--;

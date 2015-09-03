@@ -18,6 +18,13 @@ makefile
 
 Answers to Questions:
 
+Q1:
+
+It took 2 iterations to reach and error of 0.
+
+Q2:
+
+
 Instructions:
 
 1. In command window go to the directory with the files in.
