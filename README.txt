@@ -20,15 +20,18 @@ Answers to Questions:
 
 Q1:
 
-It took 2 iterations to reach and error of 0.
+It took 1 iteration to reach and error of 0.
 
 Q2:
 
+The alogirhtm also took 1 iteration with a threshold function.
 
 Instructions:
 
 1. In command window go to the directory with the files in.
 2. Type 'make' to build the files.
-3. Type 'make run' to run the program and sufficient output will show up.
-4. Type 'make clean' to clean compiled files.
+3. Type 'make run' to run the program.
+4. When prompted type either 'a' to use the activation function or 't' to use the threshold function.
+5. Wait for the program to output and finish.
+6. Type 'make clean' to clean compiled files.
 

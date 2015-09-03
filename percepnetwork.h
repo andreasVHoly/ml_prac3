@@ -12,7 +12,7 @@ public:
 
     //methods
     void createSet();
-    void runAlgorithm(float learningRate);
+    void runAlgorithm(float learningRate, bool thresh);
     float getRandomValue();
 
 

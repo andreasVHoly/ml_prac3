@@ -10,18 +10,18 @@ namespace vhland002{
 
 
 
-void PercepNetwork::runAlgorithm(float learningRate){
+void PercepNetwork::runAlgorithm(float learningRate, bool threshold){
     using namespace std;
     int results[4] = {0,0,0,0};
 
     Perceptron perceptron(learningRate);
 
-    //assign random values to teh weights
-    //float weight0 = getRandomValue();
-//    float weight1 = getRandomValue();
-//    float weight2 = getRandomValue();
-//    float weight3 = getRandomValue();
-//    float weight4 = getRandomValue();
+    if (threshold){
+        cout << "\nRunning algorithm with threshold function..." << endl << endl;
+    }
+    else{
+        cout << "\nRunning algorithm with activation function..." << endl << endl;
+    }
 
     float weight0 = 0;
     float weight1 = 0;
@@ -30,21 +30,18 @@ void PercepNetwork::runAlgorithm(float learningRate){
     float weight4 = 0;
 
     int iteration = 1;
-    while(true /*&& iteration < 10*/){
+    while(true){
         //loop through all the sets
-        cout << endl << "*Iteration " << iteration << endl << endl;
+        cout << endl << "***Iteration " << iteration << endl << endl;
         for (int i = 0; i < noOfSets; i++){
             //assign the previous output
             perceptron.setOutput(results[i]);
             //assign the correct target
             perceptron.setTarget(testSet.sets[i].output);
-            cout << "target set to " << testSet.sets[i].output << endl;
             //assign the inputs
-            perceptron.setInputs(testSet.sets[i].input1,testSet.sets[i].input2,testSet.sets[i].input3,testSet.sets[i].input4);
-            cout << "inputs set to " << testSet.sets[i].input1 << " , " << testSet.sets[i].input2 << " , " << testSet.sets[i].input3 << " , " << testSet.sets[i].input4 << endl;
+            perceptron.setInputs(testSet.sets[i].input1,testSet.sets[i].input2,testSet.sets[i].input3,testSet.sets[i].input4);       
             //assign the weights
             perceptron.setWeights(weight0,weight1,weight2,weight3,weight4);
-            cout << "weights set to " << weight0 << " , " << weight1 << " , " << weight2 << " , " << weight3 << " , " << weight4 << endl;
             //recaulculate the weights with the weighting rule
             weight1 = perceptron.recalculateWeight1();
             weight2 = perceptron.recalculateWeight2();
@@ -56,30 +53,43 @@ void PercepNetwork::runAlgorithm(float learningRate){
             if (perceptron.getResult() > 0){
                 results[i] = 1;
             }
+            //using the threshold function
+            else if(threshold){
+                results[i] = 0;
+            }
+            //using the activation function
             else{
                 results[i] = -1;
             }
 
 
-            cout << "result set to " << results[i] << endl;
         }
         //check if the target is learnt
         int error = noOfSets;
+        cout << "Algorithm Results:\nx1\tx2\tx3\tx4\n";
         for (int j = 0; j < noOfSets; j++){
-            cout << "results: " << testSet.sets[j].output << " vs " << results[j] << endl;
-            if (testSet.sets[j].output == results[j]){
+            cout << results[j] << "\t";
+            //if we are using the activation function or if we are using the threshold function (0 means a negative (-1) result)
+            if (testSet.sets[j].output == results[j] || (testSet.sets[j].output == -1 && results[j] == 0)){
                 //decrease counter if we have a test set right
                 error--;
             }
         }
-        iteration++;
+        cout << "\nTarget Results:\nx1\tx2\tx3\tx4\n";
+        for (int k = 0; k < noOfSets; k++){
+            cout << testSet.sets[k].output << "\t";
+        }
+        cout << endl;
+
         //break out of the while loop if we have all sets correct
         if (error == 0){
-            cout << "Algorithm took " << iteration << " iterations." << endl;
+            cout << "\nAlgorithm took " << iteration << " iterations." << endl;
             break;
         }
+        iteration++;
 
     }
+    cout << endl;
 }
 
 

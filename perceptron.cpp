@@ -10,31 +10,26 @@ using namespace std;
 
 float Perceptron::recalculateWeight1(){
     weight1 += (learningRate * input1 * (target - output));
-    //weight1 += (learningRate * input1 * target);
     return weight1;
 }
 
 float Perceptron::recalculateWeight2(){
     weight2 += (learningRate * input2 * (target - output));
-    //weight2 += (learningRate * input2 * target);
     return weight2;
 }
 
 float Perceptron::recalculateWeight3(){
-    //weight3 += (learningRate * input3 * target);
     weight3 += (learningRate * input3 * (target - output));
     return weight3;
 }
 
 float Perceptron::recalculateWeight4(){
     weight4 += (learningRate * input4 * (target - output));
-    //weight4 += (learningRate * input4 * target);
     return weight4;
 }
 
 float Perceptron::getResult(){
     result = weight0 + weight1*input1 + weight2*input2 + weight3*input3 + weight4*input4;
-    std:: cout << "*result " << result << std::endl;
     return result;
 
 }
