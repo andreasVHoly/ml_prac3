@@ -12,7 +12,7 @@ namespace vhland002{
 
 void PercepNetwork::runAlgorithm(float learningRate, bool threshold){
     using namespace std;
-    int results[4] = {0,0,0,0};
+    float results[4] = {0.0f,0.0f,0.0f,0.0f};
 
     Perceptron perceptron(learningRate);
 
@@ -46,7 +46,7 @@ void PercepNetwork::runAlgorithm(float learningRate, bool threshold){
             //assign the inputs
             perceptron.setInputs(testSet.sets[i].input1,testSet.sets[i].input2,testSet.sets[i].input3,testSet.sets[i].input4);       
             //assign the weights
-
+            //perceptron.setWeights(weight0,weight1,weight2,weight3,weight4);
             //recaulculate the weights with the weighting rule
             weight1 = perceptron.recalculateWeight1();
             weight2 = perceptron.recalculateWeight2();
@@ -57,9 +57,32 @@ void PercepNetwork::runAlgorithm(float learningRate, bool threshold){
             cout << "w2: " << weight2 << endl;
             cout << "w3: " << weight3 << endl;
             cout << "w4: " << weight4 << endl;
+
+
             perceptron.setWeights(weight0,weight1,weight2,weight3,weight4);
             //we check what result we got
 
+
+            if(threshold){
+                if (perceptron.getResult() > 0){
+                    results[i] = 1;
+                }
+                //using the threshold function
+                else {
+                    results[i] = -1;
+                }
+            }
+            else{
+                results[i] = perceptron.getResult();
+                if(results[i] == 0.999999){
+                    results[i] = 1;
+                }
+                else if(results[i] == -0.999999){
+                    results[i] = -1;
+                }
+            }
+
+/*
             if (perceptron.getResult() > 0){
                 results[i] = perceptron.getResult();
                 //results[i] = 1;
@@ -75,19 +98,27 @@ void PercepNetwork::runAlgorithm(float learningRate, bool threshold){
                 results[i] = perceptron.getResult();
             }
 
-
+*/
         }
         //check if the target is learnt
         int error = noOfSets;
         cout << "Algorithm Results:\nx1\tx2\tx3\tx4\n";
+
+
+
+
         for (int j = 0; j < noOfSets; j++){
             cout << results[j] << "\t";
             //if we are using the activation function or if we are using the threshold function (0 means a negative (-1) result)
-            if (testSet.sets[j].output == results[j] || (threshold && testSet.sets[j].output == -1 && results[j] == 0)){
+            if (testSet.sets[j].output == results[j]){
                 //decrease counter if we have a test set right
+                //cout << "decreased" << endl;
                 error--;
             }
         }
+
+
+
         cout << "\nTarget Results:\nx1\tx2\tx3\tx4\n";
         for (int k = 0; k < noOfSets; k++){
             cout << testSet.sets[k].output << "\t";
@@ -109,12 +140,6 @@ void PercepNetwork::runAlgorithm(float learningRate, bool threshold){
 
 
 
-float PercepNetwork::getRandomValue(){
-    srand(time(0));
-    double value = rand() % 1000;//random number
-    float weight = value/1000.0f;
-    return weight;
-}
 
 
 

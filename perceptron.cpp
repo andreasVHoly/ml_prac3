@@ -44,7 +44,7 @@ void Perceptron::setWeights(float weight0, float weight1, float weight2, float w
 
 }
 
-void Perceptron::setInputs(int input1, int input2, int input3, int input4){
+void Perceptron::setInputs(float input1, float input2, float input3, float input4){
     this->input1 = input1;
     this->input2 = input2;
     this->input3 = input3;
@@ -52,11 +52,11 @@ void Perceptron::setInputs(int input1, int input2, int input3, int input4){
 }
 
 
-void Perceptron::setTarget(int target){
+void Perceptron::setTarget(float target){
     this->target = target;
 }
 
-void Perceptron::setOutput(int value){
+void Perceptron::setOutput(float value){
     this->output = value;
 }
 
