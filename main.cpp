@@ -11,7 +11,7 @@ int main()
     using namespace vhland002;
     while(true){
         cout << "Program started..." << endl;
-        cout << "Run program with activation function (a) or threshold function (t)?\n>";
+        cout << "Run program with activation function (a) or threshold function (t)?(x to exit)\n>";
         char input;
         cin >>  input;
 
@@ -27,9 +27,11 @@ int main()
         else if (input == 't'){
             network.runAlgorithm(0.1,true);
         }
+        else if (input == 'x'){
+            break;
+        }
         else{
             cout << "Invalid input please try again." << endl;
-            break;
         }
 
 

@@ -33,5 +33,6 @@ Instructions:
 3. Type 'make run' to run the program.
 4. When prompted type either 'a' to use the activation function or 't' to use the threshold function.
 5. Wait for the program to output and finish.
-6. Type 'make clean' to clean compiled files.
+6. Type x to exit.
+7. Type 'make clean' to clean compiled files.
 

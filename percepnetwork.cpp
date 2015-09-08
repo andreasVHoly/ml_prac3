@@ -47,7 +47,7 @@ void PercepNetwork::runAlgorithm(float learningRate, bool threshold){
             //assign the inputs
             perceptron.setInputs(testSet.sets[i].input1,testSet.sets[i].input2,testSet.sets[i].input3,testSet.sets[i].input4);       
             //assign the weights
-            perceptron.setWeights(weight0,weight1,weight2,weight3,weight4);
+            //perceptron.setWeights(weight0,weight1,weight2,weight3,weight4);//317/1
             //recaulculate the weights with the weighting rule
             weight1 = perceptron.recalculateWeight1();
             weight2 = perceptron.recalculateWeight2();
@@ -55,7 +55,7 @@ void PercepNetwork::runAlgorithm(float learningRate, bool threshold){
             weight4 = perceptron.recalculateWeight4();
 
 
-            //perceptron.setWeights(weight0,weight1,weight2,weight3,weight4);
+            perceptron.setWeights(weight0,weight1,weight2,weight3,weight4);//315/6
             //we check what result we got
 
 
