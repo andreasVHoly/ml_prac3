@@ -20,11 +20,12 @@ Answers to Questions:
 
 Q1:
 
-It took 313 iteration to reach and error of 0.
+It took 204 iteration to reach and error of 0.
 
 Q2:
 
-The alogirhtm took 10 iteration with a threshold function.
+The alogirhtm took 6 iterations with a threshold function to reach and error of 0. 
+It is achieved in less iterations as we come closer to the desired values faster as we automatically round values at each step to 1 or -1.
 
 Instructions:
 

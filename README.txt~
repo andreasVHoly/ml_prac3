@@ -20,11 +20,11 @@ Answers to Questions:
 
 Q1:
 
-It took 313 iteration to reach and error of 0.
+It took 204 iteration to reach and error of 0.
 
 Q2:
 
-The alogirhtm took 1 iteration with a threshold function.
+The alogirhtm took 6 iterations with a threshold function to reach and error of 0.
 
 Instructions:
 
@@ -33,5 +33,6 @@ Instructions:
 3. Type 'make run' to run the program.
 4. When prompted type either 'a' to use the activation function or 't' to use the threshold function.
 5. Wait for the program to output and finish.
-6. Type 'make clean' to clean compiled files.
+6. Type x to exit.
+7. Type 'make clean' to clean compiled files.
 

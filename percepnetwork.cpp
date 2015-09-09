@@ -14,21 +14,21 @@ namespace vhland002{
 void PercepNetwork::runAlgorithm(float learningRate, bool threshold){
     using namespace std;
     float results[4] = {0.0f,0.0f,0.0f,0.0f};
-
+    string fileName;
     Perceptron perceptron(learningRate);
+    ofstream outFile;
 
     if (threshold){
         cout << "\nRunning algorithm with threshold function..." << endl << endl;
+        fileName = "threshold.txt";
     }
     else{
         cout << "\nRunning algorithm with activation function..." << endl << endl;
+        fileName = "linear.txt";
     }
+    outFile.open(fileName.c_str());
 
-//    float weight0 = -1;
-//    float weight1 = -1;
-//    float weight2 = -1;
-//    float weight3 = -1;
-//    float weight4 = -1;
+    //weight init
     float weight0 = 0;
     float weight1 = 0;
     float weight2 = 0;
@@ -47,18 +47,10 @@ void PercepNetwork::runAlgorithm(float learningRate, bool threshold){
             //assign the inputs
             perceptron.setInputs(testSet.sets[i].input1,testSet.sets[i].input2,testSet.sets[i].input3,testSet.sets[i].input4);       
             //assign the weights
-            //perceptron.setWeights(weight0,weight1,weight2,weight3,weight4);//317/1
-            //recaulculate the weights with the weighting rule
-            weight1 = perceptron.recalculateWeight1();
-            weight2 = perceptron.recalculateWeight2();
-            weight3 = perceptron.recalculateWeight3();
-            weight4 = perceptron.recalculateWeight4();
-
-
             perceptron.setWeights(weight0,weight1,weight2,weight3,weight4);//315/6
             //we check what result we got
 
-
+            //if we are using the threshold function
             if(threshold){
                 if (perceptron.getResult() > 0){
                     results[i] = 1;
@@ -69,7 +61,15 @@ void PercepNetwork::runAlgorithm(float learningRate, bool threshold){
                 }
             }
             else{
-                results[i] = round(perceptron.getResult()*1000000)/1000000;
+                //we round the value off at 6 decimal places
+                results[i] = roundf(perceptron.getResult()*1000000)/1000000;
+            }
+            //if the result is not right we recalculate the weights
+            if (results[i] != testSet.sets[i].output){
+                weight1 = perceptron.recalculateWeight1();
+                weight2 = perceptron.recalculateWeight2();
+                weight3 = perceptron.recalculateWeight3();
+                weight4 = perceptron.recalculateWeight4();
             }
 
 
@@ -77,9 +77,6 @@ void PercepNetwork::runAlgorithm(float learningRate, bool threshold){
         //check if the target is learnt
         int error = noOfSets;
         cout << "Algorithm Results:\nx1\tx2\tx3\tx4\n";
-
-
-
 
         for (int j = 0; j < noOfSets; j++){
             cout << results[j] << "\t";
@@ -104,6 +101,7 @@ void PercepNetwork::runAlgorithm(float learningRate, bool threshold){
             cout << "\nAlgorithm took " << iteration << " iterations." << endl;
             break;
         }
+	
         iteration++;
 
     }

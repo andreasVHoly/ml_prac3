@@ -4,6 +4,7 @@
 #include "testset.h"
 #include "perceptron.h"
 #include "set.h"
+#include "fstream"
 
 namespace vhland002{
 class PercepNetwork
@@ -13,7 +14,6 @@ public:
     //methods
     void createSet();
     void runAlgorithm(float learningRate, bool thresh);
-
 
 
     //variables
