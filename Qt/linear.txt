@@ -606,7 +606,7 @@ Weight1: -0.679351
 Weight2: -0.679141
 Weight3: 1.4307
 Weight4: 0.611324
-Output: 0.683534
+Output: 0.683533
 Error: True
 
 
@@ -714,9 +714,9 @@ Error: True
 
 Training Set: 2
 Weight1: -0.743204
-Weight2: -0.743236
+Weight2: -0.743235
 Weight3: 1.54386
-Weight4: 0.688342
+Weight4: 0.688343
 Output: 0.745759
 Error: True
 
@@ -741,7 +741,7 @@ Error: True
 Iteration: 21
 
 Training Set: 1
-Weight1: -0.786694
+Weight1: -0.786693
 Weight2: -0.735878
 Weight3: 1.55121
 Weight4: 0.735878
@@ -772,7 +772,7 @@ Weight1: -0.778242
 Weight2: -0.778275
 Weight3: 1.55967
 Weight4: 0.778275
-Output: -0.781358
+Output: -0.781357
 Error: True
 
 Iteration: 22
@@ -809,14 +809,14 @@ Weight1: -0.794146
 Weight2: -0.794167
 Weight3: 1.59087
 Weight4: 0.794167
-Output: -0.796683
+Output: -0.796682
 Error: True
 
 Iteration: 23
 
 Training Set: 1
 Weight1: -0.81601
-Weight2: -0.772303
+Weight2: -0.772302
 Weight3: 1.61273
 Weight4: 0.772302
 Output: 0.796723
@@ -834,7 +834,7 @@ Error: True
 
 Training Set: 3
 Weight1: -0.772295
-Weight2: -0.772303
+Weight2: -0.772302
 Weight3: 1.65645
 Weight4: 0.772302
 Output: -0.660451
@@ -861,8 +861,8 @@ Error: True
 
 
 Training Set: 2
-Weight1: -0.808916
-Weight2: -0.808916
+Weight1: -0.808917
+Weight2: -0.808915
 Weight3: 1.66049
 Weight4: 0.76826
 Output: 0.810919
@@ -890,7 +890,7 @@ Iteration: 25
 
 Training Set: 1
 Weight1: -0.841453
-Weight2: -0.803634
+Weight2: -0.803633
 Weight3: 1.66577
 Weight4: 0.803633
 Output: 0.82432
@@ -899,7 +899,7 @@ Error: True
 
 Training Set: 2
 Weight1: -0.822545
-Weight2: -0.822542
+Weight2: -0.822541
 Weight3: 1.68468
 Weight4: 0.784725
 Output: 0.82432
@@ -908,7 +908,7 @@ Error: True
 
 Training Set: 3
 Weight1: -0.803637
-Weight2: -0.803634
+Weight2: -0.803633
 Weight3: 1.70359
 Weight4: 0.803633
 Output: -0.707314
@@ -916,11 +916,11 @@ Error: True
 
 
 Training Set: 4
-Weight1: -0.835142
+Weight1: -0.835143
 Weight2: -0.835139
 Weight3: 1.67208
 Weight4: 0.835139
-Output: -0.836949
+Output: -0.83695
 Error: True
 
 Iteration: 26
@@ -954,38 +954,38 @@ Error: True
 
 Training Set: 4
 Weight1: -0.846843
-Weight2: -0.84684
+Weight2: -0.846839
 Weight3: 1.69552
 Weight4: 0.84684
-Output: -0.848683
+Output: -0.848684
 Error: True
 
 Iteration: 27
 
 Training Set: 1
 Weight1: -0.863148
-Weight2: -0.830535
+Weight2: -0.830534
 Weight3: 1.71182
 Weight4: 0.830535
-Output: 0.848677
+Output: 0.848676
 Error: True
 
 
 Training Set: 2
 Weight1: -0.846842
-Weight2: -0.846841
+Weight2: -0.84684
 Weight3: 1.72813
 Weight4: 0.814229
-Output: 0.848676
+Output: 0.848677
 Error: True
 
 
 Training Set: 3
 Weight1: -0.830536
-Weight2: -0.830535
+Weight2: -0.830534
 Weight3: 1.74444
 Weight4: 0.830535
-Output: -0.74717
+Output: -0.747169
 Error: True
 
 
@@ -1004,13 +1004,13 @@ Weight1: -0.872875
 Weight2: -0.84261
 Weight3: 1.73236
 Weight4: 0.84261
-Output: 0.859486
+Output: 0.859485
 Error: True
 
 
 Training Set: 2
 Weight1: -0.857743
-Weight2: -0.857743
+Weight2: -0.857742
 Weight3: 1.74749
 Weight4: 0.827478
 Output: 0.859485
@@ -1018,7 +1018,7 @@ Error: True
 
 
 Training Set: 3
-Weight1: -0.842611
+Weight1: -0.84261
 Weight2: -0.84261
 Weight3: 1.76263
 Weight4: 0.84261
@@ -1031,7 +1031,7 @@ Weight1: -0.867894
 Weight2: -0.867893
 Weight3: 1.73734
 Weight4: 0.867893
-Output: -0.86945
+Output: -0.869449
 Error: True
 
 Iteration: 29
@@ -1041,13 +1041,13 @@ Weight1: -0.881945
 Weight2: -0.853842
 Weight3: 1.75139
 Weight4: 0.853842
-Output: 0.869449
+Output: 0.869448
 Error: True
 
 
 Training Set: 2
 Weight1: -0.867893
-Weight2: -0.867893
+Weight2: -0.867894
 Weight3: 1.76544
 Weight4: 0.839791
 Output: 0.869449
@@ -1059,13 +1059,13 @@ Weight1: -0.853842
 Weight2: -0.853842
 Weight3: 1.7795
 Weight4: 0.853842
-Output: -0.782029
+Output: -0.78203
 Error: True
 
 
 Training Set: 4
 Weight1: -0.877321
-Weight2: -0.877321
+Weight2: -0.877322
 Weight3: 1.75602
 Weight4: 0.877322
 Output: -0.878695
@@ -1077,14 +1077,14 @@ Training Set: 1
 Weight1: -0.890376
 Weight2: -0.864266
 Weight3: 1.76907
-Weight4: 0.864267
+Weight4: 0.864266
 Output: 0.878696
 Error: True
 
 
 Training Set: 2
 Weight1: -0.877321
-Weight2: -0.877321
+Weight2: -0.877322
 Weight3: 1.78213
 Weight4: 0.851211
 Output: 0.878696
@@ -1093,25 +1093,25 @@ Error: True
 
 Training Set: 3
 Weight1: -0.864266
-Weight2: -0.864266
+Weight2: -0.864267
 Weight3: 1.79518
-Weight4: 0.864267
+Weight4: 0.864266
 Output: -0.797617
 Error: True
 
 
 Training Set: 4
 Weight1: -0.886063
-Weight2: -0.886063
+Weight2: -0.886064
 Weight3: 1.77339
-Weight4: 0.886064
+Weight4: 0.886063
 Output: -0.887321
 Error: True
 
 Iteration: 31
 
 Training Set: 1
-Weight1: -0.898194
+Weight1: -0.898193
 Weight2: -0.873933
 Weight3: 1.78552
 Weight4: 0.873933
@@ -1123,7 +1123,7 @@ Training Set: 2
 Weight1: -0.886063
 Weight2: -0.886063
 Weight3: 1.79765
-Weight4: 0.861803
+Weight4: 0.861802
 Output: 0.887322
 Error: True
 
@@ -1133,7 +1133,7 @@ Weight1: -0.873933
 Weight2: -0.873933
 Weight3: 1.80978
 Weight4: 0.873933
-Output: -0.812023
+Output: -0.812022
 Error: True
 
 
@@ -1142,7 +1142,7 @@ Weight1: -0.894171
 Weight2: -0.894171
 Weight3: 1.78954
 Weight4: 0.894171
-Output: -0.895367
+Output: -0.895366
 Error: True
 
 Iteration: 32
@@ -1151,7 +1151,7 @@ Training Set: 1
 Weight1: -0.905439
 Weight2: -0.882903
 Weight3: 1.80081
-Weight4: 0.882904
+Weight4: 0.882903
 Output: 0.895367
 Error: True
 
@@ -1160,7 +1160,7 @@ Training Set: 2
 Weight1: -0.894171
 Weight2: -0.894171
 Weight3: 1.81207
-Weight4: 0.871636
+Weight4: 0.871635
 Output: 0.895367
 Error: True
 
@@ -1169,8 +1169,8 @@ Training Set: 3
 Weight1: -0.882903
 Weight2: -0.882903
 Weight3: 1.82334
-Weight4: 0.882904
-Output: -0.825369
+Weight4: 0.882903
+Output: -0.825368
 Error: True
 
 
@@ -1179,7 +1179,7 @@ Weight1: -0.901701
 Weight2: -0.901701
 Weight3: 1.80454
 Weight4: 0.901701
-Output: -0.902843
+Output: -0.902842
 Error: True
 
 Iteration: 33
@@ -1189,7 +1189,7 @@ Weight1: -0.912164
 Weight2: -0.891238
 Weight3: 1.81501
 Weight4: 0.891238
-Output: 0.902842
+Output: 0.902843
 Error: True
 
 
@@ -1197,8 +1197,8 @@ Training Set: 2
 Weight1: -0.901701
 Weight2: -0.901701
 Weight3: 1.82547
-Weight4: 0.880775
-Output: 0.902843
+Weight4: 0.880774
+Output: 0.902842
 Error: True
 
 
@@ -1234,8 +1234,8 @@ Training Set: 2
 Weight1: -0.908701
 Weight2: -0.908701
 Weight3: 1.8379
-Weight4: 0.88927
-Output: 0.90977
+Weight4: 0.889269
+Output: 0.909769
 Error: True
 
 
@@ -1263,7 +1263,7 @@ Weight1: -0.92423
 Weight2: -0.906184
 Weight3: 1.84042
 Weight4: 0.906184
-Output: 0.916189
+Output: 0.916188
 Error: True
 
 
@@ -1272,7 +1272,7 @@ Weight1: -0.915207
 Weight2: -0.915207
 Weight3: 1.84944
 Weight4: 0.897161
-Output: 0.916189
+Output: 0.916188
 Error: True
 
 
@@ -1286,7 +1286,7 @@ Error: True
 
 
 Training Set: 4
-Weight1: -0.92125
+Weight1: -0.921251
 Weight2: -0.92125
 Weight3: 1.8434
 Weight4: 0.92125
@@ -1296,7 +1296,7 @@ Error: True
 Iteration: 36
 
 Training Set: 1
-Weight1: -0.929631
+Weight1: -0.929632
 Weight2: -0.912869
 Weight3: 1.85178
 Weight4: 0.912869
@@ -1346,7 +1346,7 @@ Weight1: -0.92686
 Weight2: -0.92686
 Weight3: 1.87012
 Weight4: 0.91129
-Output: 0.92769
+Output: 0.927691
 Error: True
 
 
@@ -1381,9 +1381,9 @@ Error: True
 Training Set: 2
 Weight1: -0.932069
 Weight2: -0.932069
-Weight3: 1.87937
+Weight3: 1.87938
 Weight4: 0.917607
-Output: 0.932844
+Output: 0.932845
 Error: True
 
 
@@ -1419,7 +1419,7 @@ Training Set: 2
 Weight1: -0.936906
 Weight2: -0.936906
 Weight3: 1.88797
-Weight4: 0.923475
+Weight4: 0.923474
 Output: 0.937632
 Error: True
 
@@ -1434,10 +1434,10 @@ Error: True
 
 
 Training Set: 4
-Weight1: -0.941399
-Weight2: -0.941399
+Weight1: -0.9414
+Weight2: -0.9414
 Weight3: 1.88348
-Weight4: 0.9414
+Weight4: 0.941399
 Output: -0.942076
 Error: True
 
@@ -1447,17 +1447,17 @@ Training Set: 1
 Weight1: -0.947636
 Weight2: -0.935163
 Weight3: 1.88971
-Weight4: 0.935163
+Weight4: 0.935162
 Output: 0.942076
 Error: True
 
 
 Training Set: 2
-Weight1: -0.941399
-Weight2: -0.941399
+Weight1: -0.9414
+Weight2: -0.9414
 Weight3: 1.89595
 Weight4: 0.928926
-Output: 0.942076
+Output: 0.942075
 Error: True
 
 
@@ -1465,7 +1465,7 @@ Training Set: 3
 Weight1: -0.935163
 Weight2: -0.935163
 Weight3: 1.90219
-Weight4: 0.935163
+Weight4: 0.935162
 Output: -0.903302
 Error: True
 
@@ -1475,17 +1475,17 @@ Weight1: -0.945574
 Weight2: -0.945574
 Weight3: 1.89177
 Weight4: 0.945574
-Output: -0.9462
+Output: -0.946201
 Error: True
 
 Iteration: 41
 
 Training Set: 1
-Weight1: -0.951366
+Weight1: -0.951367
 Weight2: -0.939782
 Weight3: 1.89757
-Weight4: 0.939782
-Output: 0.9462
+Weight4: 0.939781
+Output: 0.946201
 Error: True
 
 
@@ -1494,7 +1494,7 @@ Weight1: -0.945574
 Weight2: -0.945574
 Weight3: 1.90336
 Weight4: 0.933989
-Output: 0.946201
+Output: 0.9462
 Error: True
 
 
@@ -1508,38 +1508,38 @@ Error: True
 
 
 Training Set: 4
-Weight1: -0.949451
-Weight2: -0.949451
+Weight1: -0.949452
+Weight2: -0.949452
 Weight3: 1.89948
-Weight4: 0.949452
-Output: -0.95003
+Weight4: 0.949451
+Output: -0.950031
 Error: True
 
 Iteration: 42
 
 Training Set: 1
 Weight1: -0.954831
-Weight2: -0.944071
+Weight2: -0.944072
 Weight3: 1.90486
-Weight4: 0.944072
-Output: 0.95003
-Error: True
-
-
-Training Set: 2
-Weight1: -0.949451
-Weight2: -0.949451
-Weight3: 1.91024
-Weight4: 0.938692
+Weight4: 0.944071
 Output: 0.950031
 Error: True
 
 
+Training Set: 2
+Weight1: -0.949452
+Weight2: -0.949452
+Weight3: 1.91024
+Weight4: 0.938692
+Output: 0.95003
+Error: True
+
+
 Training Set: 3
-Weight1: -0.944071
+Weight1: -0.944072
 Weight2: -0.944072
 Weight3: 1.91562
-Weight4: 0.944071
+Weight4: 0.944072
 Output: -0.916593
 Error: True
 
@@ -1566,7 +1566,7 @@ Error: True
 Training Set: 2
 Weight1: -0.953052
 Weight2: -0.953052
-Weight3: 1.91664
+Weight3: 1.91663
 Weight4: 0.943058
 Output: 0.953589
 Error: True
@@ -1596,7 +1596,7 @@ Weight1: -0.961037
 Weight2: -0.951755
 Weight3: 1.91793
 Weight4: 0.951755
-Output: 0.956896
+Output: 0.956895
 Error: True
 
 
@@ -1620,10 +1620,10 @@ Error: True
 
 Training Set: 4
 Weight1: -0.959501
-Weight2: -0.959502
+Weight2: -0.959501
 Weight3: 1.91947
-Weight4: 0.959501
-Output: -0.959967
+Weight4: 0.959502
+Output: -0.959966
 Error: True
 
 Iteration: 45
@@ -1633,16 +1633,16 @@ Weight1: -0.963812
 Weight2: -0.955191
 Weight3: 1.92378
 Weight4: 0.955191
-Output: 0.959967
+Output: 0.959966
 Error: True
 
 
 Training Set: 2
-Weight1: -0.959502
+Weight1: -0.959501
 Weight2: -0.959501
 Weight3: 1.92809
-Weight4: 0.95088
-Output: 0.959966
+Weight4: 0.950881
+Output: 0.959967
 Error: True
 
 
@@ -1667,9 +1667,9 @@ Iteration: 46
 
 Training Set: 1
 Weight1: -0.966389
-Weight2: -0.958383
+Weight2: -0.958382
 Weight3: 1.92921
-Weight4: 0.958382
+Weight4: 0.958383
 Output: 0.962818
 Error: True
 
@@ -1679,7 +1679,7 @@ Weight1: -0.962386
 Weight2: -0.962386
 Weight3: 1.93321
 Weight4: 0.954379
-Output: 0.962818
+Output: 0.962819
 Error: True
 
 
@@ -1707,7 +1707,7 @@ Weight1: -0.968783
 Weight2: -0.961347
 Weight3: 1.93425
 Weight4: 0.961347
-Output: 0.965466
+Output: 0.965467
 Error: True
 
 
@@ -1716,7 +1716,7 @@ Weight1: -0.965065
 Weight2: -0.965065
 Weight3: 1.93797
 Weight4: 0.957629
-Output: 0.965467
+Output: 0.965466
 Error: True
 
 
@@ -1733,7 +1733,7 @@ Training Set: 4
 Weight1: -0.967554
 Weight2: -0.967554
 Weight3: 1.93548
-Weight4: 0.967554
+Weight4: 0.967553
 Output: -0.967926
 Error: True
 
@@ -1781,7 +1781,7 @@ Weight1: -0.973072
 Weight2: -0.966657
 Weight3: 1.94328
 Weight4: 0.966657
-Output: 0.970211
+Output: 0.97021
 Error: True
 
 
@@ -1795,7 +1795,7 @@ Error: True
 
 
 Training Set: 3
-Weight1: -0.966657
+Weight1: -0.966658
 Weight2: -0.966657
 Weight3: 1.9497
 Weight4: 0.966657
@@ -1926,7 +1926,7 @@ Iteration: 53
 
 Training Set: 1
 Weight1: -0.979963
-Weight2: -0.975189
+Weight2: -0.97519
 Weight3: 1.9578
 Weight4: 0.975189
 Output: 0.977834
@@ -1943,8 +1943,8 @@ Error: True
 
 
 Training Set: 3
-Weight1: -0.975189
-Weight2: -0.975189
+Weight1: -0.97519
+Weight2: -0.97519
 Weight3: 1.96257
 Weight4: 0.975189
 Output: -0.962999
@@ -2037,7 +2037,7 @@ Iteration: 56
 
 Training Set: 1
 Weight1: -0.983947
-Weight2: -0.980122
+Weight2: -0.980123
 Weight3: 1.96619
 Weight4: 0.980122
 Output: 0.982241
@@ -2049,16 +2049,16 @@ Weight1: -0.982035
 Weight2: -0.982035
 Weight3: 1.9681
 Weight4: 0.97821
-Output: 0.982241
+Output: 0.98224
 Error: True
 
 
 Training Set: 3
 Weight1: -0.980122
-Weight2: -0.980122
+Weight2: -0.980123
 Weight3: 1.97001
 Weight4: 0.980122
-Output: -0.970355
+Output: -0.970356
 Error: True
 
 
@@ -2104,7 +2104,7 @@ Weight1: -0.984503
 Weight2: -0.984503
 Weight3: 1.96918
 Weight4: 0.984503
-Output: -0.98468
+Output: -0.984681
 Error: True
 
 Iteration: 58
@@ -2114,7 +2114,7 @@ Weight1: -0.986152
 Weight2: -0.982853
 Weight3: 1.97083
 Weight4: 0.982853
-Output: 0.98468
+Output: 0.984681
 Error: True
 
 
@@ -2132,35 +2132,35 @@ Weight1: -0.982853
 Weight2: -0.982853
 Weight3: 1.97413
 Weight4: 0.982853
-Output: -0.974429
+Output: -0.974428
 Error: True
 
 
 Training Set: 4
-Weight1: -0.985607
+Weight1: -0.985606
 Weight2: -0.985607
 Weight3: 1.97138
 Weight4: 0.985607
-Output: -0.985771
+Output: -0.985772
 Error: True
 
 Iteration: 59
 
 Training Set: 1
-Weight1: -0.987139
+Weight1: -0.987138
 Weight2: -0.984075
 Weight3: 1.97291
 Weight4: 0.984075
-Output: 0.985771
+Output: 0.985772
 Error: True
 
 
 Training Set: 2
-Weight1: -0.985607
+Weight1: -0.985606
 Weight2: -0.985607
 Weight3: 1.97444
 Weight4: 0.982543
-Output: 0.985771
+Output: 0.985772
 Error: True
 
 
@@ -2204,9 +2204,9 @@ Error: True
 Training Set: 3
 Weight1: -0.985209
 Weight2: -0.985209
-Weight3: 1.97769
+Weight3: 1.97768
 Weight4: 0.985209
-Output: -0.977941
+Output: -0.977942
 Error: True
 
 
@@ -2215,17 +2215,17 @@ Weight1: -0.987584
 Weight2: -0.987584
 Weight3: 1.97531
 Weight4: 0.987584
-Output: -0.987727
+Output: -0.987726
 Error: True
 
 Iteration: 61
 
 Training Set: 1
 Weight1: -0.988905
-Weight2: -0.986262
+Weight2: -0.986263
 Weight3: 1.97663
-Weight4: 0.986262
-Output: 0.987727
+Weight4: 0.986263
+Output: 0.987726
 Error: True
 
 
@@ -2239,11 +2239,11 @@ Error: True
 
 
 Training Set: 3
-Weight1: -0.986262
-Weight2: -0.986262
+Weight1: -0.986263
+Weight2: -0.986263
 Weight3: 1.97927
-Weight4: 0.986262
-Output: -0.979512
+Weight4: 0.986263
+Output: -0.979513
 Error: True
 
 
@@ -2252,7 +2252,7 @@ Weight1: -0.988468
 Weight2: -0.988468
 Weight3: 1.97707
 Weight4: 0.988468
-Output: -0.988601
+Output: -0.9886
 Error: True
 
 Iteration: 62
@@ -2308,7 +2308,7 @@ Weight1: -0.98929
 Weight2: -0.98929
 Weight3: 1.98098
 Weight4: 0.98701
-Output: 0.989412
+Output: 0.989413
 Error: True
 
 
@@ -2317,7 +2317,7 @@ Weight1: -0.98815
 Weight2: -0.98815
 Weight3: 1.98212
 Weight4: 0.98815
-Output: -0.982328
+Output: -0.982327
 Error: True
 
 
@@ -2326,13 +2326,13 @@ Weight1: -0.990053
 Weight2: -0.990053
 Weight3: 1.98022
 Weight4: 0.990053
-Output: -0.990166
+Output: -0.990167
 Error: True
 
 Iteration: 64
 
 Training Set: 1
-Weight1: -0.991111
+Weight1: -0.991112
 Weight2: -0.988994
 Weight3: 1.98128
 Weight4: 0.988994
@@ -2342,7 +2342,7 @@ Error: True
 
 Training Set: 2
 Weight1: -0.990053
-Weight2: -0.990053
+Weight2: -0.990052
 Weight3: 1.98234
 Weight4: 0.987935
 Output: 0.990166
@@ -2406,11 +2406,11 @@ Error: True
 Iteration: 66
 
 Training Set: 1
-Weight1: -0.992332
+Weight1: -0.992333
 Weight2: -0.990506
 Weight3: 1.98385
 Weight4: 0.990506
-Output: 0.991518
+Output: 0.991517
 Error: True
 
 
@@ -2419,7 +2419,7 @@ Weight1: -0.991419
 Weight2: -0.991419
 Weight3: 1.98476
 Weight4: 0.989592
-Output: 0.991518
+Output: 0.991517
 Error: True
 
 
@@ -2443,7 +2443,7 @@ Error: True
 Iteration: 67
 
 Training Set: 1
-Weight1: -0.992878
+Weight1: -0.992879
 Weight2: -0.991182
 Weight3: 1.985
 Weight4: 0.991182
@@ -2518,7 +2518,7 @@ Iteration: 69
 
 Training Set: 1
 Weight1: -0.993857
-Weight2: -0.992393
+Weight2: -0.992394
 Weight3: 1.98706
 Weight4: 0.992394
 Output: 0.993204
@@ -2535,8 +2535,8 @@ Error: True
 
 
 Training Set: 3
-Weight1: -0.992394
-Weight2: -0.992393
+Weight1: -0.992393
+Weight2: -0.992394
 Weight3: 1.98852
 Weight4: 0.992394
 Output: -0.988656
@@ -2554,7 +2554,7 @@ Error: True
 Iteration: 70
 
 Training Set: 1
-Weight1: -0.994295
+Weight1: -0.994294
 Weight2: -0.992935
 Weight3: 1.98798
 Weight4: 0.992935
@@ -2592,7 +2592,7 @@ Iteration: 71
 
 Training Set: 1
 Weight1: -0.994701
-Weight2: -0.993438
+Weight2: -0.993439
 Weight3: 1.98884
 Weight4: 0.993439
 Output: 0.994138
@@ -2609,8 +2609,8 @@ Error: True
 
 
 Training Set: 3
-Weight1: -0.993439
-Weight2: -0.993438
+Weight1: -0.993438
+Weight2: -0.993439
 Weight3: 1.9901
 Weight4: 0.993439
 Output: -0.990214
@@ -2632,7 +2632,7 @@ Weight1: -0.995078
 Weight2: -0.993906
 Weight3: 1.98963
 Weight4: 0.993906
-Output: 0.994555
+Output: 0.994556
 Error: True
 
 
@@ -2655,8 +2655,8 @@ Error: True
 
 
 Training Set: 4
-Weight1: -0.994885
-Weight2: -0.994884
+Weight1: -0.994884
+Weight2: -0.994885
 Weight3: 1.98983
 Weight4: 0.994885
 Output: -0.994943
@@ -2675,7 +2675,7 @@ Error: True
 
 Training Set: 2
 Weight1: -0.994884
-Weight2: -0.994884
+Weight2: -0.994885
 Weight3: 1.99092
 Weight4: 0.993796
 Output: 0.994943
@@ -2702,7 +2702,7 @@ Error: True
 Iteration: 74
 
 Training Set: 1
-Weight1: -0.995755
+Weight1: -0.995754
 Weight2: -0.994743
 Weight3: 1.99106
 Weight4: 0.994743
@@ -2714,7 +2714,7 @@ Training Set: 2
 Weight1: -0.995249
 Weight2: -0.995249
 Weight3: 1.99156
-Weight4: 0.994237
+Weight4: 0.994238
 Output: 0.995303
 Error: True
 
@@ -2724,7 +2724,7 @@ Weight1: -0.994743
 Weight2: -0.994743
 Weight3: 1.99207
 Weight4: 0.994743
-Output: -0.99216
+Output: -0.992161
 Error: True
 
 
@@ -2733,7 +2733,7 @@ Weight1: -0.995587
 Weight2: -0.995587
 Weight3: 1.99123
 Weight4: 0.995587
-Output: -0.995638
+Output: -0.995637
 Error: True
 
 Iteration: 75
@@ -2757,7 +2757,7 @@ Error: True
 
 
 Training Set: 3
-Weight1: -0.995118
+Weight1: -0.995117
 Weight2: -0.995118
 Weight3: 1.99263
 Weight4: 0.995118
@@ -2766,11 +2766,11 @@ Error: True
 
 
 Training Set: 4
-Weight1: -0.995902
+Weight1: -0.995901
 Weight2: -0.995902
 Weight3: 1.99185
 Weight4: 0.995902
-Output: -0.995949
+Output: -0.995948
 Error: True
 
 Iteration: 76
@@ -2780,7 +2780,7 @@ Weight1: -0.996338
 Weight2: -0.995465
 Weight3: 1.99229
 Weight4: 0.995465
-Output: 0.995948
+Output: 0.995949
 Error: True
 
 
@@ -2798,15 +2798,15 @@ Weight1: -0.995465
 Weight2: -0.995465
 Weight3: 1.99316
 Weight4: 0.995465
-Output: -0.993238
+Output: -0.993237
 Error: True
 
 
 Training Set: 4
-Weight1: -0.996194
+Weight1: -0.996193
 Weight2: -0.996193
 Weight3: 1.99243
-Weight4: 0.996194
+Weight4: 0.996193
 Output: -0.996237
 Error: True
 
@@ -2822,8 +2822,8 @@ Error: True
 
 
 Training Set: 2
-Weight1: -0.996193
-Weight2: -0.996194
+Weight1: -0.996194
+Weight2: -0.996193
 Weight3: 1.99324
 Weight4: 0.995383
 Output: 0.996237
@@ -2841,10 +2841,10 @@ Error: True
 
 Training Set: 4
 Weight1: -0.996465
-Weight2: -0.996465
+Weight2: -0.996464
 Weight3: 1.99297
-Weight4: 0.996465
-Output: -0.996505
+Weight4: 0.996464
+Output: -0.996506
 Error: True
 
 Iteration: 78
@@ -2860,7 +2860,7 @@ Error: True
 
 Training Set: 2
 Weight1: -0.996465
-Weight2: -0.996465
+Weight2: -0.996464
 Weight3: 1.99372
 Weight4: 0.995712
 Output: 0.996505
@@ -2877,11 +2877,11 @@ Error: True
 
 
 Training Set: 4
-Weight1: -0.996716
+Weight1: -0.996717
 Weight2: -0.996716
 Weight3: 1.99347
 Weight4: 0.996716
-Output: -0.996754
+Output: -0.996755
 Error: True
 
 Iteration: 79
@@ -2928,7 +2928,7 @@ Weight1: -0.997275
 Weight2: -0.996626
 Weight3: 1.99426
 Weight4: 0.996626
-Output: 0.996986
+Output: 0.996985
 Error: True
 
 
@@ -2954,7 +2954,7 @@ Training Set: 4
 Weight1: -0.997167
 Weight2: -0.997168
 Weight3: 1.99437
-Weight4: 0.997167
+Weight4: 0.997168
 Output: -0.9972
 Error: True
 
@@ -2970,8 +2970,8 @@ Error: True
 
 
 Training Set: 2
-Weight1: -0.997168
-Weight2: -0.997167
+Weight1: -0.997167
+Weight2: -0.997168
 Weight3: 1.99497
 Weight4: 0.996565
 Output: 0.9972
@@ -2992,7 +2992,7 @@ Weight1: -0.997369
 Weight2: -0.997369
 Weight3: 1.99477
 Weight4: 0.997369
-Output: -0.9974
+Output: -0.997399
 Error: True
 
 Iteration: 82
@@ -3122,7 +3122,7 @@ Weight1: -0.997892
 Weight2: -0.997892
 Weight3: 1.99626
 Weight4: 0.997444
-Output: 0.997916
+Output: 0.997917
 Error: True
 
 
@@ -3137,7 +3137,7 @@ Error: True
 
 Training Set: 4
 Weight1: -0.998043
-Weight2: -0.998042
+Weight2: -0.998043
 Weight3: 1.99611
 Weight4: 0.998043
 Output: -0.998065
@@ -3156,7 +3156,7 @@ Error: True
 
 Training Set: 2
 Weight1: -0.998043
-Weight2: -0.998042
+Weight2: -0.998043
 Weight3: 1.99652
 Weight4: 0.997626
 Output: 0.998065
@@ -3279,7 +3279,7 @@ Weight1: -0.998265
 Weight2: -0.998265
 Weight3: 1.99738
 Weight4: 0.998265
-Output: -0.997412
+Output: -0.997413
 Error: True
 
 
@@ -3370,7 +3370,7 @@ Iteration: 92
 Training Set: 1
 Weight1: -0.998877
 Weight2: -0.99861
-Weight3: 1.99763
+Weight3: 1.99764
 Weight4: 0.99861
 Output: 0.998758
 Error: True
@@ -3390,7 +3390,7 @@ Weight1: -0.99861
 Weight2: -0.99861
 Weight3: 1.9979
 Weight4: 0.99861
-Output: -0.997927
+Output: -0.997926
 Error: True
 
 
@@ -3417,7 +3417,7 @@ Training Set: 2
 Weight1: -0.998833
 Weight2: -0.998833
 Weight3: 1.99793
-Weight4: 0.998585
+Weight4: 0.998584
 Output: 0.998846
 Error: True
 
@@ -3427,7 +3427,7 @@ Weight1: -0.998709
 Weight2: -0.998709
 Weight3: 1.99805
 Weight4: 0.998709
-Output: -0.998075
+Output: -0.998074
 Error: True
 
 
@@ -3442,7 +3442,7 @@ Error: True
 Iteration: 94
 
 Training Set: 1
-Weight1: -0.999031
+Weight1: -0.999032
 Weight2: -0.998801
 Weight3: 1.99796
 Weight4: 0.998801
@@ -3464,7 +3464,7 @@ Weight1: -0.998801
 Weight2: -0.998801
 Weight3: 1.99819
 Weight4: 0.998801
-Output: -0.998211
+Output: -0.998212
 Error: True
 
 
@@ -3479,7 +3479,7 @@ Error: True
 Iteration: 95
 
 Training Set: 1
-Weight1: -0.9991
+Weight1: -0.999101
 Weight2: -0.998886
 Weight3: 1.99811
 Weight4: 0.998886
@@ -3501,7 +3501,7 @@ Weight1: -0.998886
 Weight2: -0.998886
 Weight3: 1.99832
 Weight4: 0.998886
-Output: -0.998338
+Output: -0.998339
 Error: True
 
 
@@ -3516,7 +3516,7 @@ Error: True
 Iteration: 96
 
 Training Set: 1
-Weight1: -0.999164
+Weight1: -0.999165
 Weight2: -0.998965
 Weight3: 1.99824
 Weight4: 0.998965
@@ -3534,7 +3534,7 @@ Error: True
 
 
 Training Set: 3
-Weight1: -0.998965
+Weight1: -0.998966
 Weight2: -0.998965
 Weight3: 1.99844
 Weight4: 0.998965
@@ -3546,7 +3546,7 @@ Training Set: 4
 Weight1: -0.999132
 Weight2: -0.999132
 Weight3: 1.99827
-Weight4: 0.999132
+Weight4: 0.999131
 Output: -0.999142
 Error: True
 
@@ -3566,7 +3566,7 @@ Weight1: -0.999132
 Weight2: -0.999132
 Weight3: 1.99846
 Weight4: 0.998947
-Output: 0.999142
+Output: 0.999141
 Error: True
 
 
@@ -3580,7 +3580,7 @@ Error: True
 
 
 Training Set: 4
-Weight1: -0.999193
+Weight1: -0.999194
 Weight2: -0.999193
 Weight3: 1.9984
 Weight4: 0.999193
@@ -3599,8 +3599,8 @@ Error: True
 
 
 Training Set: 2
-Weight1: -0.999193
-Weight2: -0.999193
+Weight1: -0.999194
+Weight2: -0.999194
 Weight3: 1.99857
 Weight4: 0.999022
 Output: 0.999203
@@ -3621,7 +3621,7 @@ Weight1: -0.999251
 Weight2: -0.999251
 Weight3: 1.99851
 Weight4: 0.999251
-Output: -0.999259
+Output: -0.99926
 Error: True
 
 Iteration: 99
@@ -3631,7 +3631,7 @@ Weight1: -0.999331
 Weight2: -0.999171
 Weight3: 1.99859
 Weight4: 0.999171
-Output: 0.999259
+Output: 0.99926
 Error: True
 
 
@@ -4074,7 +4074,7 @@ Training Set: 1
 Weight1: -0.999724
 Weight2: -0.999659
 Weight3: 1.99942
-Weight4: 0.999658
+Weight4: 0.999659
 Output: 0.999695
 Error: True
 
@@ -4089,10 +4089,10 @@ Error: True
 
 
 Training Set: 3
-Weight1: -0.999659
+Weight1: -0.999658
 Weight2: -0.999659
-Weight3: 1.99948
-Weight4: 0.999658
+Weight3: 1.99949
+Weight4: 0.999659
 Output: -0.999491
 Error: True
 
@@ -4102,7 +4102,7 @@ Weight1: -0.999713
 Weight2: -0.999713
 Weight3: 1.99943
 Weight4: 0.999713
-Output: -0.999717
+Output: -0.999716
 Error: True
 
 Iteration: 112
@@ -4121,7 +4121,7 @@ Weight1: -0.999713
 Weight2: -0.999713
 Weight3: 1.99949
 Weight4: 0.999652
-Output: 0.999716
+Output: 0.999717
 Error: True
 
 
@@ -4163,10 +4163,10 @@ Error: True
 
 
 Training Set: 3
-Weight1: -0.999705
+Weight1: -0.999706
 Weight2: -0.999705
 Weight3: 1.99956
-Weight4: 0.999706
+Weight4: 0.999705
 Output: -0.999561
 Error: True
 
@@ -4176,7 +4176,7 @@ Weight1: -0.999753
 Weight2: -0.999753
 Weight3: 1.99951
 Weight4: 0.999753
-Output: -0.999755
+Output: -0.999756
 Error: True
 
 Iteration: 114
@@ -4185,7 +4185,7 @@ Training Set: 1
 Weight1: -0.999779
 Weight2: -0.999726
 Weight3: 1.99953
-Weight4: 0.999727
+Weight4: 0.999726
 Output: 0.999755
 Error: True
 
@@ -4200,19 +4200,19 @@ Error: True
 
 
 Training Set: 3
-Weight1: -0.999726
+Weight1: -0.999727
 Weight2: -0.999726
 Weight3: 1.99959
-Weight4: 0.999727
+Weight4: 0.999726
 Output: -0.999592
 Error: True
 
 
 Training Set: 4
-Weight1: -0.99977
+Weight1: -0.999771
 Weight2: -0.99977
 Weight3: 1.99954
-Weight4: 0.999771
+Weight4: 0.99977
 Output: -0.999773
 Error: True
 
@@ -4229,7 +4229,7 @@ Error: True
 
 Training Set: 2
 Weight1: -0.99977
-Weight2: -0.99977
+Weight2: -0.999771
 Weight3: 1.99959
 Weight4: 0.999722
 Output: 0.999773
@@ -4278,7 +4278,7 @@ Weight1: -0.999764
 Weight2: -0.999764
 Weight3: 1.99964
 Weight4: 0.999764
-Output: -0.999648
+Output: -0.999649
 Error: True
 
 
@@ -4315,7 +4315,7 @@ Weight1: -0.999781
 Weight2: -0.999781
 Weight3: 1.99967
 Weight4: 0.999781
-Output: -0.999673
+Output: -0.999674
 Error: True
 
 
@@ -4348,11 +4348,11 @@ Error: True
 
 
 Training Set: 3
-Weight1: -0.999797
+Weight1: -0.999796
 Weight2: -0.999797
 Weight3: 1.99969
 Weight4: 0.999796
-Output: -0.999697
+Output: -0.999696
 Error: True
 
 
@@ -4371,7 +4371,7 @@ Weight1: -0.999847
 Weight2: -0.999811
 Weight3: 1.99968
 Weight4: 0.999811
-Output: 0.999831
+Output: 0.999832
 Error: True
 
 
@@ -4387,7 +4387,7 @@ Error: True
 Training Set: 3
 Weight1: -0.999811
 Weight2: -0.999811
-Weight3: 1.99971
+Weight3: 1.99972
 Weight4: 0.999811
 Output: -0.999718
 Error: True
@@ -4398,17 +4398,17 @@ Weight1: -0.999841
 Weight2: -0.999841
 Weight3: 1.99968
 Weight4: 0.999841
-Output: -0.999844
+Output: -0.999843
 Error: True
 
 Iteration: 120
 
 Training Set: 1
 Weight1: -0.999858
-Weight2: -0.999824
+Weight2: -0.999825
 Weight3: 1.9997
 Weight4: 0.999824
-Output: 0.999843
+Output: 0.999844
 Error: True
 
 
@@ -4516,9 +4516,9 @@ Iteration: 123
 
 Training Set: 1
 Weight1: -0.999887
-Weight2: -0.99986
+Weight2: -0.999859
 Weight3: 1.99976
-Weight4: 0.999859
+Weight4: 0.99986
 Output: 0.999874
 Error: True
 
@@ -4533,10 +4533,10 @@ Error: True
 
 
 Training Set: 3
-Weight1: -0.999859
-Weight2: -0.99986
+Weight1: -0.99986
+Weight2: -0.999859
 Weight3: 1.99979
-Weight4: 0.999859
+Weight4: 0.99986
 Output: -0.999791
 Error: True
 
@@ -4553,9 +4553,9 @@ Iteration: 124
 
 Training Set: 1
 Weight1: -0.999895
-Weight2: -0.99987
+Weight2: -0.999869
 Weight3: 1.99978
-Weight4: 0.999869
+Weight4: 0.99987
 Output: 0.999883
 Error: True
 
@@ -4570,19 +4570,19 @@ Error: True
 
 
 Training Set: 3
-Weight1: -0.999869
-Weight2: -0.99987
+Weight1: -0.99987
+Weight2: -0.999869
 Weight3: 1.9998
-Weight4: 0.999869
-Output: -0.999805
+Weight4: 0.99987
+Output: -0.999806
 Error: True
 
 
 Training Set: 4
-Weight1: -0.99989
+Weight1: -0.999891
 Weight2: -0.99989
 Weight3: 1.99978
-Weight4: 0.99989
+Weight4: 0.999891
 Output: -0.999892
 Error: True
 
@@ -4593,12 +4593,12 @@ Weight1: -0.999902
 Weight2: -0.999879
 Weight3: 1.99979
 Weight4: 0.999879
-Output: 0.999892
+Output: 0.999891
 Error: True
 
 
 Training Set: 2
-Weight1: -0.99989
+Weight1: -0.999891
 Weight2: -0.99989
 Weight3: 1.99981
 Weight4: 0.999867
@@ -4620,7 +4620,7 @@ Weight1: -0.999898
 Weight2: -0.999898
 Weight3: 1.9998
 Weight4: 0.999898
-Output: -0.999899
+Output: -0.9999
 Error: True
 
 Iteration: 126
@@ -4630,7 +4630,7 @@ Weight1: -0.999909
 Weight2: -0.999887
 Weight3: 1.99981
 Weight4: 0.999887
-Output: 0.9999
+Output: 0.999899
 Error: True
 
 
@@ -4638,7 +4638,7 @@ Training Set: 2
 Weight1: -0.999898
 Weight2: -0.999898
 Weight3: 1.99982
-Weight4: 0.999877
+Weight4: 0.999876
 Output: 0.9999
 Error: True
 
@@ -4653,17 +4653,17 @@ Error: True
 
 
 Training Set: 4
-Weight1: -0.999906
+Weight1: -0.999905
 Weight2: -0.999906
 Weight3: 1.99981
-Weight4: 0.999906
+Weight4: 0.999905
 Output: -0.999907
 Error: True
 
 Iteration: 127
 
 Training Set: 1
-Weight1: -0.999916
+Weight1: -0.999915
 Weight2: -0.999896
 Weight3: 1.99982
 Weight4: 0.999895
@@ -4672,7 +4672,7 @@ Error: True
 
 
 Training Set: 2
-Weight1: -0.999906
+Weight1: -0.999905
 Weight2: -0.999906
 Weight3: 1.99983
 Weight4: 0.999885
@@ -4681,7 +4681,7 @@ Error: True
 
 
 Training Set: 3
-Weight1: -0.999896
+Weight1: -0.999895
 Weight2: -0.999896
 Weight3: 1.99984
 Weight4: 0.999895
@@ -4700,11 +4700,11 @@ Error: True
 Iteration: 128
 
 Training Set: 1
-Weight1: -0.999922
+Weight1: -0.999921
 Weight2: -0.999903
 Weight3: 1.99983
 Weight4: 0.999903
-Output: 0.999913
+Output: 0.999914
 Error: True
 
 
@@ -4722,15 +4722,15 @@ Weight1: -0.999903
 Weight2: -0.999903
 Weight3: 1.99985
 Weight4: 0.999903
-Output: -0.999856
+Output: -0.999855
 Error: True
 
 
 Training Set: 4
-Weight1: -0.999919
+Weight1: -0.999918
 Weight2: -0.999919
 Weight3: 1.99984
-Weight4: 0.999919
+Weight4: 0.999918
 Output: -0.999919
 Error: True
 
@@ -4741,7 +4741,7 @@ Weight1: -0.999927
 Weight2: -0.99991
 Weight3: 1.99985
 Weight4: 0.99991
-Output: 0.999919
+Output: 0.99992
 Error: True
 
 
@@ -4774,7 +4774,7 @@ Error: True
 Iteration: 130
 
 Training Set: 1
-Weight1: -0.999933
+Weight1: -0.999932
 Weight2: -0.999916
 Weight3: 1.99986
 Weight4: 0.999916
@@ -4796,7 +4796,7 @@ Weight1: -0.999916
 Weight2: -0.999916
 Weight3: 1.99987
 Weight4: 0.999916
-Output: -0.999875
+Output: -0.999876
 Error: True
 
 
@@ -4815,7 +4815,7 @@ Weight1: -0.999937
 Weight2: -0.999922
 Weight3: 1.99987
 Weight4: 0.999922
-Output: 0.999931
+Output: 0.99993
 Error: True
 
 
@@ -4839,7 +4839,7 @@ Error: True
 
 Training Set: 4
 Weight1: -0.999935
-Weight2: -0.999935
+Weight2: -0.999934
 Weight3: 1.99987
 Weight4: 0.999935
 Output: -0.999936
@@ -4852,13 +4852,13 @@ Weight1: -0.999942
 Weight2: -0.999928
 Weight3: 1.99988
 Weight4: 0.999928
-Output: 0.999936
+Output: 0.999935
 Error: True
 
 
 Training Set: 2
 Weight1: -0.999935
-Weight2: -0.999935
+Weight2: -0.999934
 Weight3: 1.99988
 Weight4: 0.999921
 Output: 0.999936
@@ -4897,7 +4897,7 @@ Training Set: 2
 Weight1: -0.999939
 Weight2: -0.999939
 Weight3: 1.99989
-Weight4: 0.999927
+Weight4: 0.999926
 Output: 0.99994
 Error: True
 
@@ -4926,7 +4926,7 @@ Weight1: -0.99995
 Weight2: -0.999938
 Weight3: 1.99989
 Weight4: 0.999938
-Output: 0.999944
+Output: 0.999945
 Error: True
 
 
@@ -4986,7 +4986,7 @@ Error: True
 
 
 Training Set: 4
-Weight1: -0.999952
+Weight1: -0.999951
 Weight2: -0.999951
 Weight3: 1.9999
 Weight4: 0.999951
@@ -5005,7 +5005,7 @@ Error: True
 
 
 Training Set: 2
-Weight1: -0.999952
+Weight1: -0.999951
 Weight2: -0.999951
 Weight3: 1.99991
 Weight4: 0.999941
@@ -5070,7 +5070,7 @@ Error: True
 Iteration: 138
 
 Training Set: 1
-Weight1: -0.999963
+Weight1: -0.999962
 Weight2: -0.999954
 Weight3: 1.99992
 Weight4: 0.999954
@@ -5172,9 +5172,9 @@ Error: True
 
 Training Set: 4
 Weight1: -0.999966
-Weight2: -0.999967
+Weight2: -0.999966
 Weight3: 1.99993
-Weight4: 0.999966
+Weight4: 0.999967
 Output: -0.999967
 Error: True
 
@@ -5191,7 +5191,7 @@ Error: True
 
 Training Set: 2
 Weight1: -0.999966
-Weight2: -0.999967
+Weight2: -0.999966
 Weight3: 1.99994
 Weight4: 0.999959
 Output: 0.999967
@@ -5219,9 +5219,9 @@ Iteration: 142
 
 Training Set: 1
 Weight1: -0.999972
-Weight2: -0.999966
+Weight2: -0.999965
 Weight3: 1.99994
-Weight4: 0.999965
+Weight4: 0.999966
 Output: 0.999969
 Error: True
 
@@ -5237,9 +5237,9 @@ Error: True
 
 Training Set: 3
 Weight1: -0.999965
-Weight2: -0.999966
+Weight2: -0.999965
 Weight3: 1.99995
-Weight4: 0.999965
+Weight4: 0.999966
 Output: -0.999949
 Error: True
 
@@ -5259,7 +5259,7 @@ Weight1: -0.999974
 Weight2: -0.999968
 Weight3: 1.99995
 Weight4: 0.999968
-Output: 0.999972
+Output: 0.999971
 Error: True
 
 
@@ -5268,7 +5268,7 @@ Weight1: -0.999971
 Weight2: -0.999971
 Weight3: 1.99995
 Weight4: 0.999965
-Output: 0.999971
+Output: 0.999972
 Error: True
 
 
@@ -5286,7 +5286,7 @@ Weight1: -0.999973
 Weight2: -0.999973
 Weight3: 1.99995
 Weight4: 0.999973
-Output: -0.999974
+Output: -0.999973
 Error: True
 
 Iteration: 144
@@ -5296,7 +5296,7 @@ Weight1: -0.999976
 Weight2: -0.99997
 Weight3: 1.99995
 Weight4: 0.99997
-Output: 0.999974
+Output: 0.999973
 Error: True
 
 
@@ -5312,7 +5312,7 @@ Error: True
 Training Set: 3
 Weight1: -0.99997
 Weight2: -0.99997
-Weight3: 1.99996
+Weight3: 1.99995
 Weight4: 0.99997
 Output: -0.999955
 Error: True
@@ -5323,7 +5323,7 @@ Weight1: -0.999975
 Weight2: -0.999975
 Weight3: 1.99995
 Weight4: 0.999975
-Output: -0.999976
+Output: -0.999975
 Error: True
 
 Iteration: 145
@@ -5341,8 +5341,8 @@ Training Set: 2
 Weight1: -0.999975
 Weight2: -0.999975
 Weight3: 1.99996
-Weight4: 0.99997
-Output: 0.999976
+Weight4: 0.999969
+Output: 0.999975
 Error: True
 
 
@@ -5369,7 +5369,7 @@ Training Set: 1
 Weight1: -0.999979
 Weight2: -0.999974
 Weight3: 1.99996
-Weight4: 0.999975
+Weight4: 0.999974
 Output: 0.999977
 Error: True
 
@@ -5393,11 +5393,11 @@ Error: True
 
 
 Training Set: 4
-Weight1: -0.999979
-Weight2: -0.999979
+Weight1: -0.999978
+Weight2: -0.999978
 Weight3: 1.99996
-Weight4: 0.999979
-Output: -0.999978
+Weight4: 0.999978
+Output: -0.999979
 Error: True
 
 Iteration: 147
@@ -5407,13 +5407,13 @@ Weight1: -0.999981
 Weight2: -0.999976
 Weight3: 1.99996
 Weight4: 0.999976
-Output: 0.999978
+Output: 0.999979
 Error: True
 
 
 Training Set: 2
-Weight1: -0.999979
-Weight2: -0.999979
+Weight1: -0.999978
+Weight2: -0.999978
 Weight3: 1.99996
 Weight4: 0.999974
 Output: 0.999978
@@ -5425,7 +5425,7 @@ Weight1: -0.999976
 Weight2: -0.999976
 Weight3: 1.99996
 Weight4: 0.999976
-Output: -0.999965
+Output: -0.999964
 Error: True
 
 
@@ -5444,7 +5444,7 @@ Weight1: -0.999982
 Weight2: -0.999978
 Weight3: 1.99996
 Weight4: 0.999978
-Output: 0.99998
+Output: 0.999981
 Error: True
 
 
@@ -5479,7 +5479,7 @@ Iteration: 149
 Training Set: 1
 Weight1: -0.999983
 Weight2: -0.999979
-Weight3: 1.99996
+Weight3: 1.99997
 Weight4: 0.999979
 Output: 0.999982
 Error: True
@@ -5505,7 +5505,7 @@ Error: True
 
 Training Set: 4
 Weight1: -0.999983
-Weight2: -0.999983
+Weight2: -0.999982
 Weight3: 1.99997
 Weight4: 0.999983
 Output: -0.999983
@@ -5514,7 +5514,7 @@ Error: True
 Iteration: 150
 
 Training Set: 1
-Weight1: -0.999984
+Weight1: -0.999985
 Weight2: -0.999981
 Weight3: 1.99997
 Weight4: 0.999981
@@ -5524,7 +5524,7 @@ Error: True
 
 Training Set: 2
 Weight1: -0.999983
-Weight2: -0.999983
+Weight2: -0.999982
 Weight3: 1.99997
 Weight4: 0.999979
 Output: 0.999983
@@ -5536,7 +5536,7 @@ Weight1: -0.999981
 Weight2: -0.999981
 Weight3: 1.99997
 Weight4: 0.999981
-Output: -0.999971
+Output: -0.999972
 Error: True
 
 
@@ -5563,7 +5563,7 @@ Training Set: 2
 Weight1: -0.999984
 Weight2: -0.999984
 Weight3: 1.99997
-Weight4: 0.99998
+Weight4: 0.999981
 Output: 0.999984
 Error: True
 
@@ -5589,9 +5589,9 @@ Iteration: 152
 
 Training Set: 1
 Weight1: -0.999987
-Weight2: -0.999984
+Weight2: -0.999983
 Weight3: 1.99997
-Weight4: 0.999983
+Weight4: 0.999984
 Output: 0.999985
 Error: True
 
@@ -5606,10 +5606,10 @@ Error: True
 
 
 Training Set: 3
-Weight1: -0.999983
-Weight2: -0.999984
+Weight1: -0.999984
+Weight2: -0.999983
 Weight3: 1.99997
-Weight4: 0.999983
+Weight4: 0.999984
 Output: -0.999976
 Error: True
 
@@ -5626,7 +5626,7 @@ Iteration: 153
 
 Training Set: 1
 Weight1: -0.999988
-Weight2: -0.999985
+Weight2: -0.999984
 Weight3: 1.99997
 Weight4: 0.999985
 Output: 0.999986
@@ -5644,7 +5644,7 @@ Error: True
 
 Training Set: 3
 Weight1: -0.999985
-Weight2: -0.999985
+Weight2: -0.999984
 Weight3: 1.99998
 Weight4: 0.999985
 Output: -0.999977
@@ -5656,14 +5656,14 @@ Weight1: -0.999987
 Weight2: -0.999987
 Weight3: 1.99997
 Weight4: 0.999987
-Output: -0.999987
+Output: -0.999988
 Error: True
 
 Iteration: 154
 
 Training Set: 1
 Weight1: -0.999988
-Weight2: -0.999986
+Weight2: -0.999985
 Weight3: 1.99998
 Weight4: 0.999986
 Output: 0.999987
@@ -5675,13 +5675,13 @@ Weight1: -0.999987
 Weight2: -0.999987
 Weight3: 1.99998
 Weight4: 0.999984
-Output: 0.999987
+Output: 0.999988
 Error: True
 
 
 Training Set: 3
 Weight1: -0.999986
-Weight2: -0.999986
+Weight2: -0.999985
 Weight3: 1.99998
 Weight4: 0.999986
 Output: -0.999978
@@ -5693,7 +5693,7 @@ Weight1: -0.999988
 Weight2: -0.999988
 Weight3: 1.99998
 Weight4: 0.999988
-Output: -0.999988
+Output: -0.999989
 Error: True
 
 Iteration: 155
@@ -5703,7 +5703,7 @@ Weight1: -0.999989
 Weight2: -0.999987
 Weight3: 1.99998
 Weight4: 0.999987
-Output: 0.999989
+Output: 0.999988
 Error: True
 
 
@@ -5711,8 +5711,8 @@ Training Set: 2
 Weight1: -0.999988
 Weight2: -0.999988
 Weight3: 1.99998
-Weight4: 0.999985
-Output: 0.999988
+Weight4: 0.999986
+Output: 0.999989
 Error: True
 
 
@@ -5748,7 +5748,7 @@ Training Set: 2
 Weight1: -0.999989
 Weight2: -0.999989
 Weight3: 1.99998
-Weight4: 0.999986
+Weight4: 0.999987
 Output: 0.999989
 Error: True
 
@@ -5758,7 +5758,7 @@ Weight1: -0.999988
 Weight2: -0.999988
 Weight3: 1.99998
 Weight4: 0.999988
-Output: -0.999981
+Output: -0.999982
 Error: True
 
 
@@ -5767,47 +5767,10 @@ Weight1: -0.99999
 Weight2: -0.99999
 Weight3: 1.99998
 Weight4: 0.99999
-Output: -0.99999
+Output: -0.999989
 Error: True
 
 Iteration: 157
-
-Training Set: 1
-Weight1: -0.999991
-Weight2: -0.999988
-Weight3: 1.99998
-Weight4: 0.999989
-Output: 0.99999
-Error: True
-
-
-Training Set: 2
-Weight1: -0.99999
-Weight2: -0.99999
-Weight3: 1.99998
-Weight4: 0.999987
-Output: 0.99999
-Error: True
-
-
-Training Set: 3
-Weight1: -0.999989
-Weight2: -0.999988
-Weight3: 1.99998
-Weight4: 0.999989
-Output: -0.999983
-Error: True
-
-
-Training Set: 4
-Weight1: -0.99999
-Weight2: -0.99999
-Weight3: 1.99998
-Weight4: 0.99999
-Output: -0.999991
-Error: True
-
-Iteration: 158
 
 Training Set: 1
 Weight1: -0.999991
@@ -5830,6 +5793,43 @@ Error: True
 Training Set: 3
 Weight1: -0.999989
 Weight2: -0.999989
+Weight3: 1.99998
+Weight4: 0.999989
+Output: -0.999984
+Error: True
+
+
+Training Set: 4
+Weight1: -0.99999
+Weight2: -0.999991
+Weight3: 1.99998
+Weight4: 0.99999
+Output: -0.99999
+Error: True
+
+Iteration: 158
+
+Training Set: 1
+Weight1: -0.999991
+Weight2: -0.99999
+Weight3: 1.99998
+Weight4: 0.999989
+Output: 0.999991
+Error: True
+
+
+Training Set: 2
+Weight1: -0.99999
+Weight2: -0.999991
+Weight3: 1.99998
+Weight4: 0.999988
+Output: 0.99999
+Error: True
+
+
+Training Set: 3
+Weight1: -0.999989
+Weight2: -0.99999
 Weight3: 1.99998
 Weight4: 0.999989
 Output: -0.999985
@@ -5867,9 +5867,9 @@ Error: True
 Training Set: 3
 Weight1: -0.99999
 Weight2: -0.99999
-Weight3: 1.99998
+Weight3: 1.99999
 Weight4: 0.99999
-Output: -0.999986
+Output: -0.999985
 Error: True
 
 
@@ -5915,7 +5915,7 @@ Weight1: -0.999992
 Weight2: -0.999992
 Weight3: 1.99998
 Weight4: 0.999992
-Output: -0.999992
+Output: -0.999993
 Error: True
 
 Iteration: 161
@@ -5924,7 +5924,7 @@ Training Set: 1
 Weight1: -0.999993
 Weight2: -0.999991
 Weight3: 1.99999
-Weight4: 0.999992
+Weight4: 0.999991
 Output: 0.999993
 Error: True
 
@@ -5942,7 +5942,7 @@ Training Set: 3
 Weight1: -0.999991
 Weight2: -0.999991
 Weight3: 1.99999
-Weight4: 0.999992
+Weight4: 0.999991
 Output: -0.999987
 Error: True
 
@@ -5988,7 +5988,7 @@ Training Set: 4
 Weight1: -0.999993
 Weight2: -0.999993
 Weight3: 1.99999
-Weight4: 0.999994
+Weight4: 0.999993
 Output: -0.999993
 Error: True
 
@@ -6008,7 +6008,7 @@ Weight1: -0.999993
 Weight2: -0.999993
 Weight3: 1.99999
 Weight4: 0.999992
-Output: 0.999994
+Output: 0.999993
 Error: True
 
 
@@ -6044,7 +6044,7 @@ Training Set: 2
 Weight1: -0.999994
 Weight2: -0.999994
 Weight3: 1.99999
-Weight4: 0.999993
+Weight4: 0.999992
 Output: 0.999994
 Error: True
 
@@ -6063,7 +6063,7 @@ Weight1: -0.999994
 Weight2: -0.999994
 Weight3: 1.99999
 Weight4: 0.999994
-Output: -0.999994
+Output: -0.999995
 Error: True
 
 Iteration: 165
@@ -6082,7 +6082,7 @@ Weight1: -0.999994
 Weight2: -0.999994
 Weight3: 1.99999
 Weight4: 0.999993
-Output: 0.999994
+Output: 0.999995
 Error: True
 
 
@@ -6091,7 +6091,7 @@ Weight1: -0.999994
 Weight2: -0.999994
 Weight3: 1.99999
 Weight4: 0.999994
-Output: -0.999991
+Output: -0.99999
 Error: True
 
 
@@ -6128,7 +6128,7 @@ Weight1: -0.999994
 Weight2: -0.999994
 Weight3: 1.99999
 Weight4: 0.999994
-Output: -0.999991
+Output: -0.999992
 Error: True
 
 
@@ -6165,16 +6165,16 @@ Weight1: -0.999995
 Weight2: -0.999995
 Weight3: 1.99999
 Weight4: 0.999995
-Output: -0.999992
+Output: -0.999993
 Error: True
 
 
 Training Set: 4
 Weight1: -0.999996
-Weight2: -0.999995
+Weight2: -0.999996
 Weight3: 1.99999
 Weight4: 0.999996
-Output: -0.999996
+Output: -0.999995
 Error: True
 
 Iteration: 168
@@ -6190,7 +6190,7 @@ Error: True
 
 Training Set: 2
 Weight1: -0.999996
-Weight2: -0.999995
+Weight2: -0.999996
 Weight3: 1.99999
 Weight4: 0.999995
 Output: 0.999995
@@ -6221,7 +6221,7 @@ Weight1: -0.999996
 Weight2: -0.999995
 Weight3: 1.99999
 Weight4: 0.999995
-Output: 0.999995
+Output: 0.999996
 Error: True
 
 
@@ -6254,7 +6254,7 @@ Error: True
 Iteration: 170
 
 Training Set: 1
-Weight1: -0.999997
+Weight1: -0.999996
 Weight2: -0.999996
 Weight3: 1.99999
 Weight4: 0.999996
@@ -6303,7 +6303,7 @@ Training Set: 2
 Weight1: -0.999996
 Weight2: -0.999996
 Weight3: 1.99999
-Weight4: 0.999996
+Weight4: 0.999995
 Output: 0.999996
 Error: True
 
@@ -6318,11 +6318,11 @@ Error: True
 
 
 Training Set: 4
-Weight1: -0.999997
-Weight2: -0.999997
+Weight1: -0.999996
+Weight2: -0.999996
 Weight3: 1.99999
-Weight4: 0.999997
-Output: -0.999996
+Weight4: 0.999996
+Output: -0.999997
 Error: True
 
 Iteration: 172
@@ -6337,8 +6337,8 @@ Error: True
 
 
 Training Set: 2
-Weight1: -0.999997
-Weight2: -0.999997
+Weight1: -0.999996
+Weight2: -0.999996
 Weight3: 1.99999
 Weight4: 0.999996
 Output: 0.999996
@@ -6420,7 +6420,7 @@ Error: True
 
 
 Training Set: 3
-Weight1: -0.999997
+Weight1: -0.999996
 Weight2: -0.999997
 Weight3: 1.99999
 Weight4: 0.999997
@@ -6450,7 +6450,44 @@ Error: True
 Training Set: 2
 Weight1: -0.999997
 Weight2: -0.999997
-Weight3: 2
+Weight3: 1.99999
+Weight4: 0.999997
+Output: 0.999997
+Error: True
+
+
+Training Set: 3
+Weight1: -0.999997
+Weight2: -0.999997
+Weight3: 1.99999
+Weight4: 0.999997
+Output: -0.999996
+Error: True
+
+
+Training Set: 4
+Weight1: -0.999997
+Weight2: -0.999997
+Weight3: 1.99999
+Weight4: 0.999997
+Output: -0.999997
+Error: True
+
+Iteration: 176
+
+Training Set: 1
+Weight1: -0.999997
+Weight2: -0.999997
+Weight3: 1.99999
+Weight4: 0.999997
+Output: 0.999997
+Error: True
+
+
+Training Set: 2
+Weight1: -0.999997
+Weight2: -0.999997
+Weight3: 1.99999
 Weight4: 0.999997
 Output: 0.999997
 Error: True
@@ -6461,19 +6498,19 @@ Weight1: -0.999997
 Weight2: -0.999997
 Weight3: 2
 Weight4: 0.999997
-Output: -0.999995
+Output: -0.999996
 Error: True
 
 
 Training Set: 4
 Weight1: -0.999997
-Weight2: -0.999997
+Weight2: -0.999998
 Weight3: 1.99999
-Weight4: 0.999997
-Output: -0.999998
+Weight4: 0.999998
+Output: -0.999997
 Error: True
 
-Iteration: 176
+Iteration: 177
 
 Training Set: 1
 Weight1: -0.999998
@@ -6486,7 +6523,7 @@ Error: True
 
 Training Set: 2
 Weight1: -0.999997
-Weight2: -0.999997
+Weight2: -0.999998
 Weight3: 2
 Weight4: 0.999997
 Output: 0.999998
@@ -6498,19 +6535,19 @@ Weight1: -0.999997
 Weight2: -0.999997
 Weight3: 2
 Weight4: 0.999997
-Output: -0.999995
+Output: -0.999996
 Error: True
 
 
 Training Set: 4
-Weight1: -0.999998
+Weight1: -0.999997
 Weight2: -0.999998
 Weight3: 2
 Weight4: 0.999998
-Output: -0.999998
+Output: -0.999997
 Error: True
 
-Iteration: 177
+Iteration: 178
 
 Training Set: 1
 Weight1: -0.999998
@@ -6547,13 +6584,13 @@ Weight4: 0.999998
 Output: -0.999998
 Error: True
 
-Iteration: 178
+Iteration: 179
 
 Training Set: 1
 Weight1: -0.999998
-Weight2: -0.999998
+Weight2: -0.999997
 Weight3: 2
-Weight4: 0.999998
+Weight4: 0.999997
 Output: 0.999998
 Error: True
 
@@ -6569,10 +6606,10 @@ Error: True
 
 Training Set: 3
 Weight1: -0.999998
-Weight2: -0.999998
+Weight2: -0.999997
 Weight3: 2
-Weight4: 0.999998
-Output: -0.999997
+Weight4: 0.999997
+Output: -0.999996
 Error: True
 
 
@@ -6581,44 +6618,7 @@ Weight1: -0.999998
 Weight2: -0.999998
 Weight3: 2
 Weight4: 0.999998
-Output: -0.999998
-Error: True
-
-Iteration: 179
-
-Training Set: 1
-Weight1: -0.999998
-Weight2: -0.999998
-Weight3: 2
-Weight4: 0.999998
-Output: 0.999998
-Error: True
-
-
-Training Set: 2
-Weight1: -0.999998
-Weight2: -0.999998
-Weight3: 2
-Weight4: 0.999998
-Output: 0.999998
-Error: True
-
-
-Training Set: 3
-Weight1: -0.999998
-Weight2: -0.999998
-Weight3: 2
-Weight4: 0.999998
-Output: -0.999997
-Error: True
-
-
-Training Set: 4
-Weight1: -0.999998
-Weight2: -0.999998
-Weight3: 2
-Weight4: 0.999998
-Output: -0.999998
+Output: -0.999999
 Error: True
 
 Iteration: 180
@@ -6646,7 +6646,7 @@ Weight1: -0.999998
 Weight2: -0.999998
 Weight3: 2
 Weight4: 0.999998
-Output: -0.999997
+Output: -0.999996
 Error: True
 
 
@@ -6665,7 +6665,7 @@ Weight1: -0.999999
 Weight2: -0.999998
 Weight3: 2
 Weight4: 0.999998
-Output: 0.999999
+Output: 0.999998
 Error: True
 
 
@@ -6674,7 +6674,7 @@ Weight1: -0.999998
 Weight2: -0.999998
 Weight3: 2
 Weight4: 0.999998
-Output: 0.999999
+Output: 0.999998
 Error: True
 
 
@@ -6688,8 +6688,8 @@ Error: True
 
 
 Training Set: 4
-Weight1: -0.999998
-Weight2: -0.999999
+Weight1: -0.999999
+Weight2: -0.999998
 Weight3: 2
 Weight4: 0.999998
 Output: -0.999999
@@ -6702,16 +6702,16 @@ Weight1: -0.999999
 Weight2: -0.999998
 Weight3: 2
 Weight4: 0.999998
-Output: 0.999999
+Output: 0.999998
 Error: True
 
 
 Training Set: 2
-Weight1: -0.999998
+Weight1: -0.999999
 Weight2: -0.999999
 Weight3: 2
 Weight4: 0.999998
-Output: 0.999999
+Output: 0.999998
 Error: True
 
 
@@ -6720,7 +6720,7 @@ Weight1: -0.999998
 Weight2: -0.999998
 Weight3: 2
 Weight4: 0.999998
-Output: -0.999997
+Output: -0.999998
 Error: True
 
 
@@ -6753,7 +6753,7 @@ Error: True
 
 
 Training Set: 3
-Weight1: -0.999999
+Weight1: -0.999998
 Weight2: -0.999999
 Weight3: 2
 Weight4: 0.999999
@@ -6766,7 +6766,7 @@ Weight1: -0.999999
 Weight2: -0.999999
 Weight3: 2
 Weight4: 0.999999
-Output: -0.999998
+Output: -0.999999
 Error: True
 
 Iteration: 184
@@ -6784,17 +6784,17 @@ Training Set: 2
 Weight1: -0.999999
 Weight2: -0.999999
 Weight3: 2
-Weight4: 0.999999
-Output: 0.999998
+Weight4: 0.999998
+Output: 0.999999
 Error: True
 
 
 Training Set: 3
-Weight1: -0.999999
+Weight1: -0.999998
 Weight2: -0.999999
 Weight3: 2
 Weight4: 0.999999
-Output: -0.999999
+Output: -0.999998
 Error: True
 
 
@@ -6803,7 +6803,7 @@ Weight1: -0.999999
 Weight2: -0.999999
 Weight3: 2
 Weight4: 0.999999
-Output: -0.999998
+Output: -0.999999
 Error: True
 
 Iteration: 185
@@ -6951,8 +6951,8 @@ Weight1: -0.999999
 Weight2: -0.999999
 Weight3: 2
 Weight4: 0.999999
-Output: -1
-Error: False
+Output: -0.999999
+Error: True
 
 Iteration: 189
 
@@ -7016,7 +7016,7 @@ Weight1: -0.999999
 Weight2: -0.999999
 Weight3: 2
 Weight4: 0.999999
-Output: -0.999999
+Output: -0.999998
 Error: True
 
 
@@ -7053,7 +7053,7 @@ Weight1: -0.999999
 Weight2: -0.999999
 Weight3: 2
 Weight4: 0.999999
-Output: -0.999999
+Output: -0.999998
 Error: True
 
 
@@ -7072,8 +7072,8 @@ Weight1: -0.999999
 Weight2: -0.999999
 Weight3: 2
 Weight4: 0.999999
-Output: 1
-Error: False
+Output: 0.999999
+Error: True
 
 
 Training Set: 2
@@ -7081,8 +7081,8 @@ Weight1: -0.999999
 Weight2: -0.999999
 Weight3: 2
 Weight4: 0.999999
-Output: 1
-Error: False
+Output: 0.999999
+Error: True
 
 
 Training Set: 3
@@ -7090,7 +7090,7 @@ Weight1: -0.999999
 Weight2: -0.999999
 Weight3: 2
 Weight4: 0.999999
-Output: -0.999999
+Output: -0.999998
 Error: True
 
 
@@ -7127,7 +7127,7 @@ Weight1: -0.999999
 Weight2: -0.999999
 Weight3: 2
 Weight4: 0.999999
-Output: -0.999999
+Output: -0.999998
 Error: True
 
 
@@ -7142,6 +7142,117 @@ Error: True
 Iteration: 194
 
 Training Set: 1
+Weight1: -0.999999
+Weight2: -0.999999
+Weight3: 2
+Weight4: 0.999999
+Output: 1
+Error: False
+
+
+Training Set: 2
+Weight1: -0.999999
+Weight2: -0.999999
+Weight3: 2
+Weight4: 0.999999
+Output: 1
+Error: False
+
+
+Training Set: 3
+Weight1: -0.999999
+Weight2: -0.999999
+Weight3: 2
+Weight4: 0.999999
+Output: -0.999999
+Error: True
+
+
+Training Set: 4
+Weight1: -0.999999
+Weight2: -0.999999
+Weight3: 2
+Weight4: 0.999999
+Output: -0.999999
+Error: True
+
+Iteration: 195
+
+Training Set: 1
+Weight1: -1
+Weight2: -0.999999
+Weight3: 2
+Weight4: 0.999999
+Output: 0.999999
+Error: True
+
+
+Training Set: 2
+Weight1: -1
+Weight2: -0.999999
+Weight3: 2
+Weight4: 0.999999
+Output: 0.999999
+Error: True
+
+
+Training Set: 3
+Weight1: -1
+Weight2: -0.999999
+Weight3: 2
+Weight4: 0.999999
+Output: -0.999999
+Error: True
+
+
+Training Set: 4
+Weight1: -1
+Weight2: -0.999999
+Weight3: 2
+Weight4: 0.999999
+Output: -1
+Error: False
+
+Iteration: 196
+
+Training Set: 1
+Weight1: -1
+Weight2: -0.999999
+Weight3: 2
+Weight4: 0.999999
+Output: 0.999999
+Error: True
+
+
+Training Set: 2
+Weight1: -1
+Weight2: -0.999999
+Weight3: 2
+Weight4: 0.999999
+Output: 0.999999
+Error: True
+
+
+Training Set: 3
+Weight1: -0.999999
+Weight2: -0.999999
+Weight3: 2
+Weight4: 0.999999
+Output: -0.999999
+Error: True
+
+
+Training Set: 4
+Weight1: -1
+Weight2: -0.999999
+Weight3: 2
+Weight4: 0.999999
+Output: -0.999999
+Error: True
+
+Iteration: 197
+
+Training Set: 1
 Weight1: -1
 Weight2: -0.999999
 Weight3: 2
@@ -7152,85 +7263,11 @@ Error: True
 
 Training Set: 2
 Weight1: -0.999999
-Weight2: -0.999999
+Weight2: -1
 Weight3: 2
 Weight4: 0.999999
 Output: 0.999999
 Error: True
-
-
-Training Set: 3
-Weight1: -0.999999
-Weight2: -0.999999
-Weight3: 2
-Weight4: 0.999999
-Output: -0.999999
-Error: True
-
-
-Training Set: 4
-Weight1: -0.999999
-Weight2: -0.999999
-Weight3: 2
-Weight4: 0.999999
-Output: -1
-Error: False
-
-Iteration: 195
-
-Training Set: 1
-Weight1: -0.999999
-Weight2: -0.999999
-Weight3: 2
-Weight4: 0.999999
-Output: 0.999999
-Error: True
-
-
-Training Set: 2
-Weight1: -0.999999
-Weight2: -0.999999
-Weight3: 2
-Weight4: 0.999999
-Output: 0.999999
-Error: True
-
-
-Training Set: 3
-Weight1: -0.999999
-Weight2: -0.999999
-Weight3: 2
-Weight4: 0.999999
-Output: -0.999999
-Error: True
-
-
-Training Set: 4
-Weight1: -0.999999
-Weight2: -0.999999
-Weight3: 2
-Weight4: 0.999999
-Output: -0.999999
-Error: True
-
-Iteration: 196
-
-Training Set: 1
-Weight1: -0.999999
-Weight2: -0.999999
-Weight3: 2
-Weight4: 0.999999
-Output: 1
-Error: False
-
-
-Training Set: 2
-Weight1: -0.999999
-Weight2: -0.999999
-Weight3: 2
-Weight4: 0.999999
-Output: 1
-Error: False
 
 
 Training Set: 3
@@ -7249,43 +7286,6 @@ Weight3: 2
 Weight4: 1
 Output: -0.999999
 Error: True
-
-Iteration: 197
-
-Training Set: 1
-Weight1: -1
-Weight2: -0.999999
-Weight3: 2
-Weight4: 0.999999
-Output: 0.999999
-Error: True
-
-
-Training Set: 2
-Weight1: -1
-Weight2: -0.999999
-Weight3: 2
-Weight4: 0.999999
-Output: 0.999999
-Error: True
-
-
-Training Set: 3
-Weight1: -1
-Weight2: -0.999999
-Weight3: 2
-Weight4: 0.999999
-Output: -1
-Error: False
-
-
-Training Set: 4
-Weight1: -1
-Weight2: -0.999999
-Weight3: 2
-Weight4: 0.999999
-Output: -1
-Error: False
 
 Iteration: 198
 
@@ -7318,16 +7318,16 @@ Error: True
 
 Training Set: 4
 Weight1: -0.999999
-Weight2: -0.999999
+Weight2: -1
 Weight3: 2
-Weight4: 0.999999
-Output: -1
-Error: False
+Weight4: 1
+Output: -0.999999
+Error: True
 
 Iteration: 199
 
 Training Set: 1
-Weight1: -0.999999
+Weight1: -1
 Weight2: -0.999999
 Weight3: 2
 Weight4: 0.999999
@@ -7336,7 +7336,7 @@ Error: False
 
 
 Training Set: 2
-Weight1: -0.999999
+Weight1: -1
 Weight2: -0.999999
 Weight3: 2
 Weight4: 0.999999
@@ -7345,7 +7345,7 @@ Error: False
 
 
 Training Set: 3
-Weight1: -0.999999
+Weight1: -1
 Weight2: -0.999999
 Weight3: 2
 Weight4: 0.999999
@@ -7354,35 +7354,35 @@ Error: True
 
 
 Training Set: 4
-Weight1: -0.999999
+Weight1: -1
 Weight2: -1
 Weight3: 2
 Weight4: 1
-Output: -0.999999
-Error: True
+Output: -1
+Error: False
 
 Iteration: 200
 
 Training Set: 1
-Weight1: -0.999999
+Weight1: -1
 Weight2: -1
 Weight3: 2
 Weight4: 1
-Output: 1
-Error: False
+Output: 0.999999
+Error: True
 
 
 Training Set: 2
-Weight1: -0.999999
+Weight1: -1
 Weight2: -1
 Weight3: 2
 Weight4: 1
-Output: 1
-Error: False
+Output: 0.999999
+Error: True
 
 
 Training Set: 3
-Weight1: -0.999999
+Weight1: -1
 Weight2: -1
 Weight3: 2
 Weight4: 1
@@ -7391,75 +7391,75 @@ Error: False
 
 
 Training Set: 4
-Weight1: -0.999999
+Weight1: -1
 Weight2: -1
 Weight3: 2
 Weight4: 1
-Output: -0.999999
-Error: True
+Output: -1
+Error: False
 
 Iteration: 201
 
 Training Set: 1
 Weight1: -1
-Weight2: -0.999999
+Weight2: -1
 Weight3: 2
-Weight4: 0.999999
-Output: 1
-Error: False
+Weight4: 1
+Output: 0.999999
+Error: True
 
 
 Training Set: 2
 Weight1: -1
-Weight2: -0.999999
+Weight2: -1
 Weight3: 2
 Weight4: 0.999999
-Output: 1
-Error: False
+Output: 0.999999
+Error: True
 
 
 Training Set: 3
-Weight1: -1
-Weight2: -0.999999
+Weight1: -0.999999
+Weight2: -1
 Weight3: 2
-Weight4: 0.999999
+Weight4: 1
 Output: -0.999999
 Error: True
 
 
 Training Set: 4
-Weight1: -1
-Weight2: -0.999999
+Weight1: -0.999999
+Weight2: -1
 Weight3: 2
-Weight4: 0.999999
+Weight4: 1
 Output: -1
 Error: False
 
 Iteration: 202
 
 Training Set: 1
-Weight1: -1
-Weight2: -0.999999
+Weight1: -0.999999
+Weight2: -1
 Weight3: 2
-Weight4: 0.999999
+Weight4: 1
 Output: 1
 Error: False
 
 
 Training Set: 2
-Weight1: -1
-Weight2: -0.999999
+Weight1: -0.999999
+Weight2: -1
 Weight3: 2
-Weight4: 0.999999
+Weight4: 1
 Output: 1
 Error: False
 
 
 Training Set: 3
-Weight1: -1
-Weight2: -0.999999
+Weight1: -0.999999
+Weight2: -1
 Weight3: 2
-Weight4: 0.999999
+Weight4: 1
 Output: -0.999999
 Error: True
 
@@ -7469,8 +7469,8 @@ Weight1: -1
 Weight2: -1
 Weight3: 2
 Weight4: 1
-Output: -1
-Error: False
+Output: -0.999999
+Error: True
 
 Iteration: 203
 
@@ -7479,8 +7479,8 @@ Weight1: -1
 Weight2: -1
 Weight3: 2
 Weight4: 1
-Output: 0.999999
-Error: True
+Output: 1
+Error: False
 
 
 Training Set: 2
@@ -7488,8 +7488,8 @@ Weight1: -1
 Weight2: -1
 Weight3: 2
 Weight4: 1
-Output: 0.999999
-Error: True
+Output: 1
+Error: False
 
 
 Training Set: 3
@@ -7506,8 +7506,8 @@ Weight1: -1
 Weight2: -1
 Weight3: 2
 Weight4: 1
-Output: -1
-Error: False
+Output: -0.999999
+Error: True
 
 Iteration: 204
 
@@ -7516,117 +7516,6 @@ Weight1: -1
 Weight2: -1
 Weight3: 2
 Weight4: 1
-Output: 0.999999
-Error: True
-
-
-Training Set: 2
-Weight1: -1
-Weight2: -1
-Weight3: 2
-Weight4: 0.999999
-Output: 0.999999
-Error: True
-
-
-Training Set: 3
-Weight1: -0.999999
-Weight2: -1
-Weight3: 2
-Weight4: 1
-Output: -0.999999
-Error: True
-
-
-Training Set: 4
-Weight1: -0.999999
-Weight2: -1
-Weight3: 2
-Weight4: 1
-Output: -1
-Error: False
-
-Iteration: 205
-
-Training Set: 1
-Weight1: -0.999999
-Weight2: -1
-Weight3: 2
-Weight4: 1
-Output: 1
-Error: False
-
-
-Training Set: 2
-Weight1: -0.999999
-Weight2: -1
-Weight3: 2
-Weight4: 1
-Output: 1
-Error: False
-
-
-Training Set: 3
-Weight1: -0.999999
-Weight2: -1
-Weight3: 2
-Weight4: 1
-Output: -0.999999
-Error: True
-
-
-Training Set: 4
-Weight1: -1
-Weight2: -1
-Weight3: 2
-Weight4: 1
-Output: -0.999999
-Error: True
-
-Iteration: 206
-
-Training Set: 1
-Weight1: -1
-Weight2: -1
-Weight3: 2
-Weight4: 1
-Output: 1
-Error: False
-
-
-Training Set: 2
-Weight1: -1
-Weight2: -1
-Weight3: 2
-Weight4: 1
-Output: 1
-Error: False
-
-
-Training Set: 3
-Weight1: -1
-Weight2: -1
-Weight3: 2
-Weight4: 1
-Output: -1
-Error: False
-
-
-Training Set: 4
-Weight1: -1
-Weight2: -1
-Weight3: 2
-Weight4: 1
-Output: -0.999999
-Error: True
-
-Iteration: 207
-
-Training Set: 1
-Weight1: -1
-Weight2: -1
-Weight3: 2
-Weight4: 1
 Output: 1
 Error: False
 
@@ -7657,4 +7546,4 @@ Weight4: 1
 Output: -1
 Error: False
 
-Algorithm took 207 iterations
+Algorithm took 204 iterations

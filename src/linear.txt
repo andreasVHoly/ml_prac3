@@ -1,0 +1,7549 @@
+Iteration: 1
+
+Training Set: 1
+Weight1: 0
+Weight2: 0
+Weight3: 0
+Weight4: 0
+Output: 0
+Error: True
+
+
+Training Set: 2
+Weight1: 0.1
+Weight2: -0.1
+Weight3: 0.1
+Weight4: -0.1
+Output: 0
+Error: True
+
+
+Training Set: 3
+Weight1: 0.2
+Weight2: 0
+Weight3: 0.2
+Weight4: 0
+Output: 0.4
+Error: True
+
+
+Training Set: 4
+Weight1: 0.1
+Weight2: -0.1
+Weight3: 0.1
+Weight4: 0.1
+Output: 0.2
+Error: True
+
+Iteration: 2
+
+Training Set: 1
+Weight1: 0
+Weight2: 0
+Weight3: 0.2
+Weight4: 0
+Output: 0.2
+Error: True
+
+
+Training Set: 2
+Weight1: 0.1
+Weight2: -0.1
+Weight3: 0.3
+Weight4: -0.1
+Output: 0.2
+Error: True
+
+
+Training Set: 3
+Weight1: 0.2
+Weight2: 0
+Weight3: 0.4
+Weight4: 0
+Output: 0.6
+Error: True
+
+
+Training Set: 4
+Weight1: 0.06
+Weight2: -0.14
+Weight3: 0.26
+Weight4: 0.14
+Output: 0.08
+Error: True
+
+Iteration: 3
+
+Training Set: 1
+Weight1: -0.06
+Weight2: -0.02
+Weight3: 0.38
+Weight4: 0.02
+Output: 0.32
+Error: True
+
+
+Training Set: 2
+Weight1: 0.02
+Weight2: -0.1
+Weight3: 0.46
+Weight4: -0.06
+Output: 0.32
+Error: True
+
+
+Training Set: 3
+Weight1: 0.1
+Weight2: -0.02
+Weight3: 0.54
+Weight4: 0.02
+Output: 0.6
+Error: True
+
+
+Training Set: 4
+Weight1: -0.06
+Weight2: -0.18
+Weight3: 0.38
+Weight4: 0.18
+Output: -0.08
+Error: True
+
+Iteration: 4
+
+Training Set: 1
+Weight1: -0.168
+Weight2: -0.072
+Weight3: 0.488
+Weight4: 0.072
+Output: 0.32
+Error: True
+
+
+Training Set: 2
+Weight1: -0.1
+Weight2: -0.14
+Weight3: 0.556
+Weight4: 0.004
+Output: 0.32
+Error: True
+
+
+Training Set: 3
+Weight1: -0.032
+Weight2: -0.072
+Weight3: 0.624
+Weight4: 0.072
+Output: 0.448
+Error: True
+
+
+Training Set: 4
+Weight1: -0.192
+Weight2: -0.232
+Weight3: 0.464
+Weight4: 0.232
+Output: -0.192
+Error: True
+
+Iteration: 5
+
+Training Set: 1
+Weight1: -0.284
+Weight2: -0.14
+Weight3: 0.556
+Weight4: 0.14
+Output: 0.272
+Error: True
+
+
+Training Set: 2
+Weight1: -0.216
+Weight2: -0.208
+Weight3: 0.624
+Weight4: 0.072
+Output: 0.272
+Error: True
+
+
+Training Set: 3
+Weight1: -0.148
+Weight2: -0.14
+Weight3: 0.692
+Weight4: 0.14
+Output: 0.264
+Error: True
+
+
+Training Set: 4
+Weight1: -0.2928
+Weight2: -0.2848
+Weight3: 0.5472
+Weight4: 0.2848
+Output: -0.2704
+Error: True
+
+Iteration: 6
+
+Training Set: 1
+Weight1: -0.3736
+Weight2: -0.204
+Weight3: 0.628
+Weight4: 0.204
+Output: 0.2544
+Error: True
+
+
+Training Set: 2
+Weight1: -0.3008
+Weight2: -0.2768
+Weight3: 0.7008
+Weight4: 0.1312
+Output: 0.2544
+Error: True
+
+
+Training Set: 3
+Weight1: -0.228
+Weight2: -0.204
+Weight3: 0.7736
+Weight4: 0.204
+Output: 0.1376
+Error: True
+
+
+Training Set: 4
+Weight1: -0.3544
+Weight2: -0.3304
+Weight3: 0.6472
+Weight4: 0.3304
+Output: -0.3408
+Error: True
+
+Iteration: 7
+
+Training Set: 1
+Weight1: -0.42736
+Weight2: -0.25744
+Weight3: 0.72016
+Weight4: 0.25744
+Output: 0.2928
+Error: True
+
+
+Training Set: 2
+Weight1: -0.3528
+Weight2: -0.332
+Weight3: 0.79472
+Weight4: 0.18288
+Output: 0.2928
+Error: True
+
+
+Training Set: 3
+Weight1: -0.27824
+Weight2: -0.25744
+Weight3: 0.86928
+Weight4: 0.25744
+Output: 0.07616
+Error: True
+
+
+Training Set: 4
+Weight1: -0.392
+Weight2: -0.3712
+Weight3: 0.75552
+Weight4: 0.3712
+Output: -0.40512
+Error: True
+
+Iteration: 8
+
+Training Set: 1
+Weight1: -0.45792
+Weight2: -0.30528
+Weight3: 0.82144
+Weight4: 0.30528
+Output: 0.36352
+Error: True
+
+
+Training Set: 2
+Weight1: -0.3872
+Weight2: -0.376
+Weight3: 0.89216
+Weight4: 0.23456
+Output: 0.36352
+Error: True
+
+
+Training Set: 3
+Weight1: -0.31648
+Weight2: -0.30528
+Weight3: 0.96288
+Weight4: 0.30528
+Output: 0.03584
+Error: True
+
+
+Training Set: 4
+Weight1: -0.424096
+Weight2: -0.412896
+Weight3: 0.855264
+Weight4: 0.412896
+Output: -0.453568
+Error: True
+
+Iteration: 9
+
+Training Set: 1
+Weight1: -0.483584
+Weight2: -0.353408
+Weight3: 0.914752
+Weight4: 0.353408
+Output: 0.431168
+Error: True
+
+
+Training Set: 2
+Weight1: -0.419936
+Weight2: -0.417056
+Weight3: 0.9784
+Weight4: 0.28976
+Output: 0.431168
+Error: True
+
+
+Training Set: 3
+Weight1: -0.356288
+Weight2: -0.353408
+Weight3: 1.04205
+Weight4: 0.353408
+Output: -0.021056
+Error: True
+
+
+Training Set: 4
+Weight1: -0.459872
+Weight2: -0.456992
+Weight3: 0.938464
+Weight4: 0.456992
+Output: -0.484352
+Error: True
+
+Iteration: 10
+
+Training Set: 1
+Weight1: -0.514515
+Weight2: -0.402349
+Weight3: 0.993107
+Weight4: 0.402349
+Output: 0.478592
+Error: True
+
+
+Training Set: 2
+Weight1: -0.457632
+Weight2: -0.459232
+Weight3: 1.04999
+Weight4: 0.345466
+Output: 0.478592
+Error: True
+
+
+Training Set: 3
+Weight1: -0.400749
+Weight2: -0.402349
+Weight3: 1.10687
+Weight4: 0.402349
+Output: -0.098573
+Error: True
+
+
+Training Set: 4
+Weight1: -0.498643
+Weight2: -0.500243
+Weight3: 1.00898
+Weight4: 0.500243
+Output: -0.507136
+Error: True
+
+Iteration: 11
+
+Training Set: 1
+Weight1: -0.550208
+Weight2: -0.448678
+Weight3: 1.06054
+Weight4: 0.448678
+Output: 0.510336
+Error: True
+
+
+Training Set: 2
+Weight1: -0.498067
+Weight2: -0.500819
+Weight3: 1.11268
+Weight4: 0.396538
+Output: 0.510336
+Error: True
+
+
+Training Set: 3
+Weight1: -0.445926
+Weight2: -0.448678
+Weight3: 1.16483
+Weight4: 0.448678
+Output: -0.178457
+Error: True
+
+
+Training Set: 4
+Weight1: -0.536069
+Weight2: -0.538821
+Weight3: 1.07468
+Weight4: 0.538821
+Output: -0.53311
+Error: True
+
+Iteration: 12
+
+Training Set: 1
+Weight1: -0.585356
+Weight2: -0.489535
+Weight3: 1.12397
+Weight4: 0.489535
+Output: 0.538614
+Error: True
+
+
+Training Set: 2
+Weight1: -0.536389
+Weight2: -0.538501
+Weight3: 1.17294
+Weight4: 0.440568
+Output: 0.538614
+Error: True
+
+
+Training Set: 3
+Weight1: -0.487423
+Weight2: -0.489535
+Weight3: 1.2219
+Weight4: 0.489535
+Output: -0.24459
+Error: True
+
+
+Training Set: 4
+Weight1: -0.569577
+Weight2: -0.571689
+Weight3: 1.13975
+Weight4: 0.571689
+Output: -0.565947
+Error: True
+
+Iteration: 13
+
+Training Set: 1
+Weight1: -0.616266
+Weight2: -0.525
+Weight3: 1.18644
+Weight4: 0.525
+Output: 0.570171
+Error: True
+
+
+Training Set: 2
+Weight1: -0.570127
+Weight2: -0.571139
+Weight3: 1.23258
+Weight4: 0.478861
+Output: 0.570171
+Error: True
+
+
+Training Set: 3
+Weight1: -0.523989
+Weight2: -0.525
+Weight3: 1.27871
+Weight4: 0.525
+Output: -0.295275
+Error: True
+
+
+Training Set: 4
+Weight1: -0.59953
+Weight2: -0.600541
+Weight3: 1.20317
+Weight4: 0.600541
+Output: -0.601621
+Error: True
+
+Iteration: 14
+
+Training Set: 1
+Weight1: -0.642935
+Weight2: -0.557136
+Weight3: 1.24658
+Weight4: 0.557136
+Output: 0.603643
+Error: True
+
+
+Training Set: 2
+Weight1: -0.599952
+Weight2: -0.600119
+Weight3: 1.28956
+Weight4: 0.514153
+Output: 0.603644
+Error: True
+
+
+Training Set: 3
+Weight1: -0.556969
+Weight2: -0.557136
+Weight3: 1.33254
+Weight4: 0.557136
+Output: -0.338696
+Error: True
+
+
+Training Set: 4
+Weight1: -0.627442
+Weight2: -0.627608
+Weight3: 1.26207
+Weight4: 0.627608
+Output: -0.634297
+Error: True
+
+Iteration: 15
+
+Training Set: 1
+Weight1: -0.66728
+Weight2: -0.58777
+Weight3: 1.30191
+Weight4: 0.58777
+Output: 0.63463
+Error: True
+
+
+Training Set: 2
+Weight1: -0.627644
+Weight2: -0.627406
+Weight3: 1.34155
+Weight4: 0.548135
+Output: 0.63463
+Error: True
+
+
+Training Set: 3
+Weight1: -0.588008
+Weight2: -0.58777
+Weight3: 1.38118
+Weight4: 0.58777
+Output: -0.382368
+Error: True
+
+
+Training Set: 4
+Weight1: -0.654139
+Weight2: -0.653901
+Weight3: 1.31505
+Weight4: 0.653901
+Output: -0.661388
+Error: True
+
+Iteration: 16
+
+Training Set: 1
+Weight1: -0.690709
+Weight2: -0.61733
+Weight3: 1.35162
+Weight4: 0.61733
+Output: 0.660912
+Error: True
+
+
+Training Set: 2
+Weight1: -0.654172
+Weight2: -0.653867
+Weight3: 1.38816
+Weight4: 0.580793
+Output: 0.660912
+Error: True
+
+
+Training Set: 3
+Weight1: -0.617635
+Weight2: -0.61733
+Weight3: 1.4247
+Weight4: 0.61733
+Output: -0.427601
+Error: True
+
+
+Training Set: 4
+Weight1: -0.679398
+Weight2: -0.679094
+Weight3: 1.36293
+Weight4: 0.679094
+Output: -0.684143
+Error: True
+
+Iteration: 17
+
+Training Set: 1
+Weight1: -0.71326
+Weight2: -0.645232
+Weight3: 1.39679
+Weight4: 0.645232
+Output: 0.683534
+Error: True
+
+
+Training Set: 2
+Weight1: -0.679351
+Weight2: -0.679141
+Weight3: 1.4307
+Weight4: 0.611324
+Output: 0.683533
+Error: True
+
+
+Training Set: 3
+Weight1: -0.645442
+Weight2: -0.645232
+Weight3: 1.46461
+Weight4: 0.645232
+Output: -0.471296
+Error: True
+
+
+Training Set: 4
+Weight1: -0.702682
+Weight2: -0.702472
+Weight3: 1.40737
+Weight4: 0.702472
+Output: -0.705108
+Error: True
+
+Iteration: 18
+
+Training Set: 1
+Weight1: -0.734268
+Weight2: -0.670887
+Weight3: 1.43896
+Weight4: 0.670887
+Output: 0.704689
+Error: True
+
+
+Training Set: 2
+Weight1: -0.702621
+Weight2: -0.702533
+Weight3: 1.4706
+Weight4: 0.63924
+Output: 0.704689
+Error: True
+
+
+Training Set: 3
+Weight1: -0.670974
+Weight2: -0.670887
+Weight3: 1.50225
+Weight4: 0.670887
+Output: -0.510498
+Error: True
+
+
+Training Set: 4
+Weight1: -0.723845
+Weight2: -0.723757
+Weight3: 1.44938
+Weight4: 0.723757
+Output: -0.72571
+Error: True
+
+Iteration: 19
+
+Training Set: 1
+Weight1: -0.753334
+Weight2: -0.694268
+Weight3: 1.47887
+Weight4: 0.694268
+Output: 0.725535
+Error: True
+
+
+Training Set: 2
+Weight1: -0.723803
+Weight2: -0.723799
+Weight3: 1.5084
+Weight4: 0.664737
+Output: 0.725535
+Error: True
+
+
+Training Set: 3
+Weight1: -0.694272
+Weight2: -0.694268
+Weight3: 1.53793
+Weight4: 0.694268
+Output: -0.544876
+Error: True
+
+
+Training Set: 4
+Weight1: -0.743222
+Weight2: -0.743218
+Weight3: 1.48898
+Weight4: 0.743218
+Output: -0.745767
+Error: True
+
+Iteration: 20
+
+Training Set: 1
+Weight1: -0.770651
+Weight2: -0.715789
+Weight3: 1.51641
+Weight4: 0.715789
+Output: 0.745759
+Error: True
+
+
+Training Set: 2
+Weight1: -0.743204
+Weight2: -0.743235
+Weight3: 1.54386
+Weight4: 0.688343
+Output: 0.745759
+Error: True
+
+
+Training Set: 3
+Weight1: -0.715758
+Weight2: -0.715789
+Weight3: 1.5713
+Weight4: 0.715789
+Output: -0.576033
+Error: True
+
+
+Training Set: 4
+Weight1: -0.76127
+Weight2: -0.761301
+Weight3: 1.52579
+Weight4: 0.761301
+Output: -0.764458
+Error: True
+
+Iteration: 21
+
+Training Set: 1
+Weight1: -0.786693
+Weight2: -0.735878
+Weight3: 1.55121
+Weight4: 0.735878
+Output: 0.76452
+Error: True
+
+
+Training Set: 2
+Weight1: -0.761269
+Weight2: -0.761302
+Weight3: 1.57664
+Weight4: 0.710454
+Output: 0.76452
+Error: True
+
+
+Training Set: 3
+Weight1: -0.735845
+Weight2: -0.735878
+Weight3: 1.60206
+Weight4: 0.735878
+Output: -0.60554
+Error: True
+
+
+Training Set: 4
+Weight1: -0.778242
+Weight2: -0.778275
+Weight3: 1.55967
+Weight4: 0.778275
+Output: -0.781357
+Error: True
+
+Iteration: 22
+
+Training Set: 1
+Weight1: -0.801796
+Weight2: -0.754721
+Weight3: 1.58322
+Weight4: 0.754721
+Output: 0.781423
+Error: True
+
+
+Training Set: 2
+Weight1: -0.778248
+Weight2: -0.778269
+Weight3: 1.60677
+Weight4: 0.731173
+Output: 0.781423
+Error: True
+
+
+Training Set: 3
+Weight1: -0.7547
+Weight2: -0.754721
+Weight3: 1.63032
+Weight4: 0.754721
+Output: -0.633826
+Error: True
+
+
+Training Set: 4
+Weight1: -0.794146
+Weight2: -0.794167
+Weight3: 1.59087
+Weight4: 0.794167
+Output: -0.796682
+Error: True
+
+Iteration: 23
+
+Training Set: 1
+Weight1: -0.81601
+Weight2: -0.772302
+Weight3: 1.61273
+Weight4: 0.772302
+Output: 0.796723
+Error: True
+
+
+Training Set: 2
+Weight1: -0.794153
+Weight2: -0.79416
+Weight3: 1.63459
+Weight4: 0.750445
+Output: 0.796723
+Error: True
+
+
+Training Set: 3
+Weight1: -0.772295
+Weight2: -0.772302
+Weight3: 1.65645
+Weight4: 0.772302
+Output: -0.660451
+Error: True
+
+
+Training Set: 4
+Weight1: -0.808912
+Weight2: -0.80892
+Weight3: 1.61983
+Weight4: 0.80892
+Output: -0.810905
+Error: True
+
+Iteration: 24
+
+Training Set: 1
+Weight1: -0.829244
+Weight2: -0.788588
+Weight3: 1.64016
+Weight4: 0.788588
+Output: 0.810919
+Error: True
+
+
+Training Set: 2
+Weight1: -0.808917
+Weight2: -0.808915
+Weight3: 1.66049
+Weight4: 0.76826
+Output: 0.810919
+Error: True
+
+
+Training Set: 3
+Weight1: -0.788589
+Weight2: -0.788588
+Weight3: 1.68082
+Weight4: 0.788588
+Output: -0.684946
+Error: True
+
+
+Training Set: 4
+Weight1: -0.822544
+Weight2: -0.822543
+Weight3: 1.64686
+Weight4: 0.822543
+Output: -0.824322
+Error: True
+
+Iteration: 25
+
+Training Set: 1
+Weight1: -0.841453
+Weight2: -0.803633
+Weight3: 1.66577
+Weight4: 0.803633
+Output: 0.82432
+Error: True
+
+
+Training Set: 2
+Weight1: -0.822545
+Weight2: -0.822541
+Weight3: 1.68468
+Weight4: 0.784725
+Output: 0.82432
+Error: True
+
+
+Training Set: 3
+Weight1: -0.803637
+Weight2: -0.803633
+Weight3: 1.70359
+Weight4: 0.803633
+Output: -0.707314
+Error: True
+
+
+Training Set: 4
+Weight1: -0.835143
+Weight2: -0.835139
+Weight3: 1.67208
+Weight4: 0.835139
+Output: -0.83695
+Error: True
+
+Iteration: 26
+
+Training Set: 1
+Weight1: -0.85271
+Weight2: -0.817571
+Weight3: 1.68965
+Weight4: 0.817571
+Output: 0.836942
+Error: True
+
+
+Training Set: 2
+Weight1: -0.835142
+Weight2: -0.835139
+Weight3: 1.70722
+Weight4: 0.800003
+Output: 0.836942
+Error: True
+
+
+Training Set: 3
+Weight1: -0.817574
+Weight2: -0.817571
+Weight3: 1.72479
+Weight4: 0.817571
+Output: -0.727928
+Error: True
+
+
+Training Set: 4
+Weight1: -0.846843
+Weight2: -0.846839
+Weight3: 1.69552
+Weight4: 0.84684
+Output: -0.848684
+Error: True
+
+Iteration: 27
+
+Training Set: 1
+Weight1: -0.863148
+Weight2: -0.830534
+Weight3: 1.71182
+Weight4: 0.830535
+Output: 0.848676
+Error: True
+
+
+Training Set: 2
+Weight1: -0.846842
+Weight2: -0.84684
+Weight3: 1.72813
+Weight4: 0.814229
+Output: 0.848677
+Error: True
+
+
+Training Set: 3
+Weight1: -0.830536
+Weight2: -0.830534
+Weight3: 1.74444
+Weight4: 0.830535
+Output: -0.747169
+Error: True
+
+
+Training Set: 4
+Weight1: -0.857744
+Weight2: -0.857742
+Weight3: 1.71723
+Weight4: 0.857742
+Output: -0.859489
+Error: True
+
+Iteration: 28
+
+Training Set: 1
+Weight1: -0.872875
+Weight2: -0.84261
+Weight3: 1.73236
+Weight4: 0.84261
+Output: 0.859485
+Error: True
+
+
+Training Set: 2
+Weight1: -0.857743
+Weight2: -0.857742
+Weight3: 1.74749
+Weight4: 0.827478
+Output: 0.859485
+Error: True
+
+
+Training Set: 3
+Weight1: -0.84261
+Weight2: -0.84261
+Weight3: 1.76263
+Weight4: 0.84261
+Output: -0.765206
+Error: True
+
+
+Training Set: 4
+Weight1: -0.867894
+Weight2: -0.867893
+Weight3: 1.73734
+Weight4: 0.867893
+Output: -0.869449
+Error: True
+
+Iteration: 29
+
+Training Set: 1
+Weight1: -0.881945
+Weight2: -0.853842
+Weight3: 1.75139
+Weight4: 0.853842
+Output: 0.869448
+Error: True
+
+
+Training Set: 2
+Weight1: -0.867893
+Weight2: -0.867894
+Weight3: 1.76544
+Weight4: 0.839791
+Output: 0.869449
+Error: True
+
+
+Training Set: 3
+Weight1: -0.853842
+Weight2: -0.853842
+Weight3: 1.7795
+Weight4: 0.853842
+Output: -0.78203
+Error: True
+
+
+Training Set: 4
+Weight1: -0.877321
+Weight2: -0.877322
+Weight3: 1.75602
+Weight4: 0.877322
+Output: -0.878695
+Error: True
+
+Iteration: 30
+
+Training Set: 1
+Weight1: -0.890376
+Weight2: -0.864266
+Weight3: 1.76907
+Weight4: 0.864266
+Output: 0.878696
+Error: True
+
+
+Training Set: 2
+Weight1: -0.877321
+Weight2: -0.877322
+Weight3: 1.78213
+Weight4: 0.851211
+Output: 0.878696
+Error: True
+
+
+Training Set: 3
+Weight1: -0.864266
+Weight2: -0.864267
+Weight3: 1.79518
+Weight4: 0.864266
+Output: -0.797617
+Error: True
+
+
+Training Set: 4
+Weight1: -0.886063
+Weight2: -0.886064
+Weight3: 1.77339
+Weight4: 0.886063
+Output: -0.887321
+Error: True
+
+Iteration: 31
+
+Training Set: 1
+Weight1: -0.898193
+Weight2: -0.873933
+Weight3: 1.78552
+Weight4: 0.873933
+Output: 0.887322
+Error: True
+
+
+Training Set: 2
+Weight1: -0.886063
+Weight2: -0.886063
+Weight3: 1.79765
+Weight4: 0.861802
+Output: 0.887322
+Error: True
+
+
+Training Set: 3
+Weight1: -0.873933
+Weight2: -0.873933
+Weight3: 1.80978
+Weight4: 0.873933
+Output: -0.812022
+Error: True
+
+
+Training Set: 4
+Weight1: -0.894171
+Weight2: -0.894171
+Weight3: 1.78954
+Weight4: 0.894171
+Output: -0.895366
+Error: True
+
+Iteration: 32
+
+Training Set: 1
+Weight1: -0.905439
+Weight2: -0.882903
+Weight3: 1.80081
+Weight4: 0.882903
+Output: 0.895367
+Error: True
+
+
+Training Set: 2
+Weight1: -0.894171
+Weight2: -0.894171
+Weight3: 1.81207
+Weight4: 0.871635
+Output: 0.895367
+Error: True
+
+
+Training Set: 3
+Weight1: -0.882903
+Weight2: -0.882903
+Weight3: 1.82334
+Weight4: 0.882903
+Output: -0.825368
+Error: True
+
+
+Training Set: 4
+Weight1: -0.901701
+Weight2: -0.901701
+Weight3: 1.80454
+Weight4: 0.901701
+Output: -0.902842
+Error: True
+
+Iteration: 33
+
+Training Set: 1
+Weight1: -0.912164
+Weight2: -0.891238
+Weight3: 1.81501
+Weight4: 0.891238
+Output: 0.902843
+Error: True
+
+
+Training Set: 2
+Weight1: -0.901701
+Weight2: -0.901701
+Weight3: 1.82547
+Weight4: 0.880774
+Output: 0.902842
+Error: True
+
+
+Training Set: 3
+Weight1: -0.891238
+Weight2: -0.891238
+Weight3: 1.83593
+Weight4: 0.891238
+Output: -0.83778
+Error: True
+
+
+Training Set: 4
+Weight1: -0.908701
+Weight2: -0.908701
+Weight3: 1.81847
+Weight4: 0.908701
+Output: -0.90977
+Error: True
+
+Iteration: 34
+
+Training Set: 1
+Weight1: -0.918417
+Weight2: -0.898985
+Weight3: 1.82819
+Weight4: 0.898985
+Output: 0.90977
+Error: True
+
+
+Training Set: 2
+Weight1: -0.908701
+Weight2: -0.908701
+Weight3: 1.8379
+Weight4: 0.889269
+Output: 0.909769
+Error: True
+
+
+Training Set: 3
+Weight1: -0.898985
+Weight2: -0.898985
+Weight3: 1.84762
+Weight4: 0.898985
+Output: -0.849338
+Error: True
+
+
+Training Set: 4
+Weight1: -0.915207
+Weight2: -0.915207
+Weight3: 1.8314
+Weight4: 0.915207
+Output: -0.916189
+Error: True
+
+Iteration: 35
+
+Training Set: 1
+Weight1: -0.92423
+Weight2: -0.906184
+Weight3: 1.84042
+Weight4: 0.906184
+Output: 0.916188
+Error: True
+
+
+Training Set: 2
+Weight1: -0.915207
+Weight2: -0.915207
+Weight3: 1.84944
+Weight4: 0.897161
+Output: 0.916188
+Error: True
+
+
+Training Set: 3
+Weight1: -0.906184
+Weight2: -0.906184
+Weight3: 1.85846
+Weight4: 0.906184
+Output: -0.860088
+Error: True
+
+
+Training Set: 4
+Weight1: -0.921251
+Weight2: -0.92125
+Weight3: 1.8434
+Weight4: 0.92125
+Output: -0.922148
+Error: True
+
+Iteration: 36
+
+Training Set: 1
+Weight1: -0.929632
+Weight2: -0.912869
+Weight3: 1.85178
+Weight4: 0.912869
+Output: 0.922148
+Error: True
+
+
+Training Set: 2
+Weight1: -0.92125
+Weight2: -0.92125
+Weight3: 1.86016
+Weight4: 0.904488
+Output: 0.922148
+Error: True
+
+
+Training Set: 3
+Weight1: -0.912869
+Weight2: -0.912869
+Weight3: 1.86854
+Weight4: 0.912869
+Output: -0.870066
+Error: True
+
+
+Training Set: 4
+Weight1: -0.92686
+Weight2: -0.92686
+Weight3: 1.85455
+Weight4: 0.926861
+Output: -0.92769
+Error: True
+
+Iteration: 37
+
+Training Set: 1
+Weight1: -0.934646
+Weight2: -0.919075
+Weight3: 1.86234
+Weight4: 0.919075
+Output: 0.92769
+Error: True
+
+
+Training Set: 2
+Weight1: -0.92686
+Weight2: -0.92686
+Weight3: 1.87012
+Weight4: 0.91129
+Output: 0.927691
+Error: True
+
+
+Training Set: 3
+Weight1: -0.919075
+Weight2: -0.919075
+Weight3: 1.87791
+Weight4: 0.919075
+Output: -0.879319
+Error: True
+
+
+Training Set: 4
+Weight1: -0.932069
+Weight2: -0.932069
+Weight3: 1.86491
+Weight4: 0.932069
+Output: -0.932844
+Error: True
+
+Iteration: 38
+
+Training Set: 1
+Weight1: -0.9393
+Weight2: -0.924838
+Weight3: 1.87214
+Weight4: 0.924838
+Output: 0.932844
+Error: True
+
+
+Training Set: 2
+Weight1: -0.932069
+Weight2: -0.932069
+Weight3: 1.87938
+Weight4: 0.917607
+Output: 0.932845
+Error: True
+
+
+Training Set: 3
+Weight1: -0.924838
+Weight2: -0.924838
+Weight3: 1.88661
+Weight4: 0.924838
+Output: -0.887907
+Error: True
+
+
+Training Set: 4
+Weight1: -0.936906
+Weight2: -0.936906
+Weight3: 1.87454
+Weight4: 0.936906
+Output: -0.937632
+Error: True
+
+Iteration: 39
+
+Training Set: 1
+Weight1: -0.943621
+Weight2: -0.93019
+Weight3: 1.88125
+Weight4: 0.93019
+Output: 0.937632
+Error: True
+
+
+Training Set: 2
+Weight1: -0.936906
+Weight2: -0.936906
+Weight3: 1.88797
+Weight4: 0.923474
+Output: 0.937632
+Error: True
+
+
+Training Set: 3
+Weight1: -0.93019
+Weight2: -0.93019
+Weight3: 1.89468
+Weight4: 0.93019
+Output: -0.895886
+Error: True
+
+
+Training Set: 4
+Weight1: -0.9414
+Weight2: -0.9414
+Weight3: 1.88348
+Weight4: 0.941399
+Output: -0.942076
+Error: True
+
+Iteration: 40
+
+Training Set: 1
+Weight1: -0.947636
+Weight2: -0.935163
+Weight3: 1.88971
+Weight4: 0.935162
+Output: 0.942076
+Error: True
+
+
+Training Set: 2
+Weight1: -0.9414
+Weight2: -0.9414
+Weight3: 1.89595
+Weight4: 0.928926
+Output: 0.942075
+Error: True
+
+
+Training Set: 3
+Weight1: -0.935163
+Weight2: -0.935163
+Weight3: 1.90219
+Weight4: 0.935162
+Output: -0.903302
+Error: True
+
+
+Training Set: 4
+Weight1: -0.945574
+Weight2: -0.945574
+Weight3: 1.89177
+Weight4: 0.945574
+Output: -0.946201
+Error: True
+
+Iteration: 41
+
+Training Set: 1
+Weight1: -0.951367
+Weight2: -0.939782
+Weight3: 1.89757
+Weight4: 0.939781
+Output: 0.946201
+Error: True
+
+
+Training Set: 2
+Weight1: -0.945574
+Weight2: -0.945574
+Weight3: 1.90336
+Weight4: 0.933989
+Output: 0.9462
+Error: True
+
+
+Training Set: 3
+Weight1: -0.939782
+Weight2: -0.939782
+Weight3: 1.90915
+Weight4: 0.939782
+Output: -0.910193
+Error: True
+
+
+Training Set: 4
+Weight1: -0.949452
+Weight2: -0.949452
+Weight3: 1.89948
+Weight4: 0.949451
+Output: -0.950031
+Error: True
+
+Iteration: 42
+
+Training Set: 1
+Weight1: -0.954831
+Weight2: -0.944072
+Weight3: 1.90486
+Weight4: 0.944071
+Output: 0.950031
+Error: True
+
+
+Training Set: 2
+Weight1: -0.949452
+Weight2: -0.949452
+Weight3: 1.91024
+Weight4: 0.938692
+Output: 0.95003
+Error: True
+
+
+Training Set: 3
+Weight1: -0.944072
+Weight2: -0.944072
+Weight3: 1.91562
+Weight4: 0.944072
+Output: -0.916593
+Error: True
+
+
+Training Set: 4
+Weight1: -0.953052
+Weight2: -0.953052
+Weight3: 1.90664
+Weight4: 0.953052
+Output: -0.953589
+Error: True
+
+Iteration: 43
+
+Training Set: 1
+Weight1: -0.958049
+Weight2: -0.948055
+Weight3: 1.91164
+Weight4: 0.948055
+Output: 0.953589
+Error: True
+
+
+Training Set: 2
+Weight1: -0.953052
+Weight2: -0.953052
+Weight3: 1.91663
+Weight4: 0.943058
+Output: 0.953589
+Error: True
+
+
+Training Set: 3
+Weight1: -0.948055
+Weight2: -0.948055
+Weight3: 1.92163
+Weight4: 0.948055
+Output: -0.922534
+Error: True
+
+
+Training Set: 4
+Weight1: -0.956396
+Weight2: -0.956396
+Weight3: 1.91329
+Weight4: 0.956396
+Output: -0.956895
+Error: True
+
+Iteration: 44
+
+Training Set: 1
+Weight1: -0.961037
+Weight2: -0.951755
+Weight3: 1.91793
+Weight4: 0.951755
+Output: 0.956895
+Error: True
+
+
+Training Set: 2
+Weight1: -0.956396
+Weight2: -0.956396
+Weight3: 1.92257
+Weight4: 0.947114
+Output: 0.956895
+Error: True
+
+
+Training Set: 3
+Weight1: -0.951755
+Weight2: -0.951755
+Weight3: 1.92721
+Weight4: 0.951755
+Output: -0.92805
+Error: True
+
+
+Training Set: 4
+Weight1: -0.959501
+Weight2: -0.959501
+Weight3: 1.91947
+Weight4: 0.959502
+Output: -0.959966
+Error: True
+
+Iteration: 45
+
+Training Set: 1
+Weight1: -0.963812
+Weight2: -0.955191
+Weight3: 1.92378
+Weight4: 0.955191
+Output: 0.959966
+Error: True
+
+
+Training Set: 2
+Weight1: -0.959501
+Weight2: -0.959501
+Weight3: 1.92809
+Weight4: 0.950881
+Output: 0.959967
+Error: True
+
+
+Training Set: 3
+Weight1: -0.955191
+Weight2: -0.955191
+Weight3: 1.9324
+Weight4: 0.955191
+Output: -0.933174
+Error: True
+
+
+Training Set: 4
+Weight1: -0.962386
+Weight2: -0.962386
+Weight3: 1.9252
+Weight4: 0.962386
+Output: -0.962818
+Error: True
+
+Iteration: 46
+
+Training Set: 1
+Weight1: -0.966389
+Weight2: -0.958382
+Weight3: 1.92921
+Weight4: 0.958383
+Output: 0.962818
+Error: True
+
+
+Training Set: 2
+Weight1: -0.962386
+Weight2: -0.962386
+Weight3: 1.93321
+Weight4: 0.954379
+Output: 0.962819
+Error: True
+
+
+Training Set: 3
+Weight1: -0.958383
+Weight2: -0.958383
+Weight3: 1.93721
+Weight4: 0.958383
+Output: -0.937934
+Error: True
+
+
+Training Set: 4
+Weight1: -0.965065
+Weight2: -0.965065
+Weight3: 1.93053
+Weight4: 0.965065
+Output: -0.965466
+Error: True
+
+Iteration: 47
+
+Training Set: 1
+Weight1: -0.968783
+Weight2: -0.961347
+Weight3: 1.93425
+Weight4: 0.961347
+Output: 0.965467
+Error: True
+
+
+Training Set: 2
+Weight1: -0.965065
+Weight2: -0.965065
+Weight3: 1.93797
+Weight4: 0.957629
+Output: 0.965466
+Error: True
+
+
+Training Set: 3
+Weight1: -0.961347
+Weight2: -0.961347
+Weight3: 1.94169
+Weight4: 0.961347
+Output: -0.942355
+Error: True
+
+
+Training Set: 4
+Weight1: -0.967554
+Weight2: -0.967554
+Weight3: 1.93548
+Weight4: 0.967553
+Output: -0.967926
+Error: True
+
+Iteration: 48
+
+Training Set: 1
+Weight1: -0.971007
+Weight2: -0.9641
+Weight3: 1.93893
+Weight4: 0.9641
+Output: 0.967926
+Error: True
+
+
+Training Set: 2
+Weight1: -0.967554
+Weight2: -0.967554
+Weight3: 1.94239
+Weight4: 0.960647
+Output: 0.967926
+Error: True
+
+
+Training Set: 3
+Weight1: -0.9641
+Weight2: -0.9641
+Weight3: 1.94584
+Weight4: 0.9641
+Output: -0.946461
+Error: True
+
+
+Training Set: 4
+Weight1: -0.969865
+Weight2: -0.969865
+Weight3: 1.94008
+Weight4: 0.969865
+Output: -0.970211
+Error: True
+
+Iteration: 49
+
+Training Set: 1
+Weight1: -0.973072
+Weight2: -0.966657
+Weight3: 1.94328
+Weight4: 0.966657
+Output: 0.97021
+Error: True
+
+
+Training Set: 2
+Weight1: -0.969865
+Weight2: -0.969865
+Weight3: 1.94649
+Weight4: 0.96345
+Output: 0.97021
+Error: True
+
+
+Training Set: 3
+Weight1: -0.966658
+Weight2: -0.966657
+Weight3: 1.9497
+Weight4: 0.966657
+Output: -0.950275
+Error: True
+
+
+Training Set: 4
+Weight1: -0.972011
+Weight2: -0.972011
+Weight3: 1.94434
+Weight4: 0.972011
+Output: -0.972332
+Error: True
+
+Iteration: 50
+
+Training Set: 1
+Weight1: -0.97499
+Weight2: -0.969032
+Weight3: 1.94732
+Weight4: 0.969032
+Output: 0.972332
+Error: True
+
+
+Training Set: 2
+Weight1: -0.972011
+Weight2: -0.972011
+Weight3: 1.9503
+Weight4: 0.966053
+Output: 0.972332
+Error: True
+
+
+Training Set: 3
+Weight1: -0.969032
+Weight2: -0.969032
+Weight3: 1.95328
+Weight4: 0.969032
+Output: -0.953817
+Error: True
+
+
+Training Set: 4
+Weight1: -0.974005
+Weight2: -0.974005
+Weight3: 1.94831
+Weight4: 0.974005
+Output: -0.974303
+Error: True
+
+Iteration: 51
+
+Training Set: 1
+Weight1: -0.976772
+Weight2: -0.971238
+Weight3: 1.95107
+Weight4: 0.971238
+Output: 0.974303
+Error: True
+
+
+Training Set: 2
+Weight1: -0.974005
+Weight2: -0.974005
+Weight3: 1.95384
+Weight4: 0.968471
+Output: 0.974303
+Error: True
+
+
+Training Set: 3
+Weight1: -0.971238
+Weight2: -0.971238
+Weight3: 1.95661
+Weight4: 0.971238
+Output: -0.957106
+Error: True
+
+
+Training Set: 4
+Weight1: -0.975856
+Weight2: -0.975856
+Weight3: 1.95199
+Weight4: 0.975856
+Output: -0.976134
+Error: True
+
+Iteration: 52
+
+Training Set: 1
+Weight1: -0.978426
+Weight2: -0.973287
+Weight3: 1.95456
+Weight4: 0.973287
+Output: 0.976134
+Error: True
+
+
+Training Set: 2
+Weight1: -0.975856
+Weight2: -0.975856
+Weight3: 1.95713
+Weight4: 0.970717
+Output: 0.976134
+Error: True
+
+
+Training Set: 3
+Weight1: -0.973287
+Weight2: -0.973287
+Weight3: 1.9597
+Weight4: 0.973287
+Output: -0.960161
+Error: True
+
+
+Training Set: 4
+Weight1: -0.977576
+Weight2: -0.977576
+Weight3: 1.95541
+Weight4: 0.977576
+Output: -0.977834
+Error: True
+
+Iteration: 53
+
+Training Set: 1
+Weight1: -0.979963
+Weight2: -0.97519
+Weight3: 1.9578
+Weight4: 0.975189
+Output: 0.977834
+Error: True
+
+
+Training Set: 2
+Weight1: -0.977576
+Weight2: -0.977576
+Weight3: 1.96018
+Weight4: 0.972803
+Output: 0.977834
+Error: True
+
+
+Training Set: 3
+Weight1: -0.97519
+Weight2: -0.97519
+Weight3: 1.96257
+Weight4: 0.975189
+Output: -0.962999
+Error: True
+
+
+Training Set: 4
+Weight1: -0.979173
+Weight2: -0.979173
+Weight3: 1.95859
+Weight4: 0.979173
+Output: -0.979412
+Error: True
+
+Iteration: 54
+
+Training Set: 1
+Weight1: -0.98139
+Weight2: -0.976957
+Weight3: 1.9608
+Weight4: 0.976957
+Output: 0.979412
+Error: True
+
+
+Training Set: 2
+Weight1: -0.979173
+Weight2: -0.979173
+Weight3: 1.96302
+Weight4: 0.97474
+Output: 0.979412
+Error: True
+
+
+Training Set: 3
+Weight1: -0.976957
+Weight2: -0.976957
+Weight3: 1.96524
+Weight4: 0.976957
+Output: -0.965635
+Error: True
+
+
+Training Set: 4
+Weight1: -0.980657
+Weight2: -0.980657
+Weight3: 1.96154
+Weight4: 0.980657
+Output: -0.980879
+Error: True
+
+Iteration: 55
+
+Training Set: 1
+Weight1: -0.982716
+Weight2: -0.978598
+Weight3: 1.96359
+Weight4: 0.978598
+Output: 0.980878
+Error: True
+
+
+Training Set: 2
+Weight1: -0.980657
+Weight2: -0.980657
+Weight3: 1.96565
+Weight4: 0.976539
+Output: 0.980878
+Error: True
+
+
+Training Set: 3
+Weight1: -0.978598
+Weight2: -0.978598
+Weight3: 1.96771
+Weight4: 0.978598
+Output: -0.968083
+Error: True
+
+
+Training Set: 4
+Weight1: -0.982035
+Weight2: -0.982035
+Weight3: 1.96428
+Weight4: 0.982035
+Output: -0.982241
+Error: True
+
+Iteration: 56
+
+Training Set: 1
+Weight1: -0.983947
+Weight2: -0.980123
+Weight3: 1.96619
+Weight4: 0.980122
+Output: 0.982241
+Error: True
+
+
+Training Set: 2
+Weight1: -0.982035
+Weight2: -0.982035
+Weight3: 1.9681
+Weight4: 0.97821
+Output: 0.98224
+Error: True
+
+
+Training Set: 3
+Weight1: -0.980122
+Weight2: -0.980123
+Weight3: 1.97001
+Weight4: 0.980122
+Output: -0.970356
+Error: True
+
+
+Training Set: 4
+Weight1: -0.983314
+Weight2: -0.983314
+Weight3: 1.96682
+Weight4: 0.983314
+Output: -0.983506
+Error: True
+
+Iteration: 57
+
+Training Set: 1
+Weight1: -0.98509
+Weight2: -0.981538
+Weight3: 1.9686
+Weight4: 0.981538
+Output: 0.983506
+Error: True
+
+
+Training Set: 2
+Weight1: -0.983314
+Weight2: -0.983314
+Weight3: 1.97037
+Weight4: 0.979762
+Output: 0.983506
+Error: True
+
+
+Training Set: 3
+Weight1: -0.981538
+Weight2: -0.981538
+Weight3: 1.97215
+Weight4: 0.981538
+Output: -0.972467
+Error: True
+
+
+Training Set: 4
+Weight1: -0.984503
+Weight2: -0.984503
+Weight3: 1.96918
+Weight4: 0.984503
+Output: -0.984681
+Error: True
+
+Iteration: 58
+
+Training Set: 1
+Weight1: -0.986152
+Weight2: -0.982853
+Weight3: 1.97083
+Weight4: 0.982853
+Output: 0.984681
+Error: True
+
+
+Training Set: 2
+Weight1: -0.984503
+Weight2: -0.984503
+Weight3: 1.97248
+Weight4: 0.981204
+Output: 0.984681
+Error: True
+
+
+Training Set: 3
+Weight1: -0.982853
+Weight2: -0.982853
+Weight3: 1.97413
+Weight4: 0.982853
+Output: -0.974428
+Error: True
+
+
+Training Set: 4
+Weight1: -0.985606
+Weight2: -0.985607
+Weight3: 1.97138
+Weight4: 0.985607
+Output: -0.985772
+Error: True
+
+Iteration: 59
+
+Training Set: 1
+Weight1: -0.987138
+Weight2: -0.984075
+Weight3: 1.97291
+Weight4: 0.984075
+Output: 0.985772
+Error: True
+
+
+Training Set: 2
+Weight1: -0.985606
+Weight2: -0.985607
+Weight3: 1.97444
+Weight4: 0.982543
+Output: 0.985772
+Error: True
+
+
+Training Set: 3
+Weight1: -0.984075
+Weight2: -0.984075
+Weight3: 1.97597
+Weight4: 0.984075
+Output: -0.97625
+Error: True
+
+
+Training Set: 4
+Weight1: -0.986632
+Weight2: -0.986632
+Weight3: 1.97342
+Weight4: 0.986632
+Output: -0.986785
+Error: True
+
+Iteration: 60
+
+Training Set: 1
+Weight1: -0.988055
+Weight2: -0.985209
+Weight3: 1.97484
+Weight4: 0.985209
+Output: 0.986785
+Error: True
+
+
+Training Set: 2
+Weight1: -0.986632
+Weight2: -0.986632
+Weight3: 1.97626
+Weight4: 0.983786
+Output: 0.986785
+Error: True
+
+
+Training Set: 3
+Weight1: -0.985209
+Weight2: -0.985209
+Weight3: 1.97768
+Weight4: 0.985209
+Output: -0.977942
+Error: True
+
+
+Training Set: 4
+Weight1: -0.987584
+Weight2: -0.987584
+Weight3: 1.97531
+Weight4: 0.987584
+Output: -0.987726
+Error: True
+
+Iteration: 61
+
+Training Set: 1
+Weight1: -0.988905
+Weight2: -0.986263
+Weight3: 1.97663
+Weight4: 0.986263
+Output: 0.987726
+Error: True
+
+
+Training Set: 2
+Weight1: -0.987584
+Weight2: -0.987584
+Weight3: 1.97795
+Weight4: 0.984941
+Output: 0.987726
+Error: True
+
+
+Training Set: 3
+Weight1: -0.986263
+Weight2: -0.986263
+Weight3: 1.97927
+Weight4: 0.986263
+Output: -0.979513
+Error: True
+
+
+Training Set: 4
+Weight1: -0.988468
+Weight2: -0.988468
+Weight3: 1.97707
+Weight4: 0.988468
+Output: -0.9886
+Error: True
+
+Iteration: 62
+
+Training Set: 1
+Weight1: -0.989696
+Weight2: -0.987241
+Weight3: 1.9783
+Weight4: 0.987241
+Output: 0.988601
+Error: True
+
+
+Training Set: 2
+Weight1: -0.988468
+Weight2: -0.988468
+Weight3: 1.97952
+Weight4: 0.986014
+Output: 0.988601
+Error: True
+
+
+Training Set: 3
+Weight1: -0.987241
+Weight2: -0.987241
+Weight3: 1.98075
+Weight4: 0.987241
+Output: -0.980972
+Error: True
+
+
+Training Set: 4
+Weight1: -0.98929
+Weight2: -0.98929
+Weight3: 1.9787
+Weight4: 0.98929
+Output: -0.989412
+Error: True
+
+Iteration: 63
+
+Training Set: 1
+Weight1: -0.99043
+Weight2: -0.98815
+Weight3: 1.97984
+Weight4: 0.98815
+Output: 0.989413
+Error: True
+
+
+Training Set: 2
+Weight1: -0.98929
+Weight2: -0.98929
+Weight3: 1.98098
+Weight4: 0.98701
+Output: 0.989413
+Error: True
+
+
+Training Set: 3
+Weight1: -0.98815
+Weight2: -0.98815
+Weight3: 1.98212
+Weight4: 0.98815
+Output: -0.982327
+Error: True
+
+
+Training Set: 4
+Weight1: -0.990053
+Weight2: -0.990053
+Weight3: 1.98022
+Weight4: 0.990053
+Output: -0.990167
+Error: True
+
+Iteration: 64
+
+Training Set: 1
+Weight1: -0.991112
+Weight2: -0.988994
+Weight3: 1.98128
+Weight4: 0.988994
+Output: 0.990166
+Error: True
+
+
+Training Set: 2
+Weight1: -0.990053
+Weight2: -0.990052
+Weight3: 1.98234
+Weight4: 0.987935
+Output: 0.990166
+Error: True
+
+
+Training Set: 3
+Weight1: -0.988994
+Weight2: -0.988994
+Weight3: 1.9834
+Weight4: 0.988994
+Output: -0.983586
+Error: True
+
+
+Training Set: 4
+Weight1: -0.990761
+Weight2: -0.990761
+Weight3: 1.98163
+Weight4: 0.990761
+Output: -0.990867
+Error: True
+
+Iteration: 65
+
+Training Set: 1
+Weight1: -0.991745
+Weight2: -0.989778
+Weight3: 1.98261
+Weight4: 0.989778
+Output: 0.990867
+Error: True
+
+
+Training Set: 2
+Weight1: -0.990761
+Weight2: -0.990761
+Weight3: 1.98359
+Weight4: 0.988794
+Output: 0.990867
+Error: True
+
+
+Training Set: 3
+Weight1: -0.989778
+Weight2: -0.989778
+Weight3: 1.98458
+Weight4: 0.989778
+Output: -0.984755
+Error: True
+
+
+Training Set: 4
+Weight1: -0.991419
+Weight2: -0.991419
+Weight3: 1.98294
+Weight4: 0.991419
+Output: -0.991518
+Error: True
+
+Iteration: 66
+
+Training Set: 1
+Weight1: -0.992333
+Weight2: -0.990506
+Weight3: 1.98385
+Weight4: 0.990506
+Output: 0.991517
+Error: True
+
+
+Training Set: 2
+Weight1: -0.991419
+Weight2: -0.991419
+Weight3: 1.98476
+Weight4: 0.989592
+Output: 0.991517
+Error: True
+
+
+Training Set: 3
+Weight1: -0.990506
+Weight2: -0.990506
+Weight3: 1.98568
+Weight4: 0.990506
+Output: -0.985841
+Error: True
+
+
+Training Set: 4
+Weight1: -0.99203
+Weight2: -0.99203
+Weight3: 1.98415
+Weight4: 0.99203
+Output: -0.992122
+Error: True
+
+Iteration: 67
+
+Training Set: 1
+Weight1: -0.992879
+Weight2: -0.991182
+Weight3: 1.985
+Weight4: 0.991182
+Output: 0.992122
+Error: True
+
+
+Training Set: 2
+Weight1: -0.99203
+Weight2: -0.99203
+Weight3: 1.98585
+Weight4: 0.990334
+Output: 0.992122
+Error: True
+
+
+Training Set: 3
+Weight1: -0.991182
+Weight2: -0.991182
+Weight3: 1.9867
+Weight4: 0.991182
+Output: -0.98685
+Error: True
+
+
+Training Set: 4
+Weight1: -0.992598
+Weight2: -0.992598
+Weight3: 1.98528
+Weight4: 0.992598
+Output: -0.992683
+Error: True
+
+Iteration: 68
+
+Training Set: 1
+Weight1: -0.993386
+Weight2: -0.99181
+Weight3: 1.98607
+Weight4: 0.99181
+Output: 0.992683
+Error: True
+
+
+Training Set: 2
+Weight1: -0.992598
+Weight2: -0.992598
+Weight3: 1.98686
+Weight4: 0.991022
+Output: 0.992683
+Error: True
+
+
+Training Set: 3
+Weight1: -0.99181
+Weight2: -0.99181
+Weight3: 1.98764
+Weight4: 0.99181
+Output: -0.987786
+Error: True
+
+
+Training Set: 4
+Weight1: -0.993125
+Weight2: -0.993125
+Weight3: 1.98633
+Weight4: 0.993125
+Output: -0.993204
+Error: True
+
+Iteration: 69
+
+Training Set: 1
+Weight1: -0.993857
+Weight2: -0.992394
+Weight3: 1.98706
+Weight4: 0.992394
+Output: 0.993204
+Error: True
+
+
+Training Set: 2
+Weight1: -0.993125
+Weight2: -0.993125
+Weight3: 1.98779
+Weight4: 0.991662
+Output: 0.993204
+Error: True
+
+
+Training Set: 3
+Weight1: -0.992393
+Weight2: -0.992394
+Weight3: 1.98852
+Weight4: 0.992394
+Output: -0.988656
+Error: True
+
+
+Training Set: 4
+Weight1: -0.993615
+Weight2: -0.993615
+Weight3: 1.9873
+Weight4: 0.993615
+Output: -0.993688
+Error: True
+
+Iteration: 70
+
+Training Set: 1
+Weight1: -0.994294
+Weight2: -0.992935
+Weight3: 1.98798
+Weight4: 0.992935
+Output: 0.993688
+Error: True
+
+
+Training Set: 2
+Weight1: -0.993615
+Weight2: -0.993615
+Weight3: 1.98866
+Weight4: 0.992256
+Output: 0.993688
+Error: True
+
+
+Training Set: 3
+Weight1: -0.992935
+Weight2: -0.992935
+Weight3: 1.98934
+Weight4: 0.992935
+Output: -0.989464
+Error: True
+
+
+Training Set: 4
+Weight1: -0.99407
+Weight2: -0.99407
+Weight3: 1.98821
+Weight4: 0.99407
+Output: -0.994138
+Error: True
+
+Iteration: 71
+
+Training Set: 1
+Weight1: -0.994701
+Weight2: -0.993439
+Weight3: 1.98884
+Weight4: 0.993439
+Output: 0.994138
+Error: True
+
+
+Training Set: 2
+Weight1: -0.99407
+Weight2: -0.99407
+Weight3: 1.98947
+Weight4: 0.992807
+Output: 0.994138
+Error: True
+
+
+Training Set: 3
+Weight1: -0.993438
+Weight2: -0.993439
+Weight3: 1.9901
+Weight4: 0.993439
+Output: -0.990214
+Error: True
+
+
+Training Set: 4
+Weight1: -0.994492
+Weight2: -0.994492
+Weight3: 1.98905
+Weight4: 0.994492
+Output: -0.994556
+Error: True
+
+Iteration: 72
+
+Training Set: 1
+Weight1: -0.995078
+Weight2: -0.993906
+Weight3: 1.98963
+Weight4: 0.993906
+Output: 0.994556
+Error: True
+
+
+Training Set: 2
+Weight1: -0.994492
+Weight2: -0.994492
+Weight3: 1.99022
+Weight4: 0.99332
+Output: 0.994556
+Error: True
+
+
+Training Set: 3
+Weight1: -0.993906
+Weight2: -0.993906
+Weight3: 1.99081
+Weight4: 0.993906
+Output: -0.990912
+Error: True
+
+
+Training Set: 4
+Weight1: -0.994884
+Weight2: -0.994885
+Weight3: 1.98983
+Weight4: 0.994885
+Output: -0.994943
+Error: True
+
+Iteration: 73
+
+Training Set: 1
+Weight1: -0.995429
+Weight2: -0.99434
+Weight3: 1.99037
+Weight4: 0.99434
+Output: 0.994943
+Error: True
+
+
+Training Set: 2
+Weight1: -0.994884
+Weight2: -0.994885
+Weight3: 1.99092
+Weight4: 0.993796
+Output: 0.994943
+Error: True
+
+
+Training Set: 3
+Weight1: -0.99434
+Weight2: -0.99434
+Weight3: 1.99146
+Weight4: 0.99434
+Output: -0.991559
+Error: True
+
+
+Training Set: 4
+Weight1: -0.995249
+Weight2: -0.995249
+Weight3: 1.99055
+Weight4: 0.995249
+Output: -0.995303
+Error: True
+
+Iteration: 74
+
+Training Set: 1
+Weight1: -0.995754
+Weight2: -0.994743
+Weight3: 1.99106
+Weight4: 0.994743
+Output: 0.995303
+Error: True
+
+
+Training Set: 2
+Weight1: -0.995249
+Weight2: -0.995249
+Weight3: 1.99156
+Weight4: 0.994238
+Output: 0.995303
+Error: True
+
+
+Training Set: 3
+Weight1: -0.994743
+Weight2: -0.994743
+Weight3: 1.99207
+Weight4: 0.994743
+Output: -0.992161
+Error: True
+
+
+Training Set: 4
+Weight1: -0.995587
+Weight2: -0.995587
+Weight3: 1.99123
+Weight4: 0.995587
+Output: -0.995637
+Error: True
+
+Iteration: 75
+
+Training Set: 1
+Weight1: -0.996057
+Weight2: -0.995118
+Weight3: 1.99169
+Weight4: 0.995118
+Output: 0.995638
+Error: True
+
+
+Training Set: 2
+Weight1: -0.995587
+Weight2: -0.995587
+Weight3: 1.99216
+Weight4: 0.994648
+Output: 0.995638
+Error: True
+
+
+Training Set: 3
+Weight1: -0.995117
+Weight2: -0.995118
+Weight3: 1.99263
+Weight4: 0.995118
+Output: -0.992719
+Error: True
+
+
+Training Set: 4
+Weight1: -0.995901
+Weight2: -0.995902
+Weight3: 1.99185
+Weight4: 0.995902
+Output: -0.995948
+Error: True
+
+Iteration: 76
+
+Training Set: 1
+Weight1: -0.996338
+Weight2: -0.995465
+Weight3: 1.99229
+Weight4: 0.995465
+Output: 0.995949
+Error: True
+
+
+Training Set: 2
+Weight1: -0.995902
+Weight2: -0.995902
+Weight3: 1.99272
+Weight4: 0.995029
+Output: 0.995949
+Error: True
+
+
+Training Set: 3
+Weight1: -0.995465
+Weight2: -0.995465
+Weight3: 1.99316
+Weight4: 0.995465
+Output: -0.993237
+Error: True
+
+
+Training Set: 4
+Weight1: -0.996193
+Weight2: -0.996193
+Weight3: 1.99243
+Weight4: 0.996193
+Output: -0.996237
+Error: True
+
+Iteration: 77
+
+Training Set: 1
+Weight1: -0.996599
+Weight2: -0.995788
+Weight3: 1.99284
+Weight4: 0.995788
+Output: 0.996237
+Error: True
+
+
+Training Set: 2
+Weight1: -0.996194
+Weight2: -0.996193
+Weight3: 1.99324
+Weight4: 0.995383
+Output: 0.996237
+Error: True
+
+
+Training Set: 3
+Weight1: -0.995788
+Weight2: -0.995788
+Weight3: 1.99365
+Weight4: 0.995788
+Output: -0.993719
+Error: True
+
+
+Training Set: 4
+Weight1: -0.996465
+Weight2: -0.996464
+Weight3: 1.99297
+Weight4: 0.996464
+Output: -0.996506
+Error: True
+
+Iteration: 78
+
+Training Set: 1
+Weight1: -0.996841
+Weight2: -0.996088
+Weight3: 1.99335
+Weight4: 0.996088
+Output: 0.996505
+Error: True
+
+
+Training Set: 2
+Weight1: -0.996465
+Weight2: -0.996464
+Weight3: 1.99372
+Weight4: 0.995712
+Output: 0.996505
+Error: True
+
+
+Training Set: 3
+Weight1: -0.996088
+Weight2: -0.996088
+Weight3: 1.9941
+Weight4: 0.996088
+Output: -0.994166
+Error: True
+
+
+Training Set: 4
+Weight1: -0.996717
+Weight2: -0.996716
+Weight3: 1.99347
+Weight4: 0.996716
+Output: -0.996755
+Error: True
+
+Iteration: 79
+
+Training Set: 1
+Weight1: -0.997066
+Weight2: -0.996367
+Weight3: 1.99382
+Weight4: 0.996367
+Output: 0.996754
+Error: True
+
+
+Training Set: 2
+Weight1: -0.996716
+Weight2: -0.996716
+Weight3: 1.99417
+Weight4: 0.996017
+Output: 0.996754
+Error: True
+
+
+Training Set: 3
+Weight1: -0.996367
+Weight2: -0.996367
+Weight3: 1.99452
+Weight4: 0.996367
+Output: -0.994582
+Error: True
+
+
+Training Set: 4
+Weight1: -0.99695
+Weight2: -0.99695
+Weight3: 1.99394
+Weight4: 0.99695
+Output: -0.996985
+Error: True
+
+Iteration: 80
+
+Training Set: 1
+Weight1: -0.997275
+Weight2: -0.996626
+Weight3: 1.99426
+Weight4: 0.996626
+Output: 0.996985
+Error: True
+
+
+Training Set: 2
+Weight1: -0.99695
+Weight2: -0.99695
+Weight3: 1.99458
+Weight4: 0.996301
+Output: 0.996985
+Error: True
+
+
+Training Set: 3
+Weight1: -0.996626
+Weight2: -0.996626
+Weight3: 1.99491
+Weight4: 0.996626
+Output: -0.994968
+Error: True
+
+
+Training Set: 4
+Weight1: -0.997167
+Weight2: -0.997168
+Weight3: 1.99437
+Weight4: 0.997168
+Output: -0.9972
+Error: True
+
+Iteration: 81
+
+Training Set: 1
+Weight1: -0.997469
+Weight2: -0.996866
+Weight3: 1.99467
+Weight4: 0.996866
+Output: 0.9972
+Error: True
+
+
+Training Set: 2
+Weight1: -0.997167
+Weight2: -0.997168
+Weight3: 1.99497
+Weight4: 0.996565
+Output: 0.9972
+Error: True
+
+
+Training Set: 3
+Weight1: -0.996866
+Weight2: -0.996866
+Weight3: 1.99527
+Weight4: 0.996866
+Output: -0.995326
+Error: True
+
+
+Training Set: 4
+Weight1: -0.997369
+Weight2: -0.997369
+Weight3: 1.99477
+Weight4: 0.997369
+Output: -0.997399
+Error: True
+
+Iteration: 82
+
+Training Set: 1
+Weight1: -0.997649
+Weight2: -0.997089
+Weight3: 1.99505
+Weight4: 0.997089
+Output: 0.9974
+Error: True
+
+
+Training Set: 2
+Weight1: -0.997369
+Weight2: -0.997369
+Weight3: 1.99533
+Weight4: 0.996809
+Output: 0.9974
+Error: True
+
+
+Training Set: 3
+Weight1: -0.997089
+Weight2: -0.997089
+Weight3: 1.99561
+Weight4: 0.997089
+Output: -0.995659
+Error: True
+
+
+Training Set: 4
+Weight1: -0.997557
+Weight2: -0.997557
+Weight3: 1.99514
+Weight4: 0.997557
+Output: -0.997585
+Error: True
+
+Iteration: 83
+
+Training Set: 1
+Weight1: -0.997817
+Weight2: -0.997297
+Weight3: 1.9954
+Weight4: 0.997297
+Output: 0.997585
+Error: True
+
+
+Training Set: 2
+Weight1: -0.997557
+Weight2: -0.997557
+Weight3: 1.99566
+Weight4: 0.997037
+Output: 0.997585
+Error: True
+
+
+Training Set: 3
+Weight1: -0.997297
+Weight2: -0.997297
+Weight3: 1.99592
+Weight4: 0.997297
+Output: -0.995968
+Error: True
+
+
+Training Set: 4
+Weight1: -0.997731
+Weight2: -0.997731
+Weight3: 1.99549
+Weight4: 0.997731
+Output: -0.997757
+Error: True
+
+Iteration: 84
+
+Training Set: 1
+Weight1: -0.997972
+Weight2: -0.997489
+Weight3: 1.99573
+Weight4: 0.997489
+Output: 0.997757
+Error: True
+
+
+Training Set: 2
+Weight1: -0.997731
+Weight2: -0.997731
+Weight3: 1.99597
+Weight4: 0.997248
+Output: 0.997757
+Error: True
+
+
+Training Set: 3
+Weight1: -0.997489
+Weight2: -0.997489
+Weight3: 1.99621
+Weight4: 0.997489
+Output: -0.996256
+Error: True
+
+
+Training Set: 4
+Weight1: -0.997892
+Weight2: -0.997892
+Weight3: 1.99581
+Weight4: 0.997892
+Output: -0.997916
+Error: True
+
+Iteration: 85
+
+Training Set: 1
+Weight1: -0.998117
+Weight2: -0.997668
+Weight3: 1.99603
+Weight4: 0.997668
+Output: 0.997916
+Error: True
+
+
+Training Set: 2
+Weight1: -0.997892
+Weight2: -0.997892
+Weight3: 1.99626
+Weight4: 0.997444
+Output: 0.997917
+Error: True
+
+
+Training Set: 3
+Weight1: -0.997668
+Weight2: -0.997668
+Weight3: 1.99648
+Weight4: 0.997668
+Output: -0.996523
+Error: True
+
+
+Training Set: 4
+Weight1: -0.998043
+Weight2: -0.998043
+Weight3: 1.99611
+Weight4: 0.998043
+Output: -0.998065
+Error: True
+
+Iteration: 86
+
+Training Set: 1
+Weight1: -0.998251
+Weight2: -0.997834
+Weight3: 1.99632
+Weight4: 0.997834
+Output: 0.998065
+Error: True
+
+
+Training Set: 2
+Weight1: -0.998043
+Weight2: -0.998043
+Weight3: 1.99652
+Weight4: 0.997626
+Output: 0.998065
+Error: True
+
+
+Training Set: 3
+Weight1: -0.997834
+Weight2: -0.997834
+Weight3: 1.99673
+Weight4: 0.997834
+Output: -0.99677
+Error: True
+
+
+Training Set: 4
+Weight1: -0.998182
+Weight2: -0.998182
+Weight3: 1.99638
+Weight4: 0.998182
+Output: -0.998203
+Error: True
+
+Iteration: 87
+
+Training Set: 1
+Weight1: -0.998375
+Weight2: -0.997988
+Weight3: 1.99658
+Weight4: 0.997988
+Output: 0.998203
+Error: True
+
+
+Training Set: 2
+Weight1: -0.998182
+Weight2: -0.998182
+Weight3: 1.99677
+Weight4: 0.997795
+Output: 0.998203
+Error: True
+
+
+Training Set: 3
+Weight1: -0.997988
+Weight2: -0.997988
+Weight3: 1.99697
+Weight4: 0.997988
+Output: -0.997
+Error: True
+
+
+Training Set: 4
+Weight1: -0.998311
+Weight2: -0.998311
+Weight3: 1.99664
+Weight4: 0.998311
+Output: -0.998331
+Error: True
+
+Iteration: 88
+
+Training Set: 1
+Weight1: -0.998491
+Weight2: -0.998132
+Weight3: 1.99682
+Weight4: 0.998132
+Output: 0.998331
+Error: True
+
+
+Training Set: 2
+Weight1: -0.998311
+Weight2: -0.998311
+Weight3: 1.997
+Weight4: 0.997952
+Output: 0.998331
+Error: True
+
+
+Training Set: 3
+Weight1: -0.998132
+Weight2: -0.998132
+Weight3: 1.99718
+Weight4: 0.998132
+Output: -0.997214
+Error: True
+
+
+Training Set: 4
+Weight1: -0.998432
+Weight2: -0.998432
+Weight3: 1.99688
+Weight4: 0.998432
+Output: -0.998449
+Error: True
+
+Iteration: 89
+
+Training Set: 1
+Weight1: -0.998599
+Weight2: -0.998265
+Weight3: 1.99705
+Weight4: 0.998265
+Output: 0.998449
+Error: True
+
+
+Training Set: 2
+Weight1: -0.998432
+Weight2: -0.998432
+Weight3: 1.99721
+Weight4: 0.998098
+Output: 0.998449
+Error: True
+
+
+Training Set: 3
+Weight1: -0.998265
+Weight2: -0.998265
+Weight3: 1.99738
+Weight4: 0.998265
+Output: -0.997413
+Error: True
+
+
+Training Set: 4
+Weight1: -0.998543
+Weight2: -0.998543
+Weight3: 1.9971
+Weight4: 0.998543
+Output: -0.99856
+Error: True
+
+Iteration: 90
+
+Training Set: 1
+Weight1: -0.998698
+Weight2: -0.998388
+Weight3: 1.99726
+Weight4: 0.998388
+Output: 0.99856
+Error: True
+
+
+Training Set: 2
+Weight1: -0.998543
+Weight2: -0.998543
+Weight3: 1.99741
+Weight4: 0.998233
+Output: 0.99856
+Error: True
+
+
+Training Set: 3
+Weight1: -0.998388
+Weight2: -0.998388
+Weight3: 1.99757
+Weight4: 0.998388
+Output: -0.997596
+Error: True
+
+
+Training Set: 4
+Weight1: -0.998647
+Weight2: -0.998647
+Weight3: 1.99731
+Weight4: 0.998647
+Output: -0.998663
+Error: True
+
+Iteration: 91
+
+Training Set: 1
+Weight1: -0.998791
+Weight2: -0.998503
+Weight3: 1.99745
+Weight4: 0.998503
+Output: 0.998663
+Error: True
+
+
+Training Set: 2
+Weight1: -0.998647
+Weight2: -0.998647
+Weight3: 1.9976
+Weight4: 0.998359
+Output: 0.998663
+Error: True
+
+
+Training Set: 3
+Weight1: -0.998503
+Weight2: -0.998503
+Weight3: 1.99774
+Weight4: 0.998503
+Output: -0.997767
+Error: True
+
+
+Training Set: 4
+Weight1: -0.998743
+Weight2: -0.998743
+Weight3: 1.9975
+Weight4: 0.998743
+Output: -0.998758
+Error: True
+
+Iteration: 92
+
+Training Set: 1
+Weight1: -0.998877
+Weight2: -0.99861
+Weight3: 1.99764
+Weight4: 0.99861
+Output: 0.998758
+Error: True
+
+
+Training Set: 2
+Weight1: -0.998743
+Weight2: -0.998743
+Weight3: 1.99777
+Weight4: 0.998476
+Output: 0.998758
+Error: True
+
+
+Training Set: 3
+Weight1: -0.99861
+Weight2: -0.99861
+Weight3: 1.9979
+Weight4: 0.99861
+Output: -0.997926
+Error: True
+
+
+Training Set: 4
+Weight1: -0.998833
+Weight2: -0.998833
+Weight3: 1.99768
+Weight4: 0.998833
+Output: -0.998846
+Error: True
+
+Iteration: 93
+
+Training Set: 1
+Weight1: -0.998957
+Weight2: -0.998709
+Weight3: 1.9978
+Weight4: 0.998709
+Output: 0.998846
+Error: True
+
+
+Training Set: 2
+Weight1: -0.998833
+Weight2: -0.998833
+Weight3: 1.99793
+Weight4: 0.998584
+Output: 0.998846
+Error: True
+
+
+Training Set: 3
+Weight1: -0.998709
+Weight2: -0.998709
+Weight3: 1.99805
+Weight4: 0.998709
+Output: -0.998074
+Error: True
+
+
+Training Set: 4
+Weight1: -0.998916
+Weight2: -0.998916
+Weight3: 1.99784
+Weight4: 0.998916
+Output: -0.998928
+Error: True
+
+Iteration: 94
+
+Training Set: 1
+Weight1: -0.999032
+Weight2: -0.998801
+Weight3: 1.99796
+Weight4: 0.998801
+Output: 0.998928
+Error: True
+
+
+Training Set: 2
+Weight1: -0.998916
+Weight2: -0.998916
+Weight3: 1.99808
+Weight4: 0.998685
+Output: 0.998928
+Error: True
+
+
+Training Set: 3
+Weight1: -0.998801
+Weight2: -0.998801
+Weight3: 1.99819
+Weight4: 0.998801
+Output: -0.998212
+Error: True
+
+
+Training Set: 4
+Weight1: -0.998993
+Weight2: -0.998993
+Weight3: 1.998
+Weight4: 0.998993
+Output: -0.999005
+Error: True
+
+Iteration: 95
+
+Training Set: 1
+Weight1: -0.999101
+Weight2: -0.998886
+Weight3: 1.99811
+Weight4: 0.998886
+Output: 0.999005
+Error: True
+
+
+Training Set: 2
+Weight1: -0.998993
+Weight2: -0.998993
+Weight3: 1.99821
+Weight4: 0.998779
+Output: 0.999005
+Error: True
+
+
+Training Set: 3
+Weight1: -0.998886
+Weight2: -0.998886
+Weight3: 1.99832
+Weight4: 0.998886
+Output: -0.998339
+Error: True
+
+
+Training Set: 4
+Weight1: -0.999065
+Weight2: -0.999065
+Weight3: 1.99814
+Weight4: 0.999065
+Output: -0.999076
+Error: True
+
+Iteration: 96
+
+Training Set: 1
+Weight1: -0.999165
+Weight2: -0.998965
+Weight3: 1.99824
+Weight4: 0.998965
+Output: 0.999076
+Error: True
+
+
+Training Set: 2
+Weight1: -0.999065
+Weight2: -0.999065
+Weight3: 1.99834
+Weight4: 0.998866
+Output: 0.999076
+Error: True
+
+
+Training Set: 3
+Weight1: -0.998966
+Weight2: -0.998965
+Weight3: 1.99844
+Weight4: 0.998965
+Output: -0.998457
+Error: True
+
+
+Training Set: 4
+Weight1: -0.999132
+Weight2: -0.999132
+Weight3: 1.99827
+Weight4: 0.999131
+Output: -0.999142
+Error: True
+
+Iteration: 97
+
+Training Set: 1
+Weight1: -0.999224
+Weight2: -0.999039
+Weight3: 1.99837
+Weight4: 0.999039
+Output: 0.999142
+Error: True
+
+
+Training Set: 2
+Weight1: -0.999132
+Weight2: -0.999132
+Weight3: 1.99846
+Weight4: 0.998947
+Output: 0.999141
+Error: True
+
+
+Training Set: 3
+Weight1: -0.999039
+Weight2: -0.999039
+Weight3: 1.99855
+Weight4: 0.999039
+Output: -0.998567
+Error: True
+
+
+Training Set: 4
+Weight1: -0.999194
+Weight2: -0.999193
+Weight3: 1.9984
+Weight4: 0.999193
+Output: -0.999203
+Error: True
+
+Iteration: 98
+
+Training Set: 1
+Weight1: -0.999279
+Weight2: -0.999108
+Weight3: 1.99848
+Weight4: 0.999108
+Output: 0.999203
+Error: True
+
+
+Training Set: 2
+Weight1: -0.999194
+Weight2: -0.999194
+Weight3: 1.99857
+Weight4: 0.999022
+Output: 0.999203
+Error: True
+
+
+Training Set: 3
+Weight1: -0.999108
+Weight2: -0.999108
+Weight3: 1.99865
+Weight4: 0.999108
+Output: -0.998669
+Error: True
+
+
+Training Set: 4
+Weight1: -0.999251
+Weight2: -0.999251
+Weight3: 1.99851
+Weight4: 0.999251
+Output: -0.99926
+Error: True
+
+Iteration: 99
+
+Training Set: 1
+Weight1: -0.999331
+Weight2: -0.999171
+Weight3: 1.99859
+Weight4: 0.999171
+Output: 0.99926
+Error: True
+
+
+Training Set: 2
+Weight1: -0.999251
+Weight2: -0.999251
+Weight3: 1.99867
+Weight4: 0.999092
+Output: 0.99926
+Error: True
+
+
+Training Set: 3
+Weight1: -0.999171
+Weight2: -0.999171
+Weight3: 1.99875
+Weight4: 0.999171
+Output: -0.998764
+Error: True
+
+
+Training Set: 4
+Weight1: -0.999304
+Weight2: -0.999304
+Weight3: 1.99862
+Weight4: 0.999304
+Output: -0.999312
+Error: True
+
+Iteration: 100
+
+Training Set: 1
+Weight1: -0.999378
+Weight2: -0.99923
+Weight3: 1.99869
+Weight4: 0.99923
+Output: 0.999312
+Error: True
+
+
+Training Set: 2
+Weight1: -0.999304
+Weight2: -0.999304
+Weight3: 1.99876
+Weight4: 0.999156
+Output: 0.999312
+Error: True
+
+
+Training Set: 3
+Weight1: -0.99923
+Weight2: -0.99923
+Weight3: 1.99884
+Weight4: 0.99923
+Output: -0.998852
+Error: True
+
+
+Training Set: 4
+Weight1: -0.999354
+Weight2: -0.999354
+Weight3: 1.99872
+Weight4: 0.999354
+Output: -0.999361
+Error: True
+
+Iteration: 101
+
+Training Set: 1
+Weight1: -0.999423
+Weight2: -0.999285
+Weight3: 1.99878
+Weight4: 0.999285
+Output: 0.999361
+Error: True
+
+
+Training Set: 2
+Weight1: -0.999354
+Weight2: -0.999354
+Weight3: 1.99885
+Weight4: 0.999216
+Output: 0.999361
+Error: True
+
+
+Training Set: 3
+Weight1: -0.999285
+Weight2: -0.999285
+Weight3: 1.99892
+Weight4: 0.999285
+Output: -0.998934
+Error: True
+
+
+Training Set: 4
+Weight1: -0.9994
+Weight2: -0.9994
+Weight3: 1.99881
+Weight4: 0.9994
+Output: -0.999407
+Error: True
+
+Iteration: 102
+
+Training Set: 1
+Weight1: -0.999464
+Weight2: -0.999336
+Weight3: 1.99887
+Weight4: 0.999336
+Output: 0.999407
+Error: True
+
+
+Training Set: 2
+Weight1: -0.9994
+Weight2: -0.9994
+Weight3: 1.99893
+Weight4: 0.999272
+Output: 0.999407
+Error: True
+
+
+Training Set: 3
+Weight1: -0.999336
+Weight2: -0.999336
+Weight3: 1.999
+Weight4: 0.999336
+Output: -0.99901
+Error: True
+
+
+Training Set: 4
+Weight1: -0.999443
+Weight2: -0.999443
+Weight3: 1.99889
+Weight4: 0.999443
+Output: -0.999449
+Error: True
+
+Iteration: 103
+
+Training Set: 1
+Weight1: -0.999502
+Weight2: -0.999383
+Weight3: 1.99895
+Weight4: 0.999383
+Output: 0.999449
+Error: True
+
+
+Training Set: 2
+Weight1: -0.999443
+Weight2: -0.999443
+Weight3: 1.99901
+Weight4: 0.999324
+Output: 0.999449
+Error: True
+
+
+Training Set: 3
+Weight1: -0.999383
+Weight2: -0.999383
+Weight3: 1.99907
+Weight4: 0.999383
+Output: -0.999081
+Error: True
+
+
+Training Set: 4
+Weight1: -0.999482
+Weight2: -0.999482
+Weight3: 1.99897
+Weight4: 0.999482
+Output: -0.999488
+Error: True
+
+Iteration: 104
+
+Training Set: 1
+Weight1: -0.999537
+Weight2: -0.999427
+Weight3: 1.99903
+Weight4: 0.999427
+Output: 0.999488
+Error: True
+
+
+Training Set: 2
+Weight1: -0.999482
+Weight2: -0.999482
+Weight3: 1.99908
+Weight4: 0.999372
+Output: 0.999488
+Error: True
+
+
+Training Set: 3
+Weight1: -0.999427
+Weight2: -0.999427
+Weight3: 1.99914
+Weight4: 0.999427
+Output: -0.999146
+Error: True
+
+
+Training Set: 4
+Weight1: -0.999519
+Weight2: -0.999519
+Weight3: 1.99904
+Weight4: 0.999519
+Output: -0.999525
+Error: True
+
+Iteration: 105
+
+Training Set: 1
+Weight1: -0.99957
+Weight2: -0.999468
+Weight3: 1.9991
+Weight4: 0.999468
+Output: 0.999525
+Error: True
+
+
+Training Set: 2
+Weight1: -0.999519
+Weight2: -0.999519
+Weight3: 1.99915
+Weight4: 0.999417
+Output: 0.999525
+Error: True
+
+
+Training Set: 3
+Weight1: -0.999468
+Weight2: -0.999468
+Weight3: 1.9992
+Weight4: 0.999468
+Output: -0.999206
+Error: True
+
+
+Training Set: 4
+Weight1: -0.999553
+Weight2: -0.999553
+Weight3: 1.99911
+Weight4: 0.999553
+Output: -0.999559
+Error: True
+
+Iteration: 106
+
+Training Set: 1
+Weight1: -0.999601
+Weight2: -0.999506
+Weight3: 1.99916
+Weight4: 0.999506
+Output: 0.999559
+Error: True
+
+
+Training Set: 2
+Weight1: -0.999553
+Weight2: -0.999553
+Weight3: 1.99921
+Weight4: 0.999458
+Output: 0.999559
+Error: True
+
+
+Training Set: 3
+Weight1: -0.999506
+Weight2: -0.999506
+Weight3: 1.99925
+Weight4: 0.999506
+Output: -0.999263
+Error: True
+
+
+Training Set: 4
+Weight1: -0.999585
+Weight2: -0.999585
+Weight3: 1.99918
+Weight4: 0.999585
+Output: -0.99959
+Error: True
+
+Iteration: 107
+
+Training Set: 1
+Weight1: -0.999629
+Weight2: -0.999541
+Weight3: 1.99922
+Weight4: 0.999541
+Output: 0.99959
+Error: True
+
+
+Training Set: 2
+Weight1: -0.999585
+Weight2: -0.999585
+Weight3: 1.99926
+Weight4: 0.999497
+Output: 0.99959
+Error: True
+
+
+Training Set: 3
+Weight1: -0.999541
+Weight2: -0.999541
+Weight3: 1.99931
+Weight4: 0.999541
+Output: -0.999316
+Error: True
+
+
+Training Set: 4
+Weight1: -0.999615
+Weight2: -0.999615
+Weight3: 1.99923
+Weight4: 0.999615
+Output: -0.999619
+Error: True
+
+Iteration: 108
+
+Training Set: 1
+Weight1: -0.999656
+Weight2: -0.999574
+Weight3: 1.99927
+Weight4: 0.999574
+Output: 0.999619
+Error: True
+
+
+Training Set: 2
+Weight1: -0.999615
+Weight2: -0.999615
+Weight3: 1.99932
+Weight4: 0.999533
+Output: 0.999619
+Error: True
+
+
+Training Set: 3
+Weight1: -0.999574
+Weight2: -0.999574
+Weight3: 1.99936
+Weight4: 0.999574
+Output: -0.999365
+Error: True
+
+
+Training Set: 4
+Weight1: -0.999642
+Weight2: -0.999642
+Weight3: 1.99929
+Weight4: 0.999642
+Output: -0.999646
+Error: True
+
+Iteration: 109
+
+Training Set: 1
+Weight1: -0.99968
+Weight2: -0.999604
+Weight3: 1.99933
+Weight4: 0.999604
+Output: 0.999646
+Error: True
+
+
+Training Set: 2
+Weight1: -0.999642
+Weight2: -0.999642
+Weight3: 1.99936
+Weight4: 0.999566
+Output: 0.999646
+Error: True
+
+
+Training Set: 3
+Weight1: -0.999604
+Weight2: -0.999604
+Weight3: 1.9994
+Weight4: 0.999604
+Output: -0.99941
+Error: True
+
+
+Training Set: 4
+Weight1: -0.999668
+Weight2: -0.999668
+Weight3: 1.99934
+Weight4: 0.999668
+Output: -0.999672
+Error: True
+
+Iteration: 110
+
+Training Set: 1
+Weight1: -0.999703
+Weight2: -0.999632
+Weight3: 1.99937
+Weight4: 0.999632
+Output: 0.999672
+Error: True
+
+
+Training Set: 2
+Weight1: -0.999668
+Weight2: -0.999668
+Weight3: 1.99941
+Weight4: 0.999597
+Output: 0.999672
+Error: True
+
+
+Training Set: 3
+Weight1: -0.999632
+Weight2: -0.999632
+Weight3: 1.99945
+Weight4: 0.999632
+Output: -0.999451
+Error: True
+
+
+Training Set: 4
+Weight1: -0.999691
+Weight2: -0.999691
+Weight3: 1.99939
+Weight4: 0.999691
+Output: -0.999695
+Error: True
+
+Iteration: 111
+
+Training Set: 1
+Weight1: -0.999724
+Weight2: -0.999659
+Weight3: 1.99942
+Weight4: 0.999659
+Output: 0.999695
+Error: True
+
+
+Training Set: 2
+Weight1: -0.999691
+Weight2: -0.999691
+Weight3: 1.99945
+Weight4: 0.999626
+Output: 0.999695
+Error: True
+
+
+Training Set: 3
+Weight1: -0.999658
+Weight2: -0.999659
+Weight3: 1.99949
+Weight4: 0.999659
+Output: -0.999491
+Error: True
+
+
+Training Set: 4
+Weight1: -0.999713
+Weight2: -0.999713
+Weight3: 1.99943
+Weight4: 0.999713
+Output: -0.999716
+Error: True
+
+Iteration: 112
+
+Training Set: 1
+Weight1: -0.999744
+Weight2: -0.999683
+Weight3: 1.99946
+Weight4: 0.999683
+Output: 0.999717
+Error: True
+
+
+Training Set: 2
+Weight1: -0.999713
+Weight2: -0.999713
+Weight3: 1.99949
+Weight4: 0.999652
+Output: 0.999717
+Error: True
+
+
+Training Set: 3
+Weight1: -0.999683
+Weight2: -0.999683
+Weight3: 1.99952
+Weight4: 0.999683
+Output: -0.999527
+Error: True
+
+
+Training Set: 4
+Weight1: -0.999734
+Weight2: -0.999734
+Weight3: 1.99947
+Weight4: 0.999734
+Output: -0.999737
+Error: True
+
+Iteration: 113
+
+Training Set: 1
+Weight1: -0.999762
+Weight2: -0.999705
+Weight3: 1.9995
+Weight4: 0.999705
+Output: 0.999737
+Error: True
+
+
+Training Set: 2
+Weight1: -0.999734
+Weight2: -0.999734
+Weight3: 1.99953
+Weight4: 0.999677
+Output: 0.999737
+Error: True
+
+
+Training Set: 3
+Weight1: -0.999706
+Weight2: -0.999705
+Weight3: 1.99956
+Weight4: 0.999705
+Output: -0.999561
+Error: True
+
+
+Training Set: 4
+Weight1: -0.999753
+Weight2: -0.999753
+Weight3: 1.99951
+Weight4: 0.999753
+Output: -0.999756
+Error: True
+
+Iteration: 114
+
+Training Set: 1
+Weight1: -0.999779
+Weight2: -0.999726
+Weight3: 1.99953
+Weight4: 0.999726
+Output: 0.999755
+Error: True
+
+
+Training Set: 2
+Weight1: -0.999753
+Weight2: -0.999753
+Weight3: 1.99956
+Weight4: 0.9997
+Output: 0.999756
+Error: True
+
+
+Training Set: 3
+Weight1: -0.999727
+Weight2: -0.999726
+Weight3: 1.99959
+Weight4: 0.999726
+Output: -0.999592
+Error: True
+
+
+Training Set: 4
+Weight1: -0.999771
+Weight2: -0.99977
+Weight3: 1.99954
+Weight4: 0.99977
+Output: -0.999773
+Error: True
+
+Iteration: 115
+
+Training Set: 1
+Weight1: -0.999795
+Weight2: -0.999746
+Weight3: 1.99957
+Weight4: 0.999746
+Output: 0.999773
+Error: True
+
+
+Training Set: 2
+Weight1: -0.99977
+Weight2: -0.999771
+Weight3: 1.99959
+Weight4: 0.999722
+Output: 0.999773
+Error: True
+
+
+Training Set: 3
+Weight1: -0.999746
+Weight2: -0.999746
+Weight3: 1.99962
+Weight4: 0.999746
+Output: -0.999621
+Error: True
+
+
+Training Set: 4
+Weight1: -0.999787
+Weight2: -0.999787
+Weight3: 1.99958
+Weight4: 0.999787
+Output: -0.999789
+Error: True
+
+Iteration: 116
+
+Training Set: 1
+Weight1: -0.99981
+Weight2: -0.999764
+Weight3: 1.9996
+Weight4: 0.999764
+Output: 0.999789
+Error: True
+
+
+Training Set: 2
+Weight1: -0.999787
+Weight2: -0.999787
+Weight3: 1.99962
+Weight4: 0.999741
+Output: 0.999789
+Error: True
+
+
+Training Set: 3
+Weight1: -0.999764
+Weight2: -0.999764
+Weight3: 1.99964
+Weight4: 0.999764
+Output: -0.999649
+Error: True
+
+
+Training Set: 4
+Weight1: -0.999802
+Weight2: -0.999802
+Weight3: 1.99961
+Weight4: 0.999802
+Output: -0.999804
+Error: True
+
+Iteration: 117
+
+Training Set: 1
+Weight1: -0.999823
+Weight2: -0.999781
+Weight3: 1.99963
+Weight4: 0.999781
+Output: 0.999804
+Error: True
+
+
+Training Set: 2
+Weight1: -0.999802
+Weight2: -0.999802
+Weight3: 1.99965
+Weight4: 0.99976
+Output: 0.999804
+Error: True
+
+
+Training Set: 3
+Weight1: -0.999781
+Weight2: -0.999781
+Weight3: 1.99967
+Weight4: 0.999781
+Output: -0.999674
+Error: True
+
+
+Training Set: 4
+Weight1: -0.999816
+Weight2: -0.999816
+Weight3: 1.99963
+Weight4: 0.999816
+Output: -0.999818
+Error: True
+
+Iteration: 118
+
+Training Set: 1
+Weight1: -0.999836
+Weight2: -0.999797
+Weight3: 1.99965
+Weight4: 0.999796
+Output: 0.999818
+Error: True
+
+
+Training Set: 2
+Weight1: -0.999816
+Weight2: -0.999816
+Weight3: 1.99967
+Weight4: 0.999777
+Output: 0.999818
+Error: True
+
+
+Training Set: 3
+Weight1: -0.999796
+Weight2: -0.999797
+Weight3: 1.99969
+Weight4: 0.999796
+Output: -0.999696
+Error: True
+
+
+Training Set: 4
+Weight1: -0.999829
+Weight2: -0.999829
+Weight3: 1.99966
+Weight4: 0.999829
+Output: -0.999831
+Error: True
+
+Iteration: 119
+
+Training Set: 1
+Weight1: -0.999847
+Weight2: -0.999811
+Weight3: 1.99968
+Weight4: 0.999811
+Output: 0.999832
+Error: True
+
+
+Training Set: 2
+Weight1: -0.999829
+Weight2: -0.999829
+Weight3: 1.9997
+Weight4: 0.999793
+Output: 0.999831
+Error: True
+
+
+Training Set: 3
+Weight1: -0.999811
+Weight2: -0.999811
+Weight3: 1.99972
+Weight4: 0.999811
+Output: -0.999718
+Error: True
+
+
+Training Set: 4
+Weight1: -0.999841
+Weight2: -0.999841
+Weight3: 1.99968
+Weight4: 0.999841
+Output: -0.999843
+Error: True
+
+Iteration: 120
+
+Training Set: 1
+Weight1: -0.999858
+Weight2: -0.999825
+Weight3: 1.9997
+Weight4: 0.999824
+Output: 0.999844
+Error: True
+
+
+Training Set: 2
+Weight1: -0.999841
+Weight2: -0.999841
+Weight3: 1.99972
+Weight4: 0.999807
+Output: 0.999843
+Error: True
+
+
+Training Set: 3
+Weight1: -0.999824
+Weight2: -0.999824
+Weight3: 1.99974
+Weight4: 0.999824
+Output: -0.999738
+Error: True
+
+
+Training Set: 4
+Weight1: -0.999853
+Weight2: -0.999853
+Weight3: 1.99971
+Weight4: 0.999853
+Output: -0.999855
+Error: True
+
+Iteration: 121
+
+Training Set: 1
+Weight1: -0.999868
+Weight2: -0.999837
+Weight3: 1.99972
+Weight4: 0.999837
+Output: 0.999855
+Error: True
+
+
+Training Set: 2
+Weight1: -0.999853
+Weight2: -0.999853
+Weight3: 1.99974
+Weight4: 0.999821
+Output: 0.999855
+Error: True
+
+
+Training Set: 3
+Weight1: -0.999837
+Weight2: -0.999837
+Weight3: 1.99975
+Weight4: 0.999837
+Output: -0.999757
+Error: True
+
+
+Training Set: 4
+Weight1: -0.999863
+Weight2: -0.999863
+Weight3: 1.99973
+Weight4: 0.999863
+Output: -0.999865
+Error: True
+
+Iteration: 122
+
+Training Set: 1
+Weight1: -0.999878
+Weight2: -0.999849
+Weight3: 1.99974
+Weight4: 0.999849
+Output: 0.999865
+Error: True
+
+
+Training Set: 2
+Weight1: -0.999863
+Weight2: -0.999863
+Weight3: 1.99976
+Weight4: 0.999834
+Output: 0.999865
+Error: True
+
+
+Training Set: 3
+Weight1: -0.999849
+Weight2: -0.999849
+Weight3: 1.99977
+Weight4: 0.999849
+Output: -0.999774
+Error: True
+
+
+Training Set: 4
+Weight1: -0.999873
+Weight2: -0.999873
+Weight3: 1.99975
+Weight4: 0.999873
+Output: -0.999874
+Error: True
+
+Iteration: 123
+
+Training Set: 1
+Weight1: -0.999887
+Weight2: -0.999859
+Weight3: 1.99976
+Weight4: 0.99986
+Output: 0.999874
+Error: True
+
+
+Training Set: 2
+Weight1: -0.999873
+Weight2: -0.999873
+Weight3: 1.99977
+Weight4: 0.999846
+Output: 0.999874
+Error: True
+
+
+Training Set: 3
+Weight1: -0.99986
+Weight2: -0.999859
+Weight3: 1.99979
+Weight4: 0.99986
+Output: -0.999791
+Error: True
+
+
+Training Set: 4
+Weight1: -0.999882
+Weight2: -0.999882
+Weight3: 1.99977
+Weight4: 0.999882
+Output: -0.999883
+Error: True
+
+Iteration: 124
+
+Training Set: 1
+Weight1: -0.999895
+Weight2: -0.999869
+Weight3: 1.99978
+Weight4: 0.99987
+Output: 0.999883
+Error: True
+
+
+Training Set: 2
+Weight1: -0.999882
+Weight2: -0.999882
+Weight3: 1.99979
+Weight4: 0.999857
+Output: 0.999883
+Error: True
+
+
+Training Set: 3
+Weight1: -0.99987
+Weight2: -0.999869
+Weight3: 1.9998
+Weight4: 0.99987
+Output: -0.999806
+Error: True
+
+
+Training Set: 4
+Weight1: -0.999891
+Weight2: -0.99989
+Weight3: 1.99978
+Weight4: 0.999891
+Output: -0.999892
+Error: True
+
+Iteration: 125
+
+Training Set: 1
+Weight1: -0.999902
+Weight2: -0.999879
+Weight3: 1.99979
+Weight4: 0.999879
+Output: 0.999891
+Error: True
+
+
+Training Set: 2
+Weight1: -0.999891
+Weight2: -0.99989
+Weight3: 1.99981
+Weight4: 0.999867
+Output: 0.999892
+Error: True
+
+
+Training Set: 3
+Weight1: -0.999879
+Weight2: -0.999879
+Weight3: 1.99982
+Weight4: 0.999879
+Output: -0.999819
+Error: True
+
+
+Training Set: 4
+Weight1: -0.999898
+Weight2: -0.999898
+Weight3: 1.9998
+Weight4: 0.999898
+Output: -0.9999
+Error: True
+
+Iteration: 126
+
+Training Set: 1
+Weight1: -0.999909
+Weight2: -0.999887
+Weight3: 1.99981
+Weight4: 0.999887
+Output: 0.999899
+Error: True
+
+
+Training Set: 2
+Weight1: -0.999898
+Weight2: -0.999898
+Weight3: 1.99982
+Weight4: 0.999876
+Output: 0.9999
+Error: True
+
+
+Training Set: 3
+Weight1: -0.999887
+Weight2: -0.999887
+Weight3: 1.99983
+Weight4: 0.999887
+Output: -0.999832
+Error: True
+
+
+Training Set: 4
+Weight1: -0.999905
+Weight2: -0.999906
+Weight3: 1.99981
+Weight4: 0.999905
+Output: -0.999907
+Error: True
+
+Iteration: 127
+
+Training Set: 1
+Weight1: -0.999915
+Weight2: -0.999896
+Weight3: 1.99982
+Weight4: 0.999895
+Output: 0.999907
+Error: True
+
+
+Training Set: 2
+Weight1: -0.999905
+Weight2: -0.999906
+Weight3: 1.99983
+Weight4: 0.999885
+Output: 0.999907
+Error: True
+
+
+Training Set: 3
+Weight1: -0.999895
+Weight2: -0.999896
+Weight3: 1.99984
+Weight4: 0.999895
+Output: -0.999844
+Error: True
+
+
+Training Set: 4
+Weight1: -0.999912
+Weight2: -0.999912
+Weight3: 1.99983
+Weight4: 0.999912
+Output: -0.999913
+Error: True
+
+Iteration: 128
+
+Training Set: 1
+Weight1: -0.999921
+Weight2: -0.999903
+Weight3: 1.99983
+Weight4: 0.999903
+Output: 0.999914
+Error: True
+
+
+Training Set: 2
+Weight1: -0.999912
+Weight2: -0.999912
+Weight3: 1.99984
+Weight4: 0.999894
+Output: 0.999913
+Error: True
+
+
+Training Set: 3
+Weight1: -0.999903
+Weight2: -0.999903
+Weight3: 1.99985
+Weight4: 0.999903
+Output: -0.999855
+Error: True
+
+
+Training Set: 4
+Weight1: -0.999918
+Weight2: -0.999919
+Weight3: 1.99984
+Weight4: 0.999918
+Output: -0.999919
+Error: True
+
+Iteration: 129
+
+Training Set: 1
+Weight1: -0.999927
+Weight2: -0.99991
+Weight3: 1.99985
+Weight4: 0.99991
+Output: 0.99992
+Error: True
+
+
+Training Set: 2
+Weight1: -0.999919
+Weight2: -0.999919
+Weight3: 1.99986
+Weight4: 0.999901
+Output: 0.999919
+Error: True
+
+
+Training Set: 3
+Weight1: -0.99991
+Weight2: -0.99991
+Weight3: 1.99986
+Weight4: 0.99991
+Output: -0.999866
+Error: True
+
+
+Training Set: 4
+Weight1: -0.999924
+Weight2: -0.999924
+Weight3: 1.99985
+Weight4: 0.999924
+Output: -0.999925
+Error: True
+
+Iteration: 130
+
+Training Set: 1
+Weight1: -0.999932
+Weight2: -0.999916
+Weight3: 1.99986
+Weight4: 0.999916
+Output: 0.999925
+Error: True
+
+
+Training Set: 2
+Weight1: -0.999924
+Weight2: -0.999924
+Weight3: 1.99987
+Weight4: 0.999908
+Output: 0.999925
+Error: True
+
+
+Training Set: 3
+Weight1: -0.999916
+Weight2: -0.999916
+Weight3: 1.99987
+Weight4: 0.999916
+Output: -0.999876
+Error: True
+
+
+Training Set: 4
+Weight1: -0.99993
+Weight2: -0.99993
+Weight3: 1.99986
+Weight4: 0.99993
+Output: -0.999931
+Error: True
+
+Iteration: 131
+
+Training Set: 1
+Weight1: -0.999937
+Weight2: -0.999922
+Weight3: 1.99987
+Weight4: 0.999922
+Output: 0.99993
+Error: True
+
+
+Training Set: 2
+Weight1: -0.99993
+Weight2: -0.99993
+Weight3: 1.99988
+Weight4: 0.999915
+Output: 0.999931
+Error: True
+
+
+Training Set: 3
+Weight1: -0.999922
+Weight2: -0.999922
+Weight3: 1.99988
+Weight4: 0.999922
+Output: -0.999884
+Error: True
+
+
+Training Set: 4
+Weight1: -0.999935
+Weight2: -0.999934
+Weight3: 1.99987
+Weight4: 0.999935
+Output: -0.999936
+Error: True
+
+Iteration: 132
+
+Training Set: 1
+Weight1: -0.999942
+Weight2: -0.999928
+Weight3: 1.99988
+Weight4: 0.999928
+Output: 0.999935
+Error: True
+
+
+Training Set: 2
+Weight1: -0.999935
+Weight2: -0.999934
+Weight3: 1.99988
+Weight4: 0.999921
+Output: 0.999936
+Error: True
+
+
+Training Set: 3
+Weight1: -0.999928
+Weight2: -0.999928
+Weight3: 1.99989
+Weight4: 0.999928
+Output: -0.999892
+Error: True
+
+
+Training Set: 4
+Weight1: -0.999939
+Weight2: -0.999939
+Weight3: 1.99988
+Weight4: 0.999939
+Output: -0.99994
+Error: True
+
+Iteration: 133
+
+Training Set: 1
+Weight1: -0.999946
+Weight2: -0.999933
+Weight3: 1.99989
+Weight4: 0.999933
+Output: 0.99994
+Error: True
+
+
+Training Set: 2
+Weight1: -0.999939
+Weight2: -0.999939
+Weight3: 1.99989
+Weight4: 0.999926
+Output: 0.99994
+Error: True
+
+
+Training Set: 3
+Weight1: -0.999933
+Weight2: -0.999933
+Weight3: 1.9999
+Weight4: 0.999933
+Output: -0.9999
+Error: True
+
+
+Training Set: 4
+Weight1: -0.999944
+Weight2: -0.999944
+Weight3: 1.99989
+Weight4: 0.999944
+Output: -0.999944
+Error: True
+
+Iteration: 134
+
+Training Set: 1
+Weight1: -0.99995
+Weight2: -0.999938
+Weight3: 1.99989
+Weight4: 0.999938
+Output: 0.999945
+Error: True
+
+
+Training Set: 2
+Weight1: -0.999944
+Weight2: -0.999944
+Weight3: 1.9999
+Weight4: 0.999932
+Output: 0.999944
+Error: True
+
+
+Training Set: 3
+Weight1: -0.999938
+Weight2: -0.999938
+Weight3: 1.99991
+Weight4: 0.999938
+Output: -0.999907
+Error: True
+
+
+Training Set: 4
+Weight1: -0.999948
+Weight2: -0.999948
+Weight3: 1.9999
+Weight4: 0.999948
+Output: -0.999948
+Error: True
+
+Iteration: 135
+
+Training Set: 1
+Weight1: -0.999953
+Weight2: -0.999942
+Weight3: 1.9999
+Weight4: 0.999942
+Output: 0.999948
+Error: True
+
+
+Training Set: 2
+Weight1: -0.999948
+Weight2: -0.999948
+Weight3: 1.99991
+Weight4: 0.999937
+Output: 0.999948
+Error: True
+
+
+Training Set: 3
+Weight1: -0.999942
+Weight2: -0.999942
+Weight3: 1.99991
+Weight4: 0.999942
+Output: -0.999914
+Error: True
+
+
+Training Set: 4
+Weight1: -0.999951
+Weight2: -0.999951
+Weight3: 1.9999
+Weight4: 0.999951
+Output: -0.999952
+Error: True
+
+Iteration: 136
+
+Training Set: 1
+Weight1: -0.999957
+Weight2: -0.999946
+Weight3: 1.99991
+Weight4: 0.999946
+Output: 0.999952
+Error: True
+
+
+Training Set: 2
+Weight1: -0.999951
+Weight2: -0.999951
+Weight3: 1.99991
+Weight4: 0.999941
+Output: 0.999952
+Error: True
+
+
+Training Set: 3
+Weight1: -0.999946
+Weight2: -0.999946
+Weight3: 1.99992
+Weight4: 0.999946
+Output: -0.99992
+Error: True
+
+
+Training Set: 4
+Weight1: -0.999955
+Weight2: -0.999955
+Weight3: 1.99991
+Weight4: 0.999955
+Output: -0.999956
+Error: True
+
+Iteration: 137
+
+Training Set: 1
+Weight1: -0.99996
+Weight2: -0.99995
+Weight3: 1.99992
+Weight4: 0.99995
+Output: 0.999956
+Error: True
+
+
+Training Set: 2
+Weight1: -0.999955
+Weight2: -0.999955
+Weight3: 1.99992
+Weight4: 0.999945
+Output: 0.999956
+Error: True
+
+
+Training Set: 3
+Weight1: -0.99995
+Weight2: -0.99995
+Weight3: 1.99992
+Weight4: 0.99995
+Output: -0.999925
+Error: True
+
+
+Training Set: 4
+Weight1: -0.999958
+Weight2: -0.999958
+Weight3: 1.99992
+Weight4: 0.999958
+Output: -0.999959
+Error: True
+
+Iteration: 138
+
+Training Set: 1
+Weight1: -0.999962
+Weight2: -0.999954
+Weight3: 1.99992
+Weight4: 0.999954
+Output: 0.999959
+Error: True
+
+
+Training Set: 2
+Weight1: -0.999958
+Weight2: -0.999958
+Weight3: 1.99993
+Weight4: 0.999949
+Output: 0.999959
+Error: True
+
+
+Training Set: 3
+Weight1: -0.999954
+Weight2: -0.999954
+Weight3: 1.99993
+Weight4: 0.999954
+Output: -0.999931
+Error: True
+
+
+Training Set: 4
+Weight1: -0.999961
+Weight2: -0.999961
+Weight3: 1.99992
+Weight4: 0.999961
+Output: -0.999962
+Error: True
+
+Iteration: 139
+
+Training Set: 1
+Weight1: -0.999965
+Weight2: -0.999957
+Weight3: 1.99993
+Weight4: 0.999957
+Output: 0.999961
+Error: True
+
+
+Training Set: 2
+Weight1: -0.999961
+Weight2: -0.999961
+Weight3: 1.99993
+Weight4: 0.999953
+Output: 0.999961
+Error: True
+
+
+Training Set: 3
+Weight1: -0.999957
+Weight2: -0.999957
+Weight3: 1.99993
+Weight4: 0.999957
+Output: -0.999936
+Error: True
+
+
+Training Set: 4
+Weight1: -0.999964
+Weight2: -0.999964
+Weight3: 1.99993
+Weight4: 0.999964
+Output: -0.999964
+Error: True
+
+Iteration: 140
+
+Training Set: 1
+Weight1: -0.999968
+Weight2: -0.99996
+Weight3: 1.99993
+Weight4: 0.99996
+Output: 0.999964
+Error: True
+
+
+Training Set: 2
+Weight1: -0.999964
+Weight2: -0.999964
+Weight3: 1.99994
+Weight4: 0.999956
+Output: 0.999964
+Error: True
+
+
+Training Set: 3
+Weight1: -0.99996
+Weight2: -0.99996
+Weight3: 1.99994
+Weight4: 0.99996
+Output: -0.999941
+Error: True
+
+
+Training Set: 4
+Weight1: -0.999966
+Weight2: -0.999966
+Weight3: 1.99993
+Weight4: 0.999967
+Output: -0.999967
+Error: True
+
+Iteration: 141
+
+Training Set: 1
+Weight1: -0.99997
+Weight2: -0.999963
+Weight3: 1.99994
+Weight4: 0.999963
+Output: 0.999967
+Error: True
+
+
+Training Set: 2
+Weight1: -0.999966
+Weight2: -0.999966
+Weight3: 1.99994
+Weight4: 0.999959
+Output: 0.999967
+Error: True
+
+
+Training Set: 3
+Weight1: -0.999963
+Weight2: -0.999963
+Weight3: 1.99994
+Weight4: 0.999963
+Output: -0.999945
+Error: True
+
+
+Training Set: 4
+Weight1: -0.999969
+Weight2: -0.999969
+Weight3: 1.99994
+Weight4: 0.999969
+Output: -0.999969
+Error: True
+
+Iteration: 142
+
+Training Set: 1
+Weight1: -0.999972
+Weight2: -0.999965
+Weight3: 1.99994
+Weight4: 0.999966
+Output: 0.999969
+Error: True
+
+
+Training Set: 2
+Weight1: -0.999969
+Weight2: -0.999969
+Weight3: 1.99994
+Weight4: 0.999962
+Output: 0.999969
+Error: True
+
+
+Training Set: 3
+Weight1: -0.999965
+Weight2: -0.999965
+Weight3: 1.99995
+Weight4: 0.999966
+Output: -0.999949
+Error: True
+
+
+Training Set: 4
+Weight1: -0.999971
+Weight2: -0.999971
+Weight3: 1.99994
+Weight4: 0.999971
+Output: -0.999971
+Error: True
+
+Iteration: 143
+
+Training Set: 1
+Weight1: -0.999974
+Weight2: -0.999968
+Weight3: 1.99995
+Weight4: 0.999968
+Output: 0.999971
+Error: True
+
+
+Training Set: 2
+Weight1: -0.999971
+Weight2: -0.999971
+Weight3: 1.99995
+Weight4: 0.999965
+Output: 0.999972
+Error: True
+
+
+Training Set: 3
+Weight1: -0.999968
+Weight2: -0.999968
+Weight3: 1.99995
+Weight4: 0.999968
+Output: -0.999952
+Error: True
+
+
+Training Set: 4
+Weight1: -0.999973
+Weight2: -0.999973
+Weight3: 1.99995
+Weight4: 0.999973
+Output: -0.999973
+Error: True
+
+Iteration: 144
+
+Training Set: 1
+Weight1: -0.999976
+Weight2: -0.99997
+Weight3: 1.99995
+Weight4: 0.99997
+Output: 0.999973
+Error: True
+
+
+Training Set: 2
+Weight1: -0.999973
+Weight2: -0.999973
+Weight3: 1.99995
+Weight4: 0.999967
+Output: 0.999974
+Error: True
+
+
+Training Set: 3
+Weight1: -0.99997
+Weight2: -0.99997
+Weight3: 1.99995
+Weight4: 0.99997
+Output: -0.999955
+Error: True
+
+
+Training Set: 4
+Weight1: -0.999975
+Weight2: -0.999975
+Weight3: 1.99995
+Weight4: 0.999975
+Output: -0.999975
+Error: True
+
+Iteration: 145
+
+Training Set: 1
+Weight1: -0.999978
+Weight2: -0.999972
+Weight3: 1.99995
+Weight4: 0.999972
+Output: 0.999975
+Error: True
+
+
+Training Set: 2
+Weight1: -0.999975
+Weight2: -0.999975
+Weight3: 1.99996
+Weight4: 0.999969
+Output: 0.999975
+Error: True
+
+
+Training Set: 3
+Weight1: -0.999972
+Weight2: -0.999972
+Weight3: 1.99996
+Weight4: 0.999972
+Output: -0.999959
+Error: True
+
+
+Training Set: 4
+Weight1: -0.999977
+Weight2: -0.999977
+Weight3: 1.99995
+Weight4: 0.999977
+Output: -0.999977
+Error: True
+
+Iteration: 146
+
+Training Set: 1
+Weight1: -0.999979
+Weight2: -0.999974
+Weight3: 1.99996
+Weight4: 0.999974
+Output: 0.999977
+Error: True
+
+
+Training Set: 2
+Weight1: -0.999977
+Weight2: -0.999977
+Weight3: 1.99996
+Weight4: 0.999972
+Output: 0.999977
+Error: True
+
+
+Training Set: 3
+Weight1: -0.999974
+Weight2: -0.999974
+Weight3: 1.99996
+Weight4: 0.999974
+Output: -0.999962
+Error: True
+
+
+Training Set: 4
+Weight1: -0.999978
+Weight2: -0.999978
+Weight3: 1.99996
+Weight4: 0.999978
+Output: -0.999979
+Error: True
+
+Iteration: 147
+
+Training Set: 1
+Weight1: -0.999981
+Weight2: -0.999976
+Weight3: 1.99996
+Weight4: 0.999976
+Output: 0.999979
+Error: True
+
+
+Training Set: 2
+Weight1: -0.999978
+Weight2: -0.999978
+Weight3: 1.99996
+Weight4: 0.999974
+Output: 0.999978
+Error: True
+
+
+Training Set: 3
+Weight1: -0.999976
+Weight2: -0.999976
+Weight3: 1.99996
+Weight4: 0.999976
+Output: -0.999964
+Error: True
+
+
+Training Set: 4
+Weight1: -0.99998
+Weight2: -0.99998
+Weight3: 1.99996
+Weight4: 0.99998
+Output: -0.99998
+Error: True
+
+Iteration: 148
+
+Training Set: 1
+Weight1: -0.999982
+Weight2: -0.999978
+Weight3: 1.99996
+Weight4: 0.999978
+Output: 0.999981
+Error: True
+
+
+Training Set: 2
+Weight1: -0.99998
+Weight2: -0.99998
+Weight3: 1.99996
+Weight4: 0.999976
+Output: 0.99998
+Error: True
+
+
+Training Set: 3
+Weight1: -0.999978
+Weight2: -0.999978
+Weight3: 1.99997
+Weight4: 0.999978
+Output: -0.999967
+Error: True
+
+
+Training Set: 4
+Weight1: -0.999981
+Weight2: -0.999981
+Weight3: 1.99996
+Weight4: 0.999981
+Output: -0.999982
+Error: True
+
+Iteration: 149
+
+Training Set: 1
+Weight1: -0.999983
+Weight2: -0.999979
+Weight3: 1.99997
+Weight4: 0.999979
+Output: 0.999982
+Error: True
+
+
+Training Set: 2
+Weight1: -0.999981
+Weight2: -0.999981
+Weight3: 1.99997
+Weight4: 0.999977
+Output: 0.999982
+Error: True
+
+
+Training Set: 3
+Weight1: -0.999979
+Weight2: -0.999979
+Weight3: 1.99997
+Weight4: 0.999979
+Output: -0.999969
+Error: True
+
+
+Training Set: 4
+Weight1: -0.999983
+Weight2: -0.999982
+Weight3: 1.99997
+Weight4: 0.999983
+Output: -0.999983
+Error: True
+
+Iteration: 150
+
+Training Set: 1
+Weight1: -0.999985
+Weight2: -0.999981
+Weight3: 1.99997
+Weight4: 0.999981
+Output: 0.999983
+Error: True
+
+
+Training Set: 2
+Weight1: -0.999983
+Weight2: -0.999982
+Weight3: 1.99997
+Weight4: 0.999979
+Output: 0.999983
+Error: True
+
+
+Training Set: 3
+Weight1: -0.999981
+Weight2: -0.999981
+Weight3: 1.99997
+Weight4: 0.999981
+Output: -0.999972
+Error: True
+
+
+Training Set: 4
+Weight1: -0.999984
+Weight2: -0.999984
+Weight3: 1.99997
+Weight4: 0.999984
+Output: -0.999984
+Error: True
+
+Iteration: 151
+
+Training Set: 1
+Weight1: -0.999986
+Weight2: -0.999982
+Weight3: 1.99997
+Weight4: 0.999982
+Output: 0.999984
+Error: True
+
+
+Training Set: 2
+Weight1: -0.999984
+Weight2: -0.999984
+Weight3: 1.99997
+Weight4: 0.999981
+Output: 0.999984
+Error: True
+
+
+Training Set: 3
+Weight1: -0.999982
+Weight2: -0.999982
+Weight3: 1.99997
+Weight4: 0.999982
+Output: -0.999974
+Error: True
+
+
+Training Set: 4
+Weight1: -0.999985
+Weight2: -0.999985
+Weight3: 1.99997
+Weight4: 0.999985
+Output: -0.999985
+Error: True
+
+Iteration: 152
+
+Training Set: 1
+Weight1: -0.999987
+Weight2: -0.999983
+Weight3: 1.99997
+Weight4: 0.999984
+Output: 0.999985
+Error: True
+
+
+Training Set: 2
+Weight1: -0.999985
+Weight2: -0.999985
+Weight3: 1.99997
+Weight4: 0.999982
+Output: 0.999985
+Error: True
+
+
+Training Set: 3
+Weight1: -0.999984
+Weight2: -0.999983
+Weight3: 1.99997
+Weight4: 0.999984
+Output: -0.999976
+Error: True
+
+
+Training Set: 4
+Weight1: -0.999986
+Weight2: -0.999986
+Weight3: 1.99997
+Weight4: 0.999986
+Output: -0.999986
+Error: True
+
+Iteration: 153
+
+Training Set: 1
+Weight1: -0.999988
+Weight2: -0.999984
+Weight3: 1.99997
+Weight4: 0.999985
+Output: 0.999986
+Error: True
+
+
+Training Set: 2
+Weight1: -0.999986
+Weight2: -0.999986
+Weight3: 1.99998
+Weight4: 0.999983
+Output: 0.999986
+Error: True
+
+
+Training Set: 3
+Weight1: -0.999985
+Weight2: -0.999984
+Weight3: 1.99998
+Weight4: 0.999985
+Output: -0.999977
+Error: True
+
+
+Training Set: 4
+Weight1: -0.999987
+Weight2: -0.999987
+Weight3: 1.99997
+Weight4: 0.999987
+Output: -0.999988
+Error: True
+
+Iteration: 154
+
+Training Set: 1
+Weight1: -0.999988
+Weight2: -0.999985
+Weight3: 1.99998
+Weight4: 0.999986
+Output: 0.999987
+Error: True
+
+
+Training Set: 2
+Weight1: -0.999987
+Weight2: -0.999987
+Weight3: 1.99998
+Weight4: 0.999984
+Output: 0.999988
+Error: True
+
+
+Training Set: 3
+Weight1: -0.999986
+Weight2: -0.999985
+Weight3: 1.99998
+Weight4: 0.999986
+Output: -0.999978
+Error: True
+
+
+Training Set: 4
+Weight1: -0.999988
+Weight2: -0.999988
+Weight3: 1.99998
+Weight4: 0.999988
+Output: -0.999989
+Error: True
+
+Iteration: 155
+
+Training Set: 1
+Weight1: -0.999989
+Weight2: -0.999987
+Weight3: 1.99998
+Weight4: 0.999987
+Output: 0.999988
+Error: True
+
+
+Training Set: 2
+Weight1: -0.999988
+Weight2: -0.999988
+Weight3: 1.99998
+Weight4: 0.999986
+Output: 0.999989
+Error: True
+
+
+Training Set: 3
+Weight1: -0.999987
+Weight2: -0.999987
+Weight3: 1.99998
+Weight4: 0.999987
+Output: -0.99998
+Error: True
+
+
+Training Set: 4
+Weight1: -0.999989
+Weight2: -0.999989
+Weight3: 1.99998
+Weight4: 0.999989
+Output: -0.999989
+Error: True
+
+Iteration: 156
+
+Training Set: 1
+Weight1: -0.99999
+Weight2: -0.999988
+Weight3: 1.99998
+Weight4: 0.999988
+Output: 0.999989
+Error: True
+
+
+Training Set: 2
+Weight1: -0.999989
+Weight2: -0.999989
+Weight3: 1.99998
+Weight4: 0.999987
+Output: 0.999989
+Error: True
+
+
+Training Set: 3
+Weight1: -0.999988
+Weight2: -0.999988
+Weight3: 1.99998
+Weight4: 0.999988
+Output: -0.999982
+Error: True
+
+
+Training Set: 4
+Weight1: -0.99999
+Weight2: -0.99999
+Weight3: 1.99998
+Weight4: 0.99999
+Output: -0.999989
+Error: True
+
+Iteration: 157
+
+Training Set: 1
+Weight1: -0.999991
+Weight2: -0.999989
+Weight3: 1.99998
+Weight4: 0.999989
+Output: 0.99999
+Error: True
+
+
+Training Set: 2
+Weight1: -0.99999
+Weight2: -0.99999
+Weight3: 1.99998
+Weight4: 0.999988
+Output: 0.99999
+Error: True
+
+
+Training Set: 3
+Weight1: -0.999989
+Weight2: -0.999989
+Weight3: 1.99998
+Weight4: 0.999989
+Output: -0.999984
+Error: True
+
+
+Training Set: 4
+Weight1: -0.99999
+Weight2: -0.999991
+Weight3: 1.99998
+Weight4: 0.99999
+Output: -0.99999
+Error: True
+
+Iteration: 158
+
+Training Set: 1
+Weight1: -0.999991
+Weight2: -0.99999
+Weight3: 1.99998
+Weight4: 0.999989
+Output: 0.999991
+Error: True
+
+
+Training Set: 2
+Weight1: -0.99999
+Weight2: -0.999991
+Weight3: 1.99998
+Weight4: 0.999988
+Output: 0.99999
+Error: True
+
+
+Training Set: 3
+Weight1: -0.999989
+Weight2: -0.99999
+Weight3: 1.99998
+Weight4: 0.999989
+Output: -0.999985
+Error: True
+
+
+Training Set: 4
+Weight1: -0.999991
+Weight2: -0.999991
+Weight3: 1.99998
+Weight4: 0.999991
+Output: -0.999991
+Error: True
+
+Iteration: 159
+
+Training Set: 1
+Weight1: -0.999992
+Weight2: -0.99999
+Weight3: 1.99998
+Weight4: 0.99999
+Output: 0.999991
+Error: True
+
+
+Training Set: 2
+Weight1: -0.999991
+Weight2: -0.999991
+Weight3: 1.99998
+Weight4: 0.999989
+Output: 0.999991
+Error: True
+
+
+Training Set: 3
+Weight1: -0.99999
+Weight2: -0.99999
+Weight3: 1.99999
+Weight4: 0.99999
+Output: -0.999985
+Error: True
+
+
+Training Set: 4
+Weight1: -0.999992
+Weight2: -0.999992
+Weight3: 1.99998
+Weight4: 0.999992
+Output: -0.999992
+Error: True
+
+Iteration: 160
+
+Training Set: 1
+Weight1: -0.999992
+Weight2: -0.999991
+Weight3: 1.99998
+Weight4: 0.999991
+Output: 0.999992
+Error: True
+
+
+Training Set: 2
+Weight1: -0.999992
+Weight2: -0.999992
+Weight3: 1.99999
+Weight4: 0.99999
+Output: 0.999992
+Error: True
+
+
+Training Set: 3
+Weight1: -0.999991
+Weight2: -0.999991
+Weight3: 1.99999
+Weight4: 0.999991
+Output: -0.999986
+Error: True
+
+
+Training Set: 4
+Weight1: -0.999992
+Weight2: -0.999992
+Weight3: 1.99998
+Weight4: 0.999992
+Output: -0.999993
+Error: True
+
+Iteration: 161
+
+Training Set: 1
+Weight1: -0.999993
+Weight2: -0.999991
+Weight3: 1.99999
+Weight4: 0.999991
+Output: 0.999993
+Error: True
+
+
+Training Set: 2
+Weight1: -0.999992
+Weight2: -0.999992
+Weight3: 1.99999
+Weight4: 0.999991
+Output: 0.999993
+Error: True
+
+
+Training Set: 3
+Weight1: -0.999991
+Weight2: -0.999991
+Weight3: 1.99999
+Weight4: 0.999991
+Output: -0.999987
+Error: True
+
+
+Training Set: 4
+Weight1: -0.999993
+Weight2: -0.999993
+Weight3: 1.99999
+Weight4: 0.999993
+Output: -0.999993
+Error: True
+
+Iteration: 162
+
+Training Set: 1
+Weight1: -0.999994
+Weight2: -0.999992
+Weight3: 1.99999
+Weight4: 0.999992
+Output: 0.999993
+Error: True
+
+
+Training Set: 2
+Weight1: -0.999993
+Weight2: -0.999993
+Weight3: 1.99999
+Weight4: 0.999991
+Output: 0.999993
+Error: True
+
+
+Training Set: 3
+Weight1: -0.999992
+Weight2: -0.999992
+Weight3: 1.99999
+Weight4: 0.999992
+Output: -0.999988
+Error: True
+
+
+Training Set: 4
+Weight1: -0.999993
+Weight2: -0.999993
+Weight3: 1.99999
+Weight4: 0.999993
+Output: -0.999993
+Error: True
+
+Iteration: 163
+
+Training Set: 1
+Weight1: -0.999994
+Weight2: -0.999993
+Weight3: 1.99999
+Weight4: 0.999993
+Output: 0.999993
+Error: True
+
+
+Training Set: 2
+Weight1: -0.999993
+Weight2: -0.999993
+Weight3: 1.99999
+Weight4: 0.999992
+Output: 0.999993
+Error: True
+
+
+Training Set: 3
+Weight1: -0.999993
+Weight2: -0.999993
+Weight3: 1.99999
+Weight4: 0.999993
+Output: -0.999989
+Error: True
+
+
+Training Set: 4
+Weight1: -0.999994
+Weight2: -0.999994
+Weight3: 1.99999
+Weight4: 0.999994
+Output: -0.999994
+Error: True
+
+Iteration: 164
+
+Training Set: 1
+Weight1: -0.999995
+Weight2: -0.999993
+Weight3: 1.99999
+Weight4: 0.999993
+Output: 0.999994
+Error: True
+
+
+Training Set: 2
+Weight1: -0.999994
+Weight2: -0.999994
+Weight3: 1.99999
+Weight4: 0.999992
+Output: 0.999994
+Error: True
+
+
+Training Set: 3
+Weight1: -0.999993
+Weight2: -0.999993
+Weight3: 1.99999
+Weight4: 0.999993
+Output: -0.99999
+Error: True
+
+
+Training Set: 4
+Weight1: -0.999994
+Weight2: -0.999994
+Weight3: 1.99999
+Weight4: 0.999994
+Output: -0.999995
+Error: True
+
+Iteration: 165
+
+Training Set: 1
+Weight1: -0.999995
+Weight2: -0.999994
+Weight3: 1.99999
+Weight4: 0.999994
+Output: 0.999995
+Error: True
+
+
+Training Set: 2
+Weight1: -0.999994
+Weight2: -0.999994
+Weight3: 1.99999
+Weight4: 0.999993
+Output: 0.999995
+Error: True
+
+
+Training Set: 3
+Weight1: -0.999994
+Weight2: -0.999994
+Weight3: 1.99999
+Weight4: 0.999994
+Output: -0.99999
+Error: True
+
+
+Training Set: 4
+Weight1: -0.999995
+Weight2: -0.999995
+Weight3: 1.99999
+Weight4: 0.999995
+Output: -0.999995
+Error: True
+
+Iteration: 166
+
+Training Set: 1
+Weight1: -0.999995
+Weight2: -0.999994
+Weight3: 1.99999
+Weight4: 0.999994
+Output: 0.999995
+Error: True
+
+
+Training Set: 2
+Weight1: -0.999995
+Weight2: -0.999995
+Weight3: 1.99999
+Weight4: 0.999994
+Output: 0.999995
+Error: True
+
+
+Training Set: 3
+Weight1: -0.999994
+Weight2: -0.999994
+Weight3: 1.99999
+Weight4: 0.999994
+Output: -0.999992
+Error: True
+
+
+Training Set: 4
+Weight1: -0.999995
+Weight2: -0.999995
+Weight3: 1.99999
+Weight4: 0.999995
+Output: -0.999995
+Error: True
+
+Iteration: 167
+
+Training Set: 1
+Weight1: -0.999996
+Weight2: -0.999995
+Weight3: 1.99999
+Weight4: 0.999995
+Output: 0.999995
+Error: True
+
+
+Training Set: 2
+Weight1: -0.999995
+Weight2: -0.999995
+Weight3: 1.99999
+Weight4: 0.999994
+Output: 0.999995
+Error: True
+
+
+Training Set: 3
+Weight1: -0.999995
+Weight2: -0.999995
+Weight3: 1.99999
+Weight4: 0.999995
+Output: -0.999993
+Error: True
+
+
+Training Set: 4
+Weight1: -0.999996
+Weight2: -0.999996
+Weight3: 1.99999
+Weight4: 0.999996
+Output: -0.999995
+Error: True
+
+Iteration: 168
+
+Training Set: 1
+Weight1: -0.999996
+Weight2: -0.999995
+Weight3: 1.99999
+Weight4: 0.999995
+Output: 0.999995
+Error: True
+
+
+Training Set: 2
+Weight1: -0.999996
+Weight2: -0.999996
+Weight3: 1.99999
+Weight4: 0.999995
+Output: 0.999995
+Error: True
+
+
+Training Set: 3
+Weight1: -0.999995
+Weight2: -0.999995
+Weight3: 1.99999
+Weight4: 0.999995
+Output: -0.999993
+Error: True
+
+
+Training Set: 4
+Weight1: -0.999996
+Weight2: -0.999996
+Weight3: 1.99999
+Weight4: 0.999996
+Output: -0.999996
+Error: True
+
+Iteration: 169
+
+Training Set: 1
+Weight1: -0.999996
+Weight2: -0.999995
+Weight3: 1.99999
+Weight4: 0.999995
+Output: 0.999996
+Error: True
+
+
+Training Set: 2
+Weight1: -0.999996
+Weight2: -0.999996
+Weight3: 1.99999
+Weight4: 0.999995
+Output: 0.999996
+Error: True
+
+
+Training Set: 3
+Weight1: -0.999995
+Weight2: -0.999995
+Weight3: 1.99999
+Weight4: 0.999995
+Output: -0.999993
+Error: True
+
+
+Training Set: 4
+Weight1: -0.999996
+Weight2: -0.999996
+Weight3: 1.99999
+Weight4: 0.999996
+Output: -0.999996
+Error: True
+
+Iteration: 170
+
+Training Set: 1
+Weight1: -0.999996
+Weight2: -0.999996
+Weight3: 1.99999
+Weight4: 0.999996
+Output: 0.999996
+Error: True
+
+
+Training Set: 2
+Weight1: -0.999996
+Weight2: -0.999996
+Weight3: 1.99999
+Weight4: 0.999995
+Output: 0.999996
+Error: True
+
+
+Training Set: 3
+Weight1: -0.999996
+Weight2: -0.999996
+Weight3: 1.99999
+Weight4: 0.999996
+Output: -0.999994
+Error: True
+
+
+Training Set: 4
+Weight1: -0.999996
+Weight2: -0.999996
+Weight3: 1.99999
+Weight4: 0.999996
+Output: -0.999996
+Error: True
+
+Iteration: 171
+
+Training Set: 1
+Weight1: -0.999997
+Weight2: -0.999996
+Weight3: 1.99999
+Weight4: 0.999996
+Output: 0.999996
+Error: True
+
+
+Training Set: 2
+Weight1: -0.999996
+Weight2: -0.999996
+Weight3: 1.99999
+Weight4: 0.999995
+Output: 0.999996
+Error: True
+
+
+Training Set: 3
+Weight1: -0.999996
+Weight2: -0.999996
+Weight3: 1.99999
+Weight4: 0.999996
+Output: -0.999994
+Error: True
+
+
+Training Set: 4
+Weight1: -0.999996
+Weight2: -0.999996
+Weight3: 1.99999
+Weight4: 0.999996
+Output: -0.999997
+Error: True
+
+Iteration: 172
+
+Training Set: 1
+Weight1: -0.999997
+Weight2: -0.999996
+Weight3: 1.99999
+Weight4: 0.999996
+Output: 0.999996
+Error: True
+
+
+Training Set: 2
+Weight1: -0.999996
+Weight2: -0.999996
+Weight3: 1.99999
+Weight4: 0.999996
+Output: 0.999996
+Error: True
+
+
+Training Set: 3
+Weight1: -0.999996
+Weight2: -0.999996
+Weight3: 1.99999
+Weight4: 0.999996
+Output: -0.999994
+Error: True
+
+
+Training Set: 4
+Weight1: -0.999997
+Weight2: -0.999997
+Weight3: 1.99999
+Weight4: 0.999997
+Output: -0.999997
+Error: True
+
+Iteration: 173
+
+Training Set: 1
+Weight1: -0.999997
+Weight2: -0.999996
+Weight3: 1.99999
+Weight4: 0.999996
+Output: 0.999997
+Error: True
+
+
+Training Set: 2
+Weight1: -0.999997
+Weight2: -0.999997
+Weight3: 1.99999
+Weight4: 0.999996
+Output: 0.999997
+Error: True
+
+
+Training Set: 3
+Weight1: -0.999996
+Weight2: -0.999996
+Weight3: 1.99999
+Weight4: 0.999996
+Output: -0.999994
+Error: True
+
+
+Training Set: 4
+Weight1: -0.999997
+Weight2: -0.999997
+Weight3: 1.99999
+Weight4: 0.999997
+Output: -0.999997
+Error: True
+
+Iteration: 174
+
+Training Set: 1
+Weight1: -0.999997
+Weight2: -0.999997
+Weight3: 1.99999
+Weight4: 0.999997
+Output: 0.999997
+Error: True
+
+
+Training Set: 2
+Weight1: -0.999997
+Weight2: -0.999997
+Weight3: 1.99999
+Weight4: 0.999996
+Output: 0.999997
+Error: True
+
+
+Training Set: 3
+Weight1: -0.999996
+Weight2: -0.999997
+Weight3: 1.99999
+Weight4: 0.999997
+Output: -0.999995
+Error: True
+
+
+Training Set: 4
+Weight1: -0.999997
+Weight2: -0.999997
+Weight3: 1.99999
+Weight4: 0.999997
+Output: -0.999997
+Error: True
+
+Iteration: 175
+
+Training Set: 1
+Weight1: -0.999997
+Weight2: -0.999997
+Weight3: 1.99999
+Weight4: 0.999997
+Output: 0.999997
+Error: True
+
+
+Training Set: 2
+Weight1: -0.999997
+Weight2: -0.999997
+Weight3: 1.99999
+Weight4: 0.999997
+Output: 0.999997
+Error: True
+
+
+Training Set: 3
+Weight1: -0.999997
+Weight2: -0.999997
+Weight3: 1.99999
+Weight4: 0.999997
+Output: -0.999996
+Error: True
+
+
+Training Set: 4
+Weight1: -0.999997
+Weight2: -0.999997
+Weight3: 1.99999
+Weight4: 0.999997
+Output: -0.999997
+Error: True
+
+Iteration: 176
+
+Training Set: 1
+Weight1: -0.999997
+Weight2: -0.999997
+Weight3: 1.99999
+Weight4: 0.999997
+Output: 0.999997
+Error: True
+
+
+Training Set: 2
+Weight1: -0.999997
+Weight2: -0.999997
+Weight3: 1.99999
+Weight4: 0.999997
+Output: 0.999997
+Error: True
+
+
+Training Set: 3
+Weight1: -0.999997
+Weight2: -0.999997
+Weight3: 2
+Weight4: 0.999997
+Output: -0.999996
+Error: True
+
+
+Training Set: 4
+Weight1: -0.999997
+Weight2: -0.999998
+Weight3: 1.99999
+Weight4: 0.999998
+Output: -0.999997
+Error: True
+
+Iteration: 177
+
+Training Set: 1
+Weight1: -0.999998
+Weight2: -0.999997
+Weight3: 2
+Weight4: 0.999997
+Output: 0.999998
+Error: True
+
+
+Training Set: 2
+Weight1: -0.999997
+Weight2: -0.999998
+Weight3: 2
+Weight4: 0.999997
+Output: 0.999998
+Error: True
+
+
+Training Set: 3
+Weight1: -0.999997
+Weight2: -0.999997
+Weight3: 2
+Weight4: 0.999997
+Output: -0.999996
+Error: True
+
+
+Training Set: 4
+Weight1: -0.999997
+Weight2: -0.999998
+Weight3: 2
+Weight4: 0.999998
+Output: -0.999997
+Error: True
+
+Iteration: 178
+
+Training Set: 1
+Weight1: -0.999998
+Weight2: -0.999997
+Weight3: 2
+Weight4: 0.999997
+Output: 0.999998
+Error: True
+
+
+Training Set: 2
+Weight1: -0.999998
+Weight2: -0.999998
+Weight3: 2
+Weight4: 0.999997
+Output: 0.999998
+Error: True
+
+
+Training Set: 3
+Weight1: -0.999997
+Weight2: -0.999997
+Weight3: 2
+Weight4: 0.999997
+Output: -0.999996
+Error: True
+
+
+Training Set: 4
+Weight1: -0.999998
+Weight2: -0.999998
+Weight3: 2
+Weight4: 0.999998
+Output: -0.999998
+Error: True
+
+Iteration: 179
+
+Training Set: 1
+Weight1: -0.999998
+Weight2: -0.999997
+Weight3: 2
+Weight4: 0.999997
+Output: 0.999998
+Error: True
+
+
+Training Set: 2
+Weight1: -0.999998
+Weight2: -0.999998
+Weight3: 2
+Weight4: 0.999997
+Output: 0.999998
+Error: True
+
+
+Training Set: 3
+Weight1: -0.999998
+Weight2: -0.999997
+Weight3: 2
+Weight4: 0.999997
+Output: -0.999996
+Error: True
+
+
+Training Set: 4
+Weight1: -0.999998
+Weight2: -0.999998
+Weight3: 2
+Weight4: 0.999998
+Output: -0.999999
+Error: True
+
+Iteration: 180
+
+Training Set: 1
+Weight1: -0.999998
+Weight2: -0.999998
+Weight3: 2
+Weight4: 0.999998
+Output: 0.999998
+Error: True
+
+
+Training Set: 2
+Weight1: -0.999998
+Weight2: -0.999998
+Weight3: 2
+Weight4: 0.999998
+Output: 0.999998
+Error: True
+
+
+Training Set: 3
+Weight1: -0.999998
+Weight2: -0.999998
+Weight3: 2
+Weight4: 0.999998
+Output: -0.999996
+Error: True
+
+
+Training Set: 4
+Weight1: -0.999998
+Weight2: -0.999998
+Weight3: 2
+Weight4: 0.999998
+Output: -0.999999
+Error: True
+
+Iteration: 181
+
+Training Set: 1
+Weight1: -0.999999
+Weight2: -0.999998
+Weight3: 2
+Weight4: 0.999998
+Output: 0.999998
+Error: True
+
+
+Training Set: 2
+Weight1: -0.999998
+Weight2: -0.999998
+Weight3: 2
+Weight4: 0.999998
+Output: 0.999998
+Error: True
+
+
+Training Set: 3
+Weight1: -0.999998
+Weight2: -0.999998
+Weight3: 2
+Weight4: 0.999998
+Output: -0.999997
+Error: True
+
+
+Training Set: 4
+Weight1: -0.999999
+Weight2: -0.999998
+Weight3: 2
+Weight4: 0.999998
+Output: -0.999999
+Error: True
+
+Iteration: 182
+
+Training Set: 1
+Weight1: -0.999999
+Weight2: -0.999998
+Weight3: 2
+Weight4: 0.999998
+Output: 0.999998
+Error: True
+
+
+Training Set: 2
+Weight1: -0.999999
+Weight2: -0.999999
+Weight3: 2
+Weight4: 0.999998
+Output: 0.999998
+Error: True
+
+
+Training Set: 3
+Weight1: -0.999998
+Weight2: -0.999998
+Weight3: 2
+Weight4: 0.999998
+Output: -0.999998
+Error: True
+
+
+Training Set: 4
+Weight1: -0.999999
+Weight2: -0.999999
+Weight3: 2
+Weight4: 0.999999
+Output: -0.999999
+Error: True
+
+Iteration: 183
+
+Training Set: 1
+Weight1: -0.999999
+Weight2: -0.999999
+Weight3: 2
+Weight4: 0.999999
+Output: 0.999999
+Error: True
+
+
+Training Set: 2
+Weight1: -0.999999
+Weight2: -0.999999
+Weight3: 2
+Weight4: 0.999998
+Output: 0.999999
+Error: True
+
+
+Training Set: 3
+Weight1: -0.999998
+Weight2: -0.999999
+Weight3: 2
+Weight4: 0.999999
+Output: -0.999998
+Error: True
+
+
+Training Set: 4
+Weight1: -0.999999
+Weight2: -0.999999
+Weight3: 2
+Weight4: 0.999999
+Output: -0.999999
+Error: True
+
+Iteration: 184
+
+Training Set: 1
+Weight1: -0.999999
+Weight2: -0.999999
+Weight3: 2
+Weight4: 0.999999
+Output: 0.999999
+Error: True
+
+
+Training Set: 2
+Weight1: -0.999999
+Weight2: -0.999999
+Weight3: 2
+Weight4: 0.999998
+Output: 0.999999
+Error: True
+
+
+Training Set: 3
+Weight1: -0.999998
+Weight2: -0.999999
+Weight3: 2
+Weight4: 0.999999
+Output: -0.999998
+Error: True
+
+
+Training Set: 4
+Weight1: -0.999999
+Weight2: -0.999999
+Weight3: 2
+Weight4: 0.999999
+Output: -0.999999
+Error: True
+
+Iteration: 185
+
+Training Set: 1
+Weight1: -0.999999
+Weight2: -0.999999
+Weight3: 2
+Weight4: 0.999999
+Output: 0.999999
+Error: True
+
+
+Training Set: 2
+Weight1: -0.999999
+Weight2: -0.999999
+Weight3: 2
+Weight4: 0.999999
+Output: 0.999999
+Error: True
+
+
+Training Set: 3
+Weight1: -0.999999
+Weight2: -0.999999
+Weight3: 2
+Weight4: 0.999999
+Output: -0.999998
+Error: True
+
+
+Training Set: 4
+Weight1: -0.999999
+Weight2: -0.999999
+Weight3: 2
+Weight4: 0.999999
+Output: -0.999999
+Error: True
+
+Iteration: 186
+
+Training Set: 1
+Weight1: -0.999999
+Weight2: -0.999999
+Weight3: 2
+Weight4: 0.999999
+Output: 0.999999
+Error: True
+
+
+Training Set: 2
+Weight1: -0.999999
+Weight2: -0.999999
+Weight3: 2
+Weight4: 0.999999
+Output: 0.999999
+Error: True
+
+
+Training Set: 3
+Weight1: -0.999999
+Weight2: -0.999999
+Weight3: 2
+Weight4: 0.999999
+Output: -0.999998
+Error: True
+
+
+Training Set: 4
+Weight1: -0.999999
+Weight2: -0.999999
+Weight3: 2
+Weight4: 0.999999
+Output: -0.999999
+Error: True
+
+Iteration: 187
+
+Training Set: 1
+Weight1: -0.999999
+Weight2: -0.999999
+Weight3: 2
+Weight4: 0.999999
+Output: 0.999999
+Error: True
+
+
+Training Set: 2
+Weight1: -0.999999
+Weight2: -0.999999
+Weight3: 2
+Weight4: 0.999999
+Output: 0.999999
+Error: True
+
+
+Training Set: 3
+Weight1: -0.999999
+Weight2: -0.999999
+Weight3: 2
+Weight4: 0.999999
+Output: -0.999998
+Error: True
+
+
+Training Set: 4
+Weight1: -0.999999
+Weight2: -0.999999
+Weight3: 2
+Weight4: 0.999999
+Output: -0.999999
+Error: True
+
+Iteration: 188
+
+Training Set: 1
+Weight1: -0.999999
+Weight2: -0.999999
+Weight3: 2
+Weight4: 0.999999
+Output: 0.999999
+Error: True
+
+
+Training Set: 2
+Weight1: -0.999999
+Weight2: -0.999999
+Weight3: 2
+Weight4: 0.999999
+Output: 0.999999
+Error: True
+
+
+Training Set: 3
+Weight1: -0.999999
+Weight2: -0.999999
+Weight3: 2
+Weight4: 0.999999
+Output: -0.999998
+Error: True
+
+
+Training Set: 4
+Weight1: -0.999999
+Weight2: -0.999999
+Weight3: 2
+Weight4: 0.999999
+Output: -0.999999
+Error: True
+
+Iteration: 189
+
+Training Set: 1
+Weight1: -0.999999
+Weight2: -0.999999
+Weight3: 2
+Weight4: 0.999999
+Output: 0.999999
+Error: True
+
+
+Training Set: 2
+Weight1: -0.999999
+Weight2: -0.999999
+Weight3: 2
+Weight4: 0.999999
+Output: 0.999999
+Error: True
+
+
+Training Set: 3
+Weight1: -0.999999
+Weight2: -0.999999
+Weight3: 2
+Weight4: 0.999999
+Output: -0.999998
+Error: True
+
+
+Training Set: 4
+Weight1: -0.999999
+Weight2: -0.999999
+Weight3: 2
+Weight4: 0.999999
+Output: -0.999999
+Error: True
+
+Iteration: 190
+
+Training Set: 1
+Weight1: -0.999999
+Weight2: -0.999999
+Weight3: 2
+Weight4: 0.999999
+Output: 0.999999
+Error: True
+
+
+Training Set: 2
+Weight1: -0.999999
+Weight2: -0.999999
+Weight3: 2
+Weight4: 0.999999
+Output: 0.999999
+Error: True
+
+
+Training Set: 3
+Weight1: -0.999999
+Weight2: -0.999999
+Weight3: 2
+Weight4: 0.999999
+Output: -0.999998
+Error: True
+
+
+Training Set: 4
+Weight1: -0.999999
+Weight2: -0.999999
+Weight3: 2
+Weight4: 0.999999
+Output: -0.999999
+Error: True
+
+Iteration: 191
+
+Training Set: 1
+Weight1: -0.999999
+Weight2: -0.999999
+Weight3: 2
+Weight4: 0.999999
+Output: 0.999999
+Error: True
+
+
+Training Set: 2
+Weight1: -0.999999
+Weight2: -0.999999
+Weight3: 2
+Weight4: 0.999999
+Output: 0.999999
+Error: True
+
+
+Training Set: 3
+Weight1: -0.999999
+Weight2: -0.999999
+Weight3: 2
+Weight4: 0.999999
+Output: -0.999998
+Error: True
+
+
+Training Set: 4
+Weight1: -0.999999
+Weight2: -0.999999
+Weight3: 2
+Weight4: 0.999999
+Output: -0.999999
+Error: True
+
+Iteration: 192
+
+Training Set: 1
+Weight1: -0.999999
+Weight2: -0.999999
+Weight3: 2
+Weight4: 0.999999
+Output: 0.999999
+Error: True
+
+
+Training Set: 2
+Weight1: -0.999999
+Weight2: -0.999999
+Weight3: 2
+Weight4: 0.999999
+Output: 0.999999
+Error: True
+
+
+Training Set: 3
+Weight1: -0.999999
+Weight2: -0.999999
+Weight3: 2
+Weight4: 0.999999
+Output: -0.999998
+Error: True
+
+
+Training Set: 4
+Weight1: -0.999999
+Weight2: -0.999999
+Weight3: 2
+Weight4: 0.999999
+Output: -0.999999
+Error: True
+
+Iteration: 193
+
+Training Set: 1
+Weight1: -0.999999
+Weight2: -0.999999
+Weight3: 2
+Weight4: 0.999999
+Output: 0.999999
+Error: True
+
+
+Training Set: 2
+Weight1: -0.999999
+Weight2: -0.999999
+Weight3: 2
+Weight4: 0.999999
+Output: 0.999999
+Error: True
+
+
+Training Set: 3
+Weight1: -0.999999
+Weight2: -0.999999
+Weight3: 2
+Weight4: 0.999999
+Output: -0.999998
+Error: True
+
+
+Training Set: 4
+Weight1: -0.999999
+Weight2: -0.999999
+Weight3: 2
+Weight4: 0.999999
+Output: -0.999999
+Error: True
+
+Iteration: 194
+
+Training Set: 1
+Weight1: -0.999999
+Weight2: -0.999999
+Weight3: 2
+Weight4: 0.999999
+Output: 1
+Error: False
+
+
+Training Set: 2
+Weight1: -0.999999
+Weight2: -0.999999
+Weight3: 2
+Weight4: 0.999999
+Output: 1
+Error: False
+
+
+Training Set: 3
+Weight1: -0.999999
+Weight2: -0.999999
+Weight3: 2
+Weight4: 0.999999
+Output: -0.999999
+Error: True
+
+
+Training Set: 4
+Weight1: -0.999999
+Weight2: -0.999999
+Weight3: 2
+Weight4: 0.999999
+Output: -0.999999
+Error: True
+
+Iteration: 195
+
+Training Set: 1
+Weight1: -1
+Weight2: -0.999999
+Weight3: 2
+Weight4: 0.999999
+Output: 0.999999
+Error: True
+
+
+Training Set: 2
+Weight1: -1
+Weight2: -0.999999
+Weight3: 2
+Weight4: 0.999999
+Output: 0.999999
+Error: True
+
+
+Training Set: 3
+Weight1: -1
+Weight2: -0.999999
+Weight3: 2
+Weight4: 0.999999
+Output: -0.999999
+Error: True
+
+
+Training Set: 4
+Weight1: -1
+Weight2: -0.999999
+Weight3: 2
+Weight4: 0.999999
+Output: -1
+Error: False
+
+Iteration: 196
+
+Training Set: 1
+Weight1: -1
+Weight2: -0.999999
+Weight3: 2
+Weight4: 0.999999
+Output: 0.999999
+Error: True
+
+
+Training Set: 2
+Weight1: -1
+Weight2: -0.999999
+Weight3: 2
+Weight4: 0.999999
+Output: 0.999999
+Error: True
+
+
+Training Set: 3
+Weight1: -0.999999
+Weight2: -0.999999
+Weight3: 2
+Weight4: 0.999999
+Output: -0.999999
+Error: True
+
+
+Training Set: 4
+Weight1: -1
+Weight2: -0.999999
+Weight3: 2
+Weight4: 0.999999
+Output: -0.999999
+Error: True
+
+Iteration: 197
+
+Training Set: 1
+Weight1: -1
+Weight2: -0.999999
+Weight3: 2
+Weight4: 0.999999
+Output: 0.999999
+Error: True
+
+
+Training Set: 2
+Weight1: -0.999999
+Weight2: -1
+Weight3: 2
+Weight4: 0.999999
+Output: 0.999999
+Error: True
+
+
+Training Set: 3
+Weight1: -0.999999
+Weight2: -0.999999
+Weight3: 2
+Weight4: 0.999999
+Output: -0.999999
+Error: True
+
+
+Training Set: 4
+Weight1: -0.999999
+Weight2: -1
+Weight3: 2
+Weight4: 1
+Output: -0.999999
+Error: True
+
+Iteration: 198
+
+Training Set: 1
+Weight1: -1
+Weight2: -0.999999
+Weight3: 2
+Weight4: 0.999999
+Output: 0.999999
+Error: True
+
+
+Training Set: 2
+Weight1: -0.999999
+Weight2: -1
+Weight3: 2
+Weight4: 0.999999
+Output: 0.999999
+Error: True
+
+
+Training Set: 3
+Weight1: -0.999999
+Weight2: -0.999999
+Weight3: 2
+Weight4: 0.999999
+Output: -0.999999
+Error: True
+
+
+Training Set: 4
+Weight1: -0.999999
+Weight2: -1
+Weight3: 2
+Weight4: 1
+Output: -0.999999
+Error: True
+
+Iteration: 199
+
+Training Set: 1
+Weight1: -1
+Weight2: -0.999999
+Weight3: 2
+Weight4: 0.999999
+Output: 1
+Error: False
+
+
+Training Set: 2
+Weight1: -1
+Weight2: -0.999999
+Weight3: 2
+Weight4: 0.999999
+Output: 1
+Error: False
+
+
+Training Set: 3
+Weight1: -1
+Weight2: -0.999999
+Weight3: 2
+Weight4: 0.999999
+Output: -0.999999
+Error: True
+
+
+Training Set: 4
+Weight1: -1
+Weight2: -1
+Weight3: 2
+Weight4: 1
+Output: -1
+Error: False
+
+Iteration: 200
+
+Training Set: 1
+Weight1: -1
+Weight2: -1
+Weight3: 2
+Weight4: 1
+Output: 0.999999
+Error: True
+
+
+Training Set: 2
+Weight1: -1
+Weight2: -1
+Weight3: 2
+Weight4: 1
+Output: 0.999999
+Error: True
+
+
+Training Set: 3
+Weight1: -1
+Weight2: -1
+Weight3: 2
+Weight4: 1
+Output: -1
+Error: False
+
+
+Training Set: 4
+Weight1: -1
+Weight2: -1
+Weight3: 2
+Weight4: 1
+Output: -1
+Error: False
+
+Iteration: 201
+
+Training Set: 1
+Weight1: -1
+Weight2: -1
+Weight3: 2
+Weight4: 1
+Output: 0.999999
+Error: True
+
+
+Training Set: 2
+Weight1: -1
+Weight2: -1
+Weight3: 2
+Weight4: 0.999999
+Output: 0.999999
+Error: True
+
+
+Training Set: 3
+Weight1: -0.999999
+Weight2: -1
+Weight3: 2
+Weight4: 1
+Output: -0.999999
+Error: True
+
+
+Training Set: 4
+Weight1: -0.999999
+Weight2: -1
+Weight3: 2
+Weight4: 1
+Output: -1
+Error: False
+
+Iteration: 202
+
+Training Set: 1
+Weight1: -0.999999
+Weight2: -1
+Weight3: 2
+Weight4: 1
+Output: 1
+Error: False
+
+
+Training Set: 2
+Weight1: -0.999999
+Weight2: -1
+Weight3: 2
+Weight4: 1
+Output: 1
+Error: False
+
+
+Training Set: 3
+Weight1: -0.999999
+Weight2: -1
+Weight3: 2
+Weight4: 1
+Output: -0.999999
+Error: True
+
+
+Training Set: 4
+Weight1: -1
+Weight2: -1
+Weight3: 2
+Weight4: 1
+Output: -0.999999
+Error: True
+
+Iteration: 203
+
+Training Set: 1
+Weight1: -1
+Weight2: -1
+Weight3: 2
+Weight4: 1
+Output: 1
+Error: False
+
+
+Training Set: 2
+Weight1: -1
+Weight2: -1
+Weight3: 2
+Weight4: 1
+Output: 1
+Error: False
+
+
+Training Set: 3
+Weight1: -1
+Weight2: -1
+Weight3: 2
+Weight4: 1
+Output: -1
+Error: False
+
+
+Training Set: 4
+Weight1: -1
+Weight2: -1
+Weight3: 2
+Weight4: 1
+Output: -0.999999
+Error: True
+
+Iteration: 204
+
+Training Set: 1
+Weight1: -1
+Weight2: -1
+Weight3: 2
+Weight4: 1
+Output: 1
+Error: False
+
+
+Training Set: 2
+Weight1: -1
+Weight2: -1
+Weight3: 2
+Weight4: 1
+Output: 1
+Error: False
+
+
+Training Set: 3
+Weight1: -1
+Weight2: -1
+Weight3: 2
+Weight4: 1
+Output: -1
+Error: False
+
+
+Training Set: 4
+Weight1: -1
+Weight2: -1
+Weight3: 2
+Weight4: 1
+Output: -1
+Error: False
+
+Algorithm took 204 iterations
