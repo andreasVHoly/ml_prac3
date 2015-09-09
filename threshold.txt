@@ -1,0 +1,223 @@
+Iteration: 1
+
+Training Set: 1
+Weight1: 0
+Weight2: 0
+Weight3: 0
+Weight4: 0
+Output: -1
+Error: True
+
+
+Training Set: 2
+Weight1: 0.1
+Weight2: -0.1
+Weight3: 0.1
+Weight4: -0.1
+Output: -1
+Error: True
+
+
+Training Set: 3
+Weight1: 0.2
+Weight2: 0
+Weight3: 0.2
+Weight4: 0
+Output: 1
+Error: True
+
+
+Training Set: 4
+Weight1: 0.1
+Weight2: -0.1
+Weight3: 0.1
+Weight4: 0.1
+Output: 1
+Error: True
+
+Iteration: 2
+
+Training Set: 1
+Weight1: 0
+Weight2: 0
+Weight3: 0.2
+Weight4: 0
+Output: 1
+Error: False
+
+
+Training Set: 2
+Weight1: 0
+Weight2: 0
+Weight3: 0.2
+Weight4: 0
+Output: 1
+Error: False
+
+
+Training Set: 3
+Weight1: 0
+Weight2: 0
+Weight3: 0.2
+Weight4: 0
+Output: 1
+Error: True
+
+
+Training Set: 4
+Weight1: -0.2
+Weight2: -0.2
+Weight3: 0
+Weight4: 0.2
+Output: 1
+Error: True
+
+Iteration: 3
+
+Training Set: 1
+Weight1: -0.4
+Weight2: 0
+Weight3: 0.2
+Weight4: 0
+Output: -1
+Error: True
+
+
+Training Set: 2
+Weight1: -0.4
+Weight2: 0
+Weight3: 0.2
+Weight4: 0
+Output: -1
+Error: True
+
+
+Training Set: 3
+Weight1: -0.4
+Weight2: 0
+Weight3: 0.2
+Weight4: 0
+Output: -1
+Error: False
+
+
+Training Set: 4
+Weight1: -0.4
+Weight2: 0
+Weight3: 0.2
+Weight4: 0
+Output: -1
+Error: False
+
+Iteration: 4
+
+Training Set: 1
+Weight1: -0.4
+Weight2: 0
+Weight3: 0.2
+Weight4: 0
+Output: -1
+Error: True
+
+
+Training Set: 2
+Weight1: -0.2
+Weight2: -0.2
+Weight3: 0.4
+Weight4: -0.2
+Output: -1
+Error: True
+
+
+Training Set: 3
+Weight1: 0
+Weight2: 0
+Weight3: 0.6
+Weight4: 0
+Output: 1
+Error: True
+
+
+Training Set: 4
+Weight1: 0
+Weight2: 0
+Weight3: 0.6
+Weight4: 0
+Output: -1
+Error: False
+
+Iteration: 5
+
+Training Set: 1
+Weight1: 0
+Weight2: 0
+Weight3: 0.6
+Weight4: 0
+Output: 1
+Error: False
+
+
+Training Set: 2
+Weight1: 0
+Weight2: 0
+Weight3: 0.6
+Weight4: 0
+Output: 1
+Error: False
+
+
+Training Set: 3
+Weight1: 0
+Weight2: 0
+Weight3: 0.6
+Weight4: 0
+Output: 1
+Error: True
+
+
+Training Set: 4
+Weight1: -0.2
+Weight2: -0.2
+Weight3: 0.4
+Weight4: 0.2
+Output: -1
+Error: False
+
+Iteration: 6
+
+Training Set: 1
+Weight1: -0.2
+Weight2: -0.2
+Weight3: 0.4
+Weight4: 0.2
+Output: 1
+Error: False
+
+
+Training Set: 2
+Weight1: -0.2
+Weight2: -0.2
+Weight3: 0.4
+Weight4: 0.2
+Output: 1
+Error: False
+
+
+Training Set: 3
+Weight1: -0.2
+Weight2: -0.2
+Weight3: 0.4
+Weight4: 0.2
+Output: -1
+Error: False
+
+
+Training Set: 4
+Weight1: -0.2
+Weight2: -0.2
+Weight3: 0.4
+Weight4: 0.2
+Output: -1
+Error: False
+
+Algorithm took 6 iterations
