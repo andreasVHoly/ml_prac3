@@ -39,7 +39,10 @@ void PercepNetwork::runAlgorithm(float learningRate, bool threshold){
     while(true){
         //loop through all the sets
         cout << endl << "***Iteration " << iteration << endl << endl;
+        outFile << "Iteration: " << iteration << '\n';
+
         for (int i = 0; i < noOfSets; i++){
+            outFile << "\nTraining Set: " << (i+1) << '\n';
             //assign the previous output
             perceptron.setOutput(results[i]);
             //assign the correct target
@@ -48,6 +51,10 @@ void PercepNetwork::runAlgorithm(float learningRate, bool threshold){
             perceptron.setInputs(testSet.sets[i].input1,testSet.sets[i].input2,testSet.sets[i].input3,testSet.sets[i].input4);       
             //assign the weights
             perceptron.setWeights(weight0,weight1,weight2,weight3,weight4);//315/6
+            outFile << "Weight1: " << weight1 << "\n";
+            outFile << "Weight2: " << weight2 << "\n";
+            outFile << "Weight3: " << weight3 << "\n";
+            outFile << "Weight4: " << weight4 << "\n";
             //we check what result we got
 
             //if we are using the threshold function
@@ -64,12 +71,18 @@ void PercepNetwork::runAlgorithm(float learningRate, bool threshold){
                 //we round the value off at 6 decimal places
                 results[i] = roundf(perceptron.getResult()*1000000)/1000000;
             }
+            outFile << "Output: " << results[i] << "\n";
+
             //if the result is not right we recalculate the weights
             if (results[i] != testSet.sets[i].output){
                 weight1 = perceptron.recalculateWeight1();
                 weight2 = perceptron.recalculateWeight2();
                 weight3 = perceptron.recalculateWeight3();
                 weight4 = perceptron.recalculateWeight4();
+                outFile << "Error: True\n\n";
+            }
+            else{
+                outFile << "Error: False\n\n";
             }
 
 
@@ -99,6 +112,7 @@ void PercepNetwork::runAlgorithm(float learningRate, bool threshold){
         //break out of the while loop if we have all sets correct
         if (error == 0){
             cout << "\nAlgorithm took " << iteration << " iterations." << endl;
+            outFile << "Algorithm took " << iteration << " iterations\n";
             break;
         }
 	
@@ -106,6 +120,7 @@ void PercepNetwork::runAlgorithm(float learningRate, bool threshold){
 
     }
     cout << endl;
+    outFile.close();
 }
 
 

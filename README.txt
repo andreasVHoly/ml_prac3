@@ -20,7 +20,8 @@ Answers to Questions:
 
 Q1:
 
-It took 204 iteration to reach and error of 0.
+It took 204 iteration to reach and error of 0 on the Ubuntu lab machines.
+It took 207 iteration to reach and error of 0 on my Windows laptop.
 
 Q2:
 
