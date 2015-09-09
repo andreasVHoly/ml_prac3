@@ -28,6 +28,12 @@ Q2:
 The alogirhtm took 6 iterations with a threshold function to reach and error of 0. 
 It is achieved in less iterations as we come closer to the desired values faster as we automatically round values at each step to 1 or -1.
 
+
+Output files:
+
+The output files will be located in the same directory where the program is run. It creates an output file (threshold.txt or linear.txt) each time the algorithm is run with the results. Default ones have been provided which come where made from running the program.
+
+
 Instructions:
 
 1. In command window go to the directory with the files in.
